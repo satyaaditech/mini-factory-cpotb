@@ -23,6 +23,8 @@ Menyediakan fasilitas bagi UMKM bidang rempah untuk:
 - ✅ Mengolah simplisia menjadi produk herbal terstandar BPOM
 - ✅ Produksi serbuk herbal siap seduh (seperti Herbadrink)
 - ✅ Produksi serbuk simplisia (perlu direbus)
+- ✅ **Produksi kapsul herbal** (NEW)
+- ✅ **Produksi ekstrak herbal** (NEW)
 - ✅ Pengemasan produk siap jual
 - ✅ Mendapatkan pelatihan bersertifikat BNSP
 - ✅ Akses ke fasilitas produksi berstandar GMP/CPOTB
@@ -101,15 +103,17 @@ Berdasarkan riset pasar mesin grinding/penepung herbal di Indonesia:
 
 ### Alur Produksi & Estimasi Waktu
 
+#### Jalur 1: Produksi Serbuk Herbal
+
 ```mermaid
 graph LR
     A[Simplisia Kering] -->|30 min| B[Pencucian]
     B -->|4-6 jam| C[Pengeringan]
     C -->|1 jam| D[Grinding/Penepungan]
     D -->|30 min| E[Mixing & Formulasi]
-    E -->|1 jam| F[Filling & Packaging]
+    E -->|1 jam| F[Filling Sachet]
     F -->|30 min| G[QC & Labeling]
-    G --> H[Produk Jadi]
+    G --> H[Serbuk Herbal Siap Jual]
     
     style C fill:#ffcccc
     style D fill:#ccffcc
@@ -117,6 +121,57 @@ graph LR
 ```
 
 **Total waktu produksi:** 8-10 jam (1 hari kerja untuk batch 50 kg)
+
+#### Jalur 2: Produksi Kapsul Herbal (NEW)
+
+```mermaid
+graph LR
+    A[Simplisia Kering] -->|30 min| B[Pencucian]
+    B -->|4-6 jam| C[Pengeringan]
+    C -->|1 jam| D[Grinding Halus]
+    D -->|30 min| E[Mixing & Formulasi]
+    E -->|2-3 jam| F[Capsule Filling]
+    F -->|30 min| G[QC & Packaging]
+    G --> H[Kapsul Herbal Siap Jual]
+    
+    style C fill:#ffcccc
+    style D fill:#ccffcc
+    style F fill:#ffffcc
+```
+
+**Total waktu produksi:** 9-12 jam (1 hari kerja untuk 10.000-20.000 kapsul)
+
+**Kapasitas:**
+- Mesin semi-auto: 10.000-12.000 kapsul/jam
+- Target produksi: 80.000 kapsul/hari (8 jam operasional)
+- Equivalent: ~40 kg serbuk → 80.000 kapsul (asumsi 500mg/kapsul)
+
+#### Jalur 3: Produksi Ekstrak Herbal (NEW)
+
+```mermaid
+graph LR
+    A[Simplisia Kering] -->|30 min| B[Pencucian]
+    B -->|2-3 jam| C[Perajangan]
+    C -->|6-8 jam| D[Ekstraksi]
+    D -->|2-3 jam| E[Filtrasi & Konsentrasi]
+    E -->|4-6 jam| F[Pengeringan Ekstrak]
+    F -->|30 min| G[QC & Packaging]
+    G --> H[Ekstrak Herbal]
+    
+    style D fill:#ffcccc
+    style E fill:#ccffcc
+    style F fill:#ccccff
+```
+
+**Total waktu produksi:** 16-24 jam (2 hari kerja untuk 200 liter ekstrak)
+
+**Kapasitas:**
+- Mesin ekstraksi: 200 liter/batch
+- Yield ekstrak: 20-30% dari bahan baku
+- Input: 50 kg simplisia → Output: 10-15 kg ekstrak kering
+
+> [!NOTE]
+> Ketiga jalur produksi dapat berjalan paralel dengan scheduling yang baik, memaksimalkan utilisasi fasilitas.
 
 ---
 
@@ -168,9 +223,12 @@ graph LR
   - 2 × (25 peserta × Rp 2.250.000) = Rp 112,5 juta
 - **Total: Rp 202,5 juta/bulan** (terlalu optimis)
 
-**Proyeksi Realistis (Tahun Pertama):**
-- 2 workshop/bulan × 25 peserta × Rp 2.000.000 = **Rp 100 juta/bulan**
-- **Annual: Rp 1,2 miliar/tahun**
+**Proyeksi Realistis (Tahun Pertama - REVISED):**
+- 1 workshop/bulan × 20 peserta × Rp 1.500.000 = **Rp 30 juta/bulan**
+- **Annual: Rp 360 juta/tahun**
+
+> [!IMPORTANT]
+> Proyeksi ini lebih konservatif dan realistis untuk tahun pertama. Brand awareness butuh waktu. Target Rp 1,2 miliar lebih realistis untuk tahun ke-2.
 
 ### 3. Wellness Tourism
 
@@ -189,15 +247,18 @@ graph LR
 | **Herbal Masterclass** | Full day | Rp 750.000 | Pelatihan mendalam + sertifikat + lunch |
 | **Family Herbal Fun** | 3 jam | Rp 500.000 (4 pax) | Aktivitas keluarga + kids workshop |
 
-**Proyeksi Revenue dari Tourism:**
-- Target konservatif: 200 pax/bulan (10 pax/hari kerja)
-- Mix: 50% Journey + 30% Workshop + 20% Masterclass
+**Proyeksi Revenue dari Tourism (REVISED):**
+- Target konservatif tahun 1: 50 pax/bulan (2-3 pax/hari kerja)
+- Mix: 60% Journey + 30% Workshop + 10% Masterclass
 - Revenue:
-  - 100 × Rp 150.000 = Rp 15 juta
-  - 60 × Rp 350.000 = Rp 21 juta
-  - 40 × Rp 750.000 = Rp 30 juta
-- **Total: Rp 66 juta/bulan**
-- **Annual: Rp 792 juta/tahun**
+  - 30 × Rp 150.000 = Rp 4,5 juta
+  - 15 × Rp 350.000 = Rp 5,25 juta
+  - 5 × Rp 750.000 = Rp 3,75 juta
+- **Total: Rp 12,5 juta/bulan**
+- **Annual: Rp 150 juta/tahun**
+
+> [!IMPORTANT]
+> Proyeksi ini lebih realistis untuk tahun pertama. Butuh kolaborasi hotel/travel agent yang established. Target 200 pax/bulan lebih realistis untuk tahun ke-3.
 
 ### 4. Penjualan Produk Retail
 
@@ -208,18 +269,24 @@ graph LR
 - Buku/e-book resep herbal
 
 **Proyeksi Revenue:**
-- Rp 10 juta - Rp 20 juta/bulan
-- **Annual: Rp 120 juta - Rp 240 juta/tahun**
+- Rp 5 juta/bulan (tahun 1)
+- **Annual: Rp 60 juta/tahun**
 
-### Total Revenue Projection (Konservatif)
+### Total Revenue Projection (REVISED - Realistic)
 
 | Revenue Stream | Tahun 1 | Tahun 2 | Tahun 3 |
 |----------------|---------|---------|---------|
-| Toll Manufacturing | Rp 360 juta | Rp 480 juta | Rp 600 juta |
-| Pelatihan Bersertifikat | Rp 600 juta | Rp 900 juta | Rp 1,2 miliar |
-| Wellness Tourism | Rp 400 juta | Rp 600 juta | Rp 800 juta |
-| Retail | Rp 120 juta | Rp 180 juta | Rp 240 juta |
-| **TOTAL** | **Rp 1,48 miliar** | **Rp 2,16 miliar** | **Rp 2,84 miliar** |
+| Toll Manufacturing | Rp 300 juta | Rp 480 juta | Rp 600 juta |
+| Pelatihan Bersertifikat | Rp 360 juta | Rp 900 juta | Rp 1,2 miliar |
+| Wellness Tourism | Rp 150 juta | Rp 360 juta | Rp 840 juta |
+| Retail | Rp 60 juta | Rp 180 juta | Rp 240 juta |
+| **TOTAL** | **Rp 870 juta** | **Rp 1,92 miliar** | **Rp 2,88 miliar** |
+
+> [!WARNING]
+> **Proyeksi Original vs Revised:**
+> - Original Tahun 1: Rp 1,48 miliar (terlalu optimis)
+> - **Revised Tahun 1: Rp 870 juta** (realistis & achievable)
+> - Perbedaan utama: pelatihan & tourism butuh waktu untuk brand building
 
 ### Operational Cost Estimation
 
@@ -233,12 +300,17 @@ graph LR
 | Admin & Operasional | Rp 7 juta | Rp 84 juta |
 | **TOTAL** | **Rp 55 juta** | **Rp 660 juta** |
 
-**Net Profit (Tahun 1):** Rp 1,48 miliar - Rp 660 juta = **Rp 820 juta**
+**Net Profit (Tahun 1 - REVISED):** Rp 870 juta - Rp 660 juta = **Rp 210 juta**
 
-**ROI:** Rp 820 juta ÷ Rp 500 juta = **164% (payback < 1 tahun)**
+**ROI (REVISED):** Rp 210 juta ÷ Rp 500 juta = **42% (payback ~2,4 tahun)**
 
 > [!IMPORTANT]
-> Proyeksi ini sangat konservatif. Dengan marketing agresif dan kolaborasi strategis (hotel, travel agent, kampus), revenue bisa 2-3x lipat.
+> **Proyeksi Revised vs Original:**
+> - Original: ROI 164%, payback < 1 tahun (terlalu optimis)
+> - **Revised: ROI 42%, payback 2,4 tahun** (realistis untuk startup)
+> - Tahun 2-3: Profit akan meningkat signifikan setelah brand established
+> 
+> **Optimistic Scenario:** Dengan marketing agresif dan kolaborasi strategis yang berhasil, revenue tahun 1 bisa mencapai Rp 1,2-1,5 miliar (mendekati proyeksi original).
 
 ---
 
@@ -346,8 +418,10 @@ graph LR
 | **A. MESIN UTAMA** | | | | | |
 | 1 | Mesin Grinding/Penepung | 50-60 kg/jam, 3000W, SS304 | 1 | Rp 30 juta | Rp 30 juta | ⭐⭐⭐ |
 | 2 | Mesin Mixing Powder | Kapasitas 50 kg, SS304 | 1 | Rp 25 juta | Rp 25 juta | ⭐⭐⭐ |
-| 3 | Mesin Filling Sachet | Semi-auto, 5-10 gr/sachet | 1 | Rp 35 juta | Rp 35 juta | ⭐⭐⭐ |
-| 4 | Mesin Sealing Packaging | Continuous sealer | 1 | Rp 15 juta | Rp 15 juta | ⭐⭐⭐ |
+| 3 | Mesin Filling Sachet | Semi-auto, 5-10 gr/sachet | 1 | Rp 25 juta | Rp 25 juta | ⭐⭐⭐ |
+| 3a | **Mesin Kapsul Filling (NEW)** | **Semi-auto, 10.000-12.000 kapsul/jam** | **1** | **Rp 45 juta** | **Rp 45 juta** | **⭐⭐** |
+| 3b | **Mesin Ekstraksi Herbal (NEW)** | **200 liter/batch, SS304, auto temp control** | **1** | **Rp 40 juta** | **Rp 40 juta** | **⭐⭐** |
+| 4 | Mesin Sealing Packaging | Continuous sealer | 1 | Rp 10 juta | Rp 10 juta | ⭐⭐⭐ |
 | **B. PERALATAN QC & LAB** | | | | | |
 | 5 | Timbangan Analitik | 0,001 gr precision | 2 | Rp 5 juta | Rp 10 juta | ⭐⭐⭐ |
 | 6 | Moisture Analyzer | Digital, 0-100% | 1 | Rp 12 juta | Rp 12 juta | ⭐⭐ |
@@ -367,7 +441,7 @@ graph LR
 | 17 | Display Cabinet | Untuk retail & showcase | 2 | Rp 3 juta | Rp 6 juta | ⭐⭐ |
 | 18 | Counter Café | Mini bar + storage | 1 | Rp 5 juta | Rp 5 juta | ⭐ |
 | 19 | Signage & Wayfinding | Indoor & outdoor | 1 set | Rp 3 juta | Rp 3 juta | ⭐⭐ |
-| **TOTAL** | | | | | **Rp 201,75 juta** | |
+| **TOTAL** | | | | | **Rp 286,75 juta** | |
 
 **Catatan:**
 - ✅ Mesin pengering & pencuci sudah ada (hibah UEA) - TIDAK masuk budget
@@ -375,10 +449,20 @@ graph LR
 - ⭐⭐ = Important (bisa bertahap)
 - ⭐ = Nice to have (bisa ditunda)
 
+> [!WARNING]
+> **Budget Overrun:** Total equipment Rp 286,75 juta > Budget Rp 200 juta
+> 
+> **Solusi:**
+> 1. **Request additional Rp 85 juta** dari CSR Sido Muncul/BUMN untuk kapsul & ekstraksi
+> 2. **Phase approach:** Kapsul & ekstraksi di Phase 2 (tahun kedua) dari profit operasional
+> 3. **Reduce scope:** Pilih salah satu (kapsul OR ekstraksi) untuk tahun pertama
+> 
+> **Rekomendasi:** Gunakan strategi Phase 2 - fokus serbuk dulu (Rp 201,75 juta), tambah kapsul & ekstraksi di tahun ke-2.
+
 **Strategi Pengadaan:**
-1. **Phase 1 (Immediate):** Prioritas ⭐⭐⭐ = Rp 138,25 juta
-2. **Phase 2 (3-6 bulan):** Prioritas ⭐⭐ = Rp 53,5 juta
-3. **Phase 3 (6-12 bulan):** Prioritas ⭐ = Rp 10 juta
+1. **Phase 1 (Immediate - Tahun 1):** Prioritas ⭐⭐⭐ = Rp 138,25 juta (serbuk herbal)
+2. **Phase 2 (Tahun 2):** Prioritas ⭐⭐ = Rp 138,5 juta (kapsul & ekstraksi + supporting equipment)
+3. **Phase 3 (Tahun 2-3):** Prioritas ⭐ = Rp 10 juta (nice to have)
 
 ---
 
