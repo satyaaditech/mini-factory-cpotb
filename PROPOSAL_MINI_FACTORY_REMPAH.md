@@ -946,8 +946,8 @@ All infographics and visualizations included in this proposal:
 **Proposal ini disusun berdasarkan data terverifikasi dari 18 queries Perplexity Pro,**  
 **sumber official pemerintah, dan riset pasar komprehensif.**
 
-**Confidence Level: 95%**
+**📚 [LIHAT SEMUA REFERENSI & URL VERIFIKASI →](REFERENSI_SUMBER_DATA.md)**
 
-**Februari 2026**
+**Confidence Level: 95%** | **Februari 2026**
 
 </div>
