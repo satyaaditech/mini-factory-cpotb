@@ -31,7 +31,7 @@ Untuk memudahkan pemahaman, berikut penjelasan istilah-istilah teknis yang digun
 | **R&D** | Research & Development | Riset dan pengembangan produk baru |
 | **ROI** | Return on Investment | Pengembalian investasi—berapa persen keuntungan dari modal yang ditanam |
 | **CAGR** | Compound Annual Growth Rate | Tingkat pertumbuhan rata-rata per tahun |
-| **PAD** | Pendapatan Asli Daerah | Pendapatan pemerintah kota dari pajak, retribusi, dll |
+| **PAD** | Pendapatan Asli Daerah | Pendapatan pemerintah kota dari retribusi, usaha daerah, dll |
 | **SDG** | Sustainable Development Goals | Tujuan Pembangunan Berkelanjutan PBB |
 | **SDM** | Sumber Daya Manusia | Tenaga kerja terlatih |
 
@@ -82,7 +82,7 @@ Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI
 
 Bayangkan Solo seperti **tambang emas yang sudah ditemukan**: 4.4 juta wisatawan datang setiap tahun, pemerintah pusat sudah memberikan status pilot project nasional, dan event Wonderful Indonesia Wellness 2025 membuktikan bahwa UMKM bisa dapat transaksi Rp 8.5-9 miliar hanya dalam beberapa hari. Ini bukan lagi "potensi"—**ini adalah realitas yang sedang terjadi sekarang**. Namun, ada satu masalah besar: lebih dari 100 UMKM herbal Solo seperti **penambang tanpa alat**. Mereka melihat peluang emas (4.4 juta potential customers), punya resep tradisional yang bagus, dan semangat kewirausahaan—tetapi **tidak bisa capitalize** karena tidak memiliki fasilitas CPOTB untuk mendapatkan izin BPOM. Akibatnya, mereka hanya bisa jual di warung dan pasar tradisional, dengan revenue stuck di Rp 5-10 juta/bulan, sementara jutaan wisatawan lewat begitu saja.
 
-**Mini Factory adalah "alat bersama" yang akan unlock seluruh potensi ini.** Dengan akses ke fasilitas CPOTB, UMKM bisa mendapatkan izin BPOM dan naik kelas: dari pedagang informal menjadi entrepreneur bersertifikat, dari revenue Rp 5-10 juta/bulan menjadi Rp 15-40 juta/bulan, dari pasar lokal menjadi pasar nasional (4.4 juta tourists + e-commerce). Untuk Pemkot Solo, ini bukan sekadar investasi infrastruktur—**ini adalah investasi untuk memastikan Solo deliver hasil sebagai pilot project nasional**, meningkatkan PAD dari pajak UMKM yang naik kelas, dan memperkuat branding Solo sebagai "Indonesia's Wellness Manufacturing Hub". Dengan investasi Pemkot Rp 300 juta (60% dari total Rp 500M, sisanya CSR Rp 200M), Solo akan mendapatkan economic impact Rp 14.37 miliar di tahun pertama—**ROI 42% dan payback period hanya 2.4 tahun**. Ini adalah win-win-win solution: Pemkot dapat PAD, UMKM naik kelas, dan wisatawan mendapatkan produk herbal berkualitas tinggi.
+**Mini Factory adalah "alat bersama" yang akan unlock seluruh potensi ini.** Dengan akses ke fasilitas CPOTB, UMKM bisa mendapatkan izin BPOM dan naik kelas: dari pedagang informal menjadi entrepreneur bersertifikat, dari revenue Rp 5-10 juta/bulan menjadi Rp 15-40 juta/bulan, dari pasar lokal menjadi pasar nasional (4.4 juta tourists + e-commerce). Untuk Pemkot Solo, ini bukan sekadar investasi infrastruktur—**ini adalah investasi untuk memastikan Solo deliver hasil sebagai pilot project nasional**, meningkatkan pendapatan daerah dari UMKM yang naik kelas, dan memperkuat branding Solo sebagai "Indonesia's Wellness Manufacturing Hub". Dengan investasi Pemkot Rp 300 juta (60% dari total Rp 500M, sisanya CSR Rp 200M), Solo akan mendapatkan economic impact Rp 14.37 miliar di tahun pertama—**ROI 42% dan payback period hanya 2.4 tahun**. Ini adalah win-win-win solution: Pemkot dapat PAD, UMKM naik kelas, dan wisatawan mendapatkan produk herbal berkualitas tinggi.
 
 > **💡 INSIGHT KRITIS:**  
 > Solo memiliki **demand** (4.4 juta visitors), **supply** (100+ UMKM), dan **government backing** (pilot project status).  
@@ -623,7 +623,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 - ✅ **Scalable impact:** 100 UMKM vs individual mentoring (more efficient)
 - ✅ **Shared infrastructure:** Reduce duplication, maximize CSR ROI
 - ✅ **Brand alignment:** Support government pilot project (positive PR)
-- ✅ **Tax benefits:** CSR contributions dapat diklaim sebagai pengurang pajak
+- ✅ **Tax benefits:** CSR contributions dapat diklaim sebagai pengurang penghasilan kena pajak
 - ✅ **Long-term partnership:** Akses ke 100 UMKM untuk future collaboration
 
 > **💡 CATATAN:**  
@@ -795,7 +795,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 👥 **315+ jobs created** (15 direct + 300 indirect)
 
-📈 **PAD contribution** dari retribusi, pajak, dan tourism spending
+📈 **PAD contribution** dari retribusi, usaha daerah, dan tourism spending
 
 ---
 
