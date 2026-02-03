@@ -177,7 +177,7 @@ Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi semp
 
 > **💡 INSIGHT KRITIS:**  
 > Dengan **struktur pendanaan 60/40 (Pemkot Rp 300M + CSR Rp 200M)**, investasi terbagi secara realistis.  
-> **Government grants Rp 240-330M tetap bisa diakses sebagai bonus untuk operational support & Phase 2 expansion.**
+> **Government grants Rp 300-an juta (Rp 240-330M) tetap bisa diakses sebagai bonus untuk operational support & Phase 2 expansion.**
 
 ---
 
@@ -407,7 +407,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Direct PAD (Pendapatan Asli Daerah—pendapatan pemerintah kota) Contribution:**
 - **Retribusi fasilitas:** Rp 50-100 juta/tahun (dari toll manufacturing)
-- **Pajak UMKM:** 100 UMKM yang naik kelas = additional tax revenue
+- **Kontribusi Retribusi UMKM:** 100 UMKM yang naik kelas = additional local revenue
 - **Wellness tourism:** 3,000 visitors × Rp 50k = Rp 150 juta (portion to PAD)
 
 **Indirect PAD Contribution:**
@@ -741,7 +741,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 **1. Timing Sempurna:**
 - Solo Wellness City momentum sedang peak (4.4M visitors, WIW 2025 success)
-- Government support programs tersedia (Rp 200-400 juta)
+- Government support programs tersedia (**sekitar Rp 300 juta**)
 - UMKM demand tinggi (100+ UMKM waiting)
 
 **2. Low Risk, High Return:**
