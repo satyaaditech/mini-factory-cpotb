@@ -127,20 +127,35 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 ## 🏭 DESAIN FASILITAS
 
-### Tampak Luar
+### Tampak Luar - Front View
 
-![Facility Exterior](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_consistent_1770091610852.png)
+![Facility Exterior Front](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_front_1770092215160.png)
 
 **Konsep Arsitektur:**
-- Bangunan 2 lantai dengan footprint **rectangular 30m × 10m** (sesuai floor plan)
-- Perpaduan material kontemporer (kaca, baja, panel putih) dengan **elemen batik Jawa prominent** (motif parang & kawung dalam panel terracotta/gold)
-- **Atap joglo-style** dengan overhang tradisional Jawa
+- Bangunan **SINGLE-STORY (1 lantai)** dengan footprint **rectangular 30m × 10m** (100% sesuai floor plan)
+- Tinggi bangunan: 4-5 meter (single story)
+- Perpaduan material kontemporer (kaca, baja, panel putih) dengan **elemen batik Jawa prominent** (motif parang kusuma dalam panel terracotta/gold)
+- **Atap datar dengan joglo-style overhang** tradisional Jawa
 - **Viewing window besar di sisi kanan** (Wellness Tourism Gallery 40m²) - sesuai floor plan
 - **Main entrance di center-front** dengan pintu kaca (dekat Changing Room/Airlock)
 - Sisi kiri: dinding solid (Raw Material Storage area)
+- **Batik panels prominent** mengapit entrance dan di sisi kanan
 - Sensory garden dengan tanaman obat (kunyit, jahe, temulawak) di area depan
-- Signage "Mini Factory Pengolahan Rempah - CPOTB Certified" di facade
+- Signage "MINI FACTORY PENGOLAHAN REMPAH - CPOTB CERTIFIED" di facade
 - **Filosofi:** "Modern technology inside, traditional Javanese soul outside"
+
+---
+
+### Tampak Samping - 3/4 Angle View
+
+![Facility Exterior Angle](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_angle_1770092234017.png)
+
+**Perspektif 3/4 (menunjukkan depan + sisi kanan):**
+- Bangunan yang SAMA dari angle berbeda - **single-story, rectangular 30m × 10m**
+- Terlihat jelas: batik panels (parang kusuma), glass windows di sisi kanan, entrance di center-front
+- **Pendopo Jawa tradisional** di sisi kanan (wellness tourism area)
+- Sensory garden dengan pathways dan tanaman obat
+- Konsistensi 100% dengan front view - bangunan identik, hanya sudut pandang berbeda
 
 ---
 
@@ -159,7 +174,7 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 #### Ground-Level Perspective
 
-![Sensory Garden Perspective](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/sensory_garden_perspective_1770091903182.png)
+![Facility with Garden](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_with_garden_1770092257893.png)
 
 **Elemen Garden:**
 - **Tanaman obat teridentifikasi:** Kunyit (Turmeric), Jahe (Ginger), Temulawak, Lengkuas (Galangal), Sereh (Lemongrass)
