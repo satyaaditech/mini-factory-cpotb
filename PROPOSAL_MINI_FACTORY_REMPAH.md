@@ -129,7 +129,7 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 ### Tampak Luar
 
-![Facility Exterior](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_1770089507.png)
+![Facility Exterior](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_1770089917507.png)
 
 **Konsep Arsitektur:**
 - Bangunan 2 lantai dengan desain modern-industrial
