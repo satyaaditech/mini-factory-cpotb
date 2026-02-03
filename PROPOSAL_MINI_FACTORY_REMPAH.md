@@ -144,6 +144,39 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 ---
 
+### Sensory Garden & Landscaping
+
+#### Aerial View - Garden Layout
+
+![Sensory Garden Layout](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/sensory_garden_layout_1770091881395.png)
+
+**Konsep Landscaping:**
+- Kebun percontohan herbal mengelilingi bangunan **rectangular 30m × 10m** (konsisten dengan floor plan)
+- **Area depan (selatan):** Main sensory garden dengan walking paths, plant identification signs, seating areas
+- **Sisi kanan (timur):** Wellness tourism garden dengan photo spots, **pendopo Jawa kecil** (traditional gazebo)
+- **Sisi kiri (barat):** Demonstration planting area untuk workshop
+- **Zona tematik:** "Rimpang Zone" (kunyit, jahe, lengkuas, temulawak), "Daun Zone" (sereh, pandan), "Bunga Zone" (rosella, kembang sepatu)
+
+#### Ground-Level Perspective
+
+![Sensory Garden Perspective](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/sensory_garden_perspective_1770091903182.png)
+
+**Elemen Garden:**
+- **Tanaman obat teridentifikasi:** Kunyit (Turmeric), Jahe (Ginger), Temulawak, Lengkuas (Galangal), Sereh (Lemongrass)
+- **Pathways:** Natural stone stepping stones, gravel paths (wheelchair accessible)
+- **Elemen tradisional Jawa:** Terracotta pots, bamboo plant markers, pendopo gazebo untuk istirahat
+- **Educational signage:** Informasi khasiat obat, cara pengolahan, resep tradisional
+- **Instagram-worthy spots:** Photo corners dengan backdrop batik panels + tanaman obat
+- **Visitor experience:** Wisatawan dapat menyentuh, mencium aroma, dan belajar langsung tentang tanaman obat
+
+**Fungsi Ganda:**
+1. **Edukasi:** Living laboratory untuk workshop & training
+2. **Wellness Tourism:** Attraction untuk 3,000+ visitors/year
+3. **Raw Material:** Sebagian tanaman dapat dipanen untuk demo produksi
+4. **Branding:** Memperkuat positioning sebagai "Solo Wellness Hub"
+
+
+
 ### Ruang Produksi Interior
 
 ![Facility Interior Production](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_interior_production_1770089936073.png)
