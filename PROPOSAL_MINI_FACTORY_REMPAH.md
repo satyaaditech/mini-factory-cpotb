@@ -148,14 +148,16 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 ### Tampak Samping - 3/4 Angle View
 
-![Facility Exterior Angle](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_angle_1770092234017.png)
+![Facility Exterior Angle](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_angle_consistent_1770092844914.png)
 
 **Perspektif 3/4 (menunjukkan depan + sisi kanan):**
 - Bangunan yang SAMA dari angle berbeda - **single-story, rectangular 30m × 10m**
 - Terlihat jelas: batik panels (parang kusuma), glass windows di sisi kanan, entrance di center-front
+- **Kebun percontohan organik herbal** dengan plant identification signs: **KUNYIT, JAHE, TEMULAWAK, LENGKUAS, SEREH**
+- Terracotta pots, bamboo plant markers, natural stone pathways
 - **Pendopo Jawa tradisional** di sisi kanan (wellness tourism area)
-- Sensory garden dengan pathways dan tanaman obat
-- Konsistensi 100% dengan front view - bangunan identik, hanya sudut pandang berbeda
+- Lush green plants, brown soil - SAMA persis dengan Ground-Level Perspective
+- Konsistensi 100% dengan front view (bangunan) + ground-level perspective (kebun)
 
 ---
 
@@ -163,7 +165,7 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 #### Aerial View - Garden Layout
 
-![Sensory Garden Layout](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/sensory_garden_layout_1770091881395.png)
+![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_aerial_consistent_1770092864701.png)
 
 **Konsep Landscaping:**
 - Kebun percontohan herbal mengelilingi bangunan **rectangular 30m × 10m** (konsisten dengan floor plan)
