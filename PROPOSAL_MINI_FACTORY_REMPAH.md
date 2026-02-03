@@ -543,15 +543,15 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 - **Nilai Potensial:** **Rp 10-20 juta** (consulting cost savings)
 - **Status:** ✅ Program aktif, verified [Feb 2026]
 
-**Total Dukungan Pemerintah (GRANTS):** Rp 240-330 juta (grants + mentoring value)  
-**Beban Investasi Pemkot:** **Berkurang 48-66%** dari Rp 500 juta  
-**Sisa Funding:** CSR Perusahaan (Sido Muncul, Deltomed, Air Mancur)
+**Total Dukungan Pemerintah (OPTIONAL BONUS):** Rp 240-330 juta (grants + mentoring value)  
+**Status:** Dapat diakses sebagai **support tambahan** untuk operational costs atau Phase 2 expansion  
+**Primary Funding:** Pemkot Rp 300M + CSR Rp 200M = **Rp 500M (100% cash)**
 
-**Kenapa Pemkot Solo Tidak Perlu Bayar Penuh Rp 500 Juta?**
+**Struktur Pendanaan Realistis: 2 Sumber Cash**
 
-Bayangkan Anda mau beli mobil seharga Rp 500 juta, tapi **pemerintah pusat kasih subsidi/grant Rp 240-310 juta**—jadi Anda cuma bayar Rp 190-260 juta! Itulah yang terjadi dengan Mini Factory. Investasi total memang Rp 500 juta, tapi **ada 4 program pemerintah pusat yang sudah terverifikasi** dan siap mendukung (semua GRANTS, bukan pinjaman): (1) **Kemenperin** reimburse 50-70% biaya equipment (Rp 100-140 juta), (2) **Solo Technopark** kasih mentor grants + training gratis (Rp 10-50 juta), (3) **BPUM Solo** bantuan produktif untuk 100 UMKM (Rp 120 juta), dan (4) **BPOM SIPEMANDU** mentoring gratis (nilai Rp 10-20 juta). **Total: Rp 240-330 juta support yang bisa di-leverage!**
+Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan difokuskan pada **2 sumber cash yang pasti**: (1) **Pemkot Surakarta Rp 300 juta** (60% dari APBD), dan (2) **CSR Perusahaan Rp 200 juta** (40% dari PT Sido Muncul, Deltomed, Air Mancur, dan perusahaan herbal lainnya yang sudah punya track record mendukung UMKM). **Total: Rp 500 juta, 100% cash, 0% pinjaman.** Struktur ini membuat proposal tidak bergantung pada approval government grants yang uncertain timeline-nya.
 
-**Artinya, beban investasi Pemkot Solo berkurang 48-66%**—dari Rp 500 juta menjadi hanya **Rp 170-260 juta** (tergantung berapa banyak program yang berhasil diakses). Sisanya akan ditutup dari **CSR perusahaan** (PT Sido Muncul, Deltomed, Air Mancur) yang sudah punya track record mendukung UMKM herbal. Ini bukan "mimpi" atau "mungkin"—**semua program grants ini sudah aktif dan terverifikasi dengan URL resmi** (lihat lampiran referensi). Bahkan lebih baik lagi: karena Mini Factory align dengan prioritas pemerintah pusat (wellness tourism, UMKM empowerment, SDGs), **kemungkinan approval sangat tinggi**. Pemkot Solo tinggal apply, pemerintah pusat bantu dengan grants, dan CSR perusahaan melengkapi sisanya. **Ini seperti "gotong royong" tiga pihak**—pusat (grants), swasta (CSR), daerah (koordinasi), UMKM naik kelas. Semua menang, tanpa utang!
+**Government grants dari Kemenperin, Solo Technopark, BPUM, dan BPOM (total Rp 240-330 juta) tetap bisa diakses**, tetapi diperlakukan sebagai **"bonus/support tambahan"** yang bisa digunakan untuk: (1) Mengurangi operational costs tahun pertama, (2) Mempercepat Phase 2 expansion (beli mesin kapsul filling & ekstraksi herbal), atau (3) Subsidi training untuk UMKM. **Dengan cara ini, Mini Factory bisa langsung jalan dengan Rp 500M cash**, dan government grants menjadi "icing on the cake" yang mempercepat growth—bukan dependency yang bikin project stuck kalau grants tidak approve. **Ini adalah struktur funding yang paling realistis dan executable untuk Pemkot Solo.**
 
 ---
 
@@ -663,21 +663,22 @@ Bayangkan Anda mau beli mobil seharga Rp 500 juta, tapi **pemerintah pusat kasih
 | - QC lab equipment | Microscopes, balances, testing kits | 20,000,000 |
 | **TOTAL INVESTASI** | | **500,000,000** |
 
-### Sumber Pendanaan (Pemkot + Government Grants + CSR)
+### Sumber Pendanaan (2 Sumber Cash)
 
-| Sumber | Nilai (Rp) | % | Keterangan |
-|--------|-----------|---|------------|
-| **Pemkot Surakarta** | 170,000,000 | 34% | Investasi utama |
-| **Kemenperin IKM (Grant)** | 100,000,000 | 20% | Reimburse 50% equipment |
-| **Solo Technopark (Grant)** | 30,000,000 | 6% | Mentor grants + training |
-| **BPUM Solo (Grant)** | 120,000,000 | 24% | 100 UMKM × Rp 1.2M |
-| **BPOM SIPEMANDU (In-kind)** | 10,000,000 | 2% | Mentoring value |
-| **CSR Perusahaan** | 70,000,000 | 14% | Sido Muncul, Deltomed, Air Mancur |
-| **TOTAL** | **500,000,000** | **100%** | **ZERO pinjaman/utang** |
+| Sumber | Nilai (Rp) | % |
+|--------|-----------|---|
+| **Pemkot Surakarta** | 300,000,000 | 60% |
+| **CSR Perusahaan** | 200,000,000 | 40% |
+| **TOTAL** | **500,000,000** | **100%** |
 
-**Net Investment Pemkot:** **Rp 170 juta** (bukan Rp 500 juta)  
-**Leverage:** **2.94x** (setiap Rp 1 dari Pemkot, dapat Rp 1.94 dari grants + CSR)  
-**Struktur:** **100% GRANTS + CSR, 0% pinjaman** (no debt burden!)
+**Keterangan:**
+- **Pemkot Surakarta (Rp 300M):** Investasi utama dari APBD Kota Surakarta
+- **CSR Perusahaan (Rp 200M):** Kontribusi dari PT Sido Muncul, PT Deltomed, PT Air Mancur, dan perusahaan herbal lainnya
+
+**Struktur:** **100% Cash, 0% Pinjaman** (no debt burden)
+
+> **💡 CATATAN PENTING:**  
+> Government grants dari Kemenperin, Solo Technopark, BPUM, dan BPOM **tetap bisa diakses** sebagai **bonus/support tambahan** untuk operational costs atau Phase 2 expansion, tetapi **TIDAK dihitung** sebagai sumber pendanaan utama investasi awal. Ini membuat proposal lebih realistis dan tidak bergantung pada approval grants yang uncertain.
 
 ---
 
