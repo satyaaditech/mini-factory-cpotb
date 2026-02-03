@@ -1,7 +1,7 @@
 # PROPOSAL INVESTASI
 ## Mini Factory Pengolahan Rempah Solo Technopark
 
-**Fasilitas Bersama CPOTB untuk Pemberdayaan UMKM Herbal**
+**Fasilitas Bersama CPOTB (Standar Produksi Obat Tradisional yang Baik) untuk Pemberdayakan UMKM Herbal**
 
 ---
 
@@ -16,20 +16,41 @@ Februari 2026
 
 ---
 
+## 📖 GLOSARIUM ISTILAH PENTING
+
+Untuk memudahkan pemahaman, berikut penjelasan istilah-istilah teknis yang digunakan dalam proposal ini:
+
+| Istilah | Kepanjangan | Penjelasan Sederhana |
+|---------|-------------|----------------------|
+| **CPOTB** | Cara Pembuatan Obat Tradisional yang Baik | Standar kebersihan dan kualitas produksi yang diwajibkan pemerintah untuk produk jamu/herbal agar bisa dapat izin edar BPOM |
+| **UMKM** | Usaha Mikro Kecil Menengah | Pengusaha kecil seperti produsen jamu rumahan, warung herbal, dll |
+| **BPOM** | Badan Pengawas Obat dan Makanan | Lembaga pemerintah yang mengawasi keamanan obat, makanan, dan produk kesehatan |
+| **BNSP** | Badan Nasional Sertifikasi Profesi | Lembaga yang mengeluarkan sertifikat kompetensi untuk tenaga kerja terlatih |
+| **OT** | Obat Tradisional | Jamu, herbal, dan produk kesehatan alami Indonesia |
+| **QC** | Quality Control | Kontrol kualitas—pengujian untuk memastikan produk aman dan berkualitas |
+| **R&D** | Research & Development | Riset dan pengembangan produk baru |
+| **ROI** | Return on Investment | Pengembalian investasi—berapa persen keuntungan dari modal yang ditanam |
+| **CAGR** | Compound Annual Growth Rate | Tingkat pertumbuhan rata-rata per tahun |
+| **PAD** | Pendapatan Asli Daerah | Pendapatan pemerintah kota dari pajak, retribusi, dll |
+| **SDG** | Sustainable Development Goals | Tujuan Pembangunan Berkelanjutan PBB |
+| **SDM** | Sumber Daya Manusia | Tenaga kerja terlatih |
+
+---
+
 ## 📋 RINGKASAN EKSEKUTIF
 
 Solo berdiri di persimpangan sejarah yang luar biasa. Sebagai **satu dari tiga kota pilot project nasional wellness tourism** bersama Bali dan Yogyakarta [Kemenparekraf, 2024], Solo telah menarik **4.4 juta pengunjung di tahun 2024** [Dinas Pariwisata Surakarta, 2024]. Event **Wonderful Indonesia Wellness 2025** menghasilkan transaksi UMKM senilai **Rp 8.5-9 miliar** [Kemenparekraf, 2025], membuktikan bahwa pasar wellness tourism bukan hanya potensi—**ini adalah realitas yang sedang terjadi sekarang**.
 
-Namun, di balik kesuksesan ini, terdapat **gap kritis** yang menghalangi Solo untuk menjadi true wellness hub: **lebih dari 100 UMKM herbal lokal** tidak memiliki akses ke fasilitas produksi bersertifikat CPOTB. Mereka memiliki resep tradisional, pengetahuan turun-temurun, dan semangat kewirausahaan—tetapi **tidak bisa mendapatkan izin edar BPOM** karena ketiadaan fasilitas produksi yang memenuhi standar.
+Namun, di balik kesuksesan ini, terdapat **gap kritis** yang menghalangi Solo untuk menjadi true wellness hub: **lebih dari 100 UMKM (Usaha Mikro Kecil Menengah) herbal lokal** tidak memiliki akses ke fasilitas produksi bersertifikat **CPOTB (Cara Pembuatan Obat Tradisional yang Baik—standar kebersihan dan kualitas produksi yang diwajibkan pemerintah)**. Mereka memiliki resep tradisional, pengetahuan turun-temurun, dan semangat kewirausahaan—tetapi **tidak bisa mendapatkan izin edar BPOM (Badan Pengawas Obat dan Makanan)** karena ketiadaan fasilitas produksi yang memenuhi standar.
 
 **Mini Factory Pengolahan Rempah** adalah solusi transformatif yang akan:
-- ✅ Memberdayakan **100 UMKM** dengan akses produksi CPOTB-certified
+- ✅ Memberdayakan **100 UMKM** dengan akses produksi bersertifikat CPOTB
 - ✅ Menciptakan **landmark wellness tourism** yang unik di Indonesia
-- ✅ Menghasilkan **200+ SDM tersertifikasi BNSP** per tahun
-- ✅ Memberikan **ROI 42% di tahun pertama** dengan model bisnis berkelanjutan
+- ✅ Menghasilkan **200+ SDM tersertifikasi BNSP (Badan Nasional Sertifikasi Profesi)** per tahun
+- ✅ Memberikan **ROI (Return on Investment—pengembalian investasi) 42% di tahun pertama** dengan model bisnis berkelanjutan
 - ✅ Memposisikan Solo sebagai **Indonesia's Wellness Manufacturing Hub**
 
-Dengan investasi **Rp 500 juta** (yang dapat dikurangi 40-80% melalui dukungan pemerintah pusat terverifikasi), Solo akan memiliki **fasilitas PERTAMA dan SATU-SATUNYA** di Jawa Tengah yang menggabungkan produksi CPOTB, pelatihan BNSP, wellness tourism, dan R&D dalam satu ekosistem terintegrasi.
+Dengan investasi **Rp 500 juta** (yang dapat dikurangi 40-80% melalui dukungan pemerintah pusat terverifikasi), Solo akan memiliki **fasilitas PERTAMA dan SATU-SATUNYA** di Jawa Tengah yang menggabungkan produksi CPOTB, pelatihan BNSP, wellness tourism, dan **R&D (Research & Development—riset dan pengembangan produk)** dalam satu ekosistem terintegrasi.
 
 **Ini bukan hanya investasi infrastruktur—ini adalah investasi dalam masa depan ekonomi kreatif Solo.**
 
@@ -72,7 +93,7 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 **Ukuran Pasar:**
 - **USD 13.732 miliar** (2024) ≈ **Rp 220 triliun** total market value [Custom Market Insights, 2024]
-- **CAGR 7.1%** proyeksi hingga 2033 → USD 25.459 miliar [Custom Market Insights, 2024]
+- **CAGR (Compound Annual Growth Rate—tingkat pertumbuhan rata-rata per tahun) 7.1%** proyeksi hingga 2033 → USD 25.459 miliar [Custom Market Insights, 2024]
 - **Pertumbuhan 2x lipat** dalam 9 tahun ke depan
 
 **Perilaku Konsumen:**
@@ -82,7 +103,7 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 **Struktur Industri:**
 - **1,000+ UMKM** entrepreneur jamu formal terdaftar [BPOM, 2024]
-- **87% industri OT adalah UMKM** [Kemenperin, 2024]
+- **87% industri OT (Obat Tradisional—jamu, herbal, dan produk kesehatan alami) adalah UMKM** [Kemenperin, 2024]
 - **Ini adalah industri UMKM by nature—perfect fit untuk shared facility model**
 
 > **💡 INSIGHT KRITIS:**  
@@ -131,7 +152,7 @@ Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi semp
 - ✅ **Dinas Pariwisata:** Wonderful Indonesia Wellness 2025 (Rp 8.5-9 miliar UMKM transactions) [Kemenparekraf, 2025]
 - ✅ **BPUM Solo:** Rp 1.2 juta per UMKM (100 UMKM × Rp 1.2M = Rp 120 juta potential) [Dinkop UKM Surakarta, 2024-2025]
 
-**Alignment dengan SDGs:**
+**Alignment dengan SDGs (Sustainable Development Goals—Tujuan Pembangunan Berkelanjutan PBB):**
 - 🎯 **SDG 3:** Good Health & Well-being (akses produk herbal berkualitas)
 - 🎯 **SDG 8:** Decent Work & Economic Growth (15 jobs + 100 UMKM empowered)
 - 🎯 **SDG 9:** Industry, Innovation & Infrastructure (CPOTB facility + R&D)
@@ -164,6 +185,8 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - Sachet filling & sealing machines
 - QC lab equipment (microscopes, balances, testing kits)
 
+**Catatan:** QC = Quality Control (Kontrol Kualitas), SS304 = Stainless Steel food-grade (baja tahan karat untuk makanan/obat)
+
 ---
 
 ### 🎓 2. BNSP Training & Certification Center
@@ -174,7 +197,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - **Certified Herbalist** (C.Herb.) - Rp 1.5-2 juta/participant [vs BMD Training Rp 4.25M, 2025]
 - **Pengolah Herbal** (BNSP)
 - **QC Herbal** (Quality Control)
-- **CPOTB Compliance Officer**
+- **CPOTB Compliance Officer** (Petugas yang memastikan semua proses sesuai standar)
 
 **Target:**
 - **200 participants/tahun** (konservatif)
@@ -287,11 +310,11 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - **Viewing Gallery:** Glass partition untuk wellness tourism (40m²)
 
 **Standar CPOTB:**
-- ✅ Smooth, cleanable surfaces (epoxy floors, stainless walls)
-- ✅ Proper drainage, ventilation (HVAC with HEPA filters)
-- ✅ Adequate lighting (500 lux minimum in production areas)
-- ✅ Utilities (purified water system per Permenkes 492/2010)
-- ✅ Pest-proof construction, fire safety (K3)
+- ✅ Smooth, cleanable surfaces (epoxy floors, stainless walls) — Permukaan halus mudah dibersihkan
+- ✅ Proper drainage, ventilation (HVAC with HEPA filters) — Sirkulasi udara dengan filter HEPA (High Efficiency Particulate Air—filter udara tingkat tinggi)
+- ✅ Adequate lighting (500 lux minimum in production areas) — Pencahayaan cukup terang
+- ✅ Utilities (purified water system per Permenkes 492/2010) — Sistem air bersih terstandar
+- ✅ Pest-proof construction, fire safety (K3) — Anti hama, keselamatan kerja
 
 ---
 
@@ -300,12 +323,12 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 ![Facility Layout 2D](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_layout_2d_1770089986275.png)
 
 **Zoning Efisien (300m² total):**
-- **Production Zone (120m²):** Processing, filling, packaging
-- **QC Lab (30m²):** Testing & documentation
-- **Storage (60m²):** Raw materials + finished goods
-- **Wellness Tourism Gallery (40m²):** Viewing area + displays
-- **Training Room (30m²):** BNSP certification programs
-- **Support Areas (20m²):** Changing rooms, utilities
+- **Production Zone (120m²):** Processing, filling, packaging — Area produksi utama
+- **QC Lab (30m²):** Testing & documentation — Laboratorium pengujian kualitas
+- **Storage (60m²):** Raw materials + finished goods — Gudang bahan baku & produk jadi
+- **Wellness Tourism Gallery (40m²):** Viewing area + displays — Area wisata edukasi
+- **Training Room (30m²):** BNSP certification programs — Ruang pelatihan
+- **Support Areas (20m²):** Changing rooms, utilities — Ruang ganti, utilitas
 
 ---
 
@@ -357,13 +380,15 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 **Skills Development:**
 - **200+ SDM/tahun** tersertifikasi BNSP (Certified Herbalist, QC Herbal, CPOTB Compliance)
 - **Multiplier effect:** Trained workers dapat bekerja di 100+ UMKM atau start own business
-- **Upskilling:** UMKM owners belajar CPOTB standards, BPOM registration, quality control
+- **Upskilling:** UMKM owners belajar standar CPOTB, registrasi BPOM, quality control
+
+**Catatan:** SDM = Sumber Daya Manusia (tenaga kerja terlatih)
 
 ---
 
 ### 3. PAD & Economic Contribution
 
-**Direct PAD Contribution:**
+**Direct PAD (Pendapatan Asli Daerah—pendapatan pemerintah kota) Contribution:**
 - **Retribusi fasilitas:** Rp 50-100 juta/tahun (dari toll manufacturing)
 - **Pajak UMKM:** 100 UMKM yang naik kelas = additional tax revenue
 - **Wellness tourism:** 3,000 visitors × Rp 50k = Rp 150 juta (portion to PAD)
