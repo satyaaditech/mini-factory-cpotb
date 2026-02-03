@@ -129,14 +129,18 @@ Riset komprehensif menunjukkan **TIDAK ADA fasilitas sejenis** di Solo dan Jawa 
 
 ### Tampak Luar
 
-![Facility Exterior](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_1770089917507.png)
+![Facility Exterior](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_consistent_1770091610852.png)
 
 **Konsep Arsitektur:**
-- Bangunan 2 lantai dengan desain modern-industrial
-- Perpaduan material kontemporer (kaca, baja) dengan elemen arsitektur Jawa (atap tradisional, panel batik)
-- Viewing window besar untuk wellness tourism
-- Sensory garden dengan tanaman obat di area depan
-- Signage "Mini Factory Pengolahan Rempah - CPOTB Certified"
+- Bangunan 2 lantai dengan footprint **rectangular 30m × 10m** (sesuai floor plan)
+- Perpaduan material kontemporer (kaca, baja, panel putih) dengan **elemen batik Jawa prominent** (motif parang & kawung dalam panel terracotta/gold)
+- **Atap joglo-style** dengan overhang tradisional Jawa
+- **Viewing window besar di sisi kanan** (Wellness Tourism Gallery 40m²) - sesuai floor plan
+- **Main entrance di center-front** dengan pintu kaca (dekat Changing Room/Airlock)
+- Sisi kiri: dinding solid (Raw Material Storage area)
+- Sensory garden dengan tanaman obat (kunyit, jahe, temulawak) di area depan
+- Signage "Mini Factory Pengolahan Rempah - CPOTB Certified" di facade
+- **Filosofi:** "Modern technology inside, traditional Javanese soul outside"
 
 ---
 
