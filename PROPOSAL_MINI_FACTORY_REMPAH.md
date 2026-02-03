@@ -647,6 +647,9 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 ### Gantt Chart - 12 Bulan
 
+> **🚀 TIMELINE ASSURANCE:**  
+> Dengan struktur pendanaan **100% Cash (Pemkot + CSR)**, proyek ini **Executable Immediately** setelah approval APBD. Tidak ada *waiting period* untuk persetujuan hibah pusat yang seringkali memakan waktu 3-6 bulan. Timeline di bawah adalah jadwal agresif namun realistis yang bisa segera dieksekusi.
+
 | Fase | Bulan 1-3 | Bulan 4-6 | Bulan 7-9 | Bulan 10-12 |
 |------|-----------|-----------|-----------|-------------|
 | **Persiapan & Perizinan** | ████████ | | | |
@@ -722,6 +725,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 | Risk | Probability | Impact | Mitigation Strategy |
 |------|------------|--------|---------------------|
 | **CPOTB certification delay** | Medium | High | - Apply denah 3 months early<br>- Hire CPOTB consultant<br>- Phased certification (CPOTB Bertahap) |
+| **Funding shortfall** | Low | High | - **100% Cash Secured** (Pemkot + CSR commitments)<br>- **Zero dependency** on uncertain grants<br>- Scalable phases (bisa jalan dengan operational minimum) |
 | **UMKM adoption slower than expected** | Low | Medium | - Pre-launch socialization with PARESO<br>- Subsidized pricing Year 1<br>- Free trial production for first 10 UMKM |
 | **Equipment procurement delay** | Medium | Medium | - Order equipment during construction<br>- Local suppliers (Gama Mesin, PT Margamas)<br>- Backup suppliers identified |
 | **Competition from other cities** | Low | Low | - First mover advantage<br>- Strong UMKM relationships<br>- Unique 4-in-1 model |
