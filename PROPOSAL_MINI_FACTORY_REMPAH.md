@@ -445,6 +445,24 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ## 💰 MODEL BISNIS & SUSTAINABILITY
 
+### Business Model Canvas (BMC): Peta Strategis
+
+Untuk memberikan gambaran holistik bagaimana Mini Factory menciptakan, mengirimkan, dan menangkap nilai, berikut adalah **9 Blok Model Bisnis** kami:
+
+| **Key Partners** (Partner Kunci) | **Key Activities** (Aktivitas Kunci) | **Value Propositions** (Nilai Lebih) | **Customer Relationships** (Hubungan Pelanggan) | **Customer Segments** (Target Pasar) |
+| :--- | :--- | :--- | :--- | :--- |
+| • **UNS:** Riset, Lab, Tenaga Ahli<br>• **Pemkot Surakarta:** Lahan, Regulasi<br>• **CSR (Sido Muncul/Deltomed):** Pendanaan, Mentoring<br>• **BPOM:** Legalitas & Sertifikasi | • **Produksi Maklon:** Grinding, Filling, Packaging (CPOTB)<br>• **Pelatihan:** Sertifikasi BNSP<br>• **Wisata:** Edukasi & Tour<br>• **R&D:** Formulasi Produk | • **Aksesibilitas:** Fasilitas CPOTB dengan **Low MOQ** (Bisa Eceran)<br>• **Legalitas:** Jembatan menuju izin edar BPOM<br>• **One-Stop:** Produksi + Izin + R&D dalam satu atap | • **Community Based:** Kemitraan erat dengan PARESO<br>• **Consultative:** Pendampingan teknis & bisnis<br>• **Long-term Contract:** Untuk UMKM scale-up | • **Primer:** UMKM Herbal Solo Raya (Butuh legalitas)<br>• **Sekunder:** Wisatawan Wellness (Cari experience)<br>• **Tersier:** Pencari Kerja/Mahasiswa (Cari sertifikasi) |
+| | **Key Resources** (Sumber Daya) | | **Channels** (Saluran) | |
+| | • **Fasilitas:** Gedung & Mesin CPOTB<br>• **SDM:** Apoteker & Trainer BNSP<br>• **Network:** Ekosistem Solo Technopark | | • **Komunitas PARESO** (Direct) <br>• **Dinas Koperasi & UKM** (Referral)<br>• **Travel Agent & Hotel** (Tourism)<br>• **Digital:** Website & Sosmed | |
+
+| **Cost Structure** (Struktur Biaya) | **Revenue Streams** (Arus Pendapatan) |
+| :--- | :--- |
+| • **Fixed:** Gaji Staff, Maintenance Gedung/Mesin<br>• **Variable:** Listrik, Air, Bahan Habis Pakai<br>• **Marketing:** Promosi & Event Wisata | • **Toll Manufacturing:** Jasa Maklon (Rp 30k/kg)<br>• **Training Fees:** Sertifikasi BNSP<br>• **Tourism:** Tiket & Paket Wisata<br>• **R&D Services:** Jasa Formulasi |
+
+> **🖼️ Visualisasi BMC akan ditambahkan di sini** (Pending Image Gen)
+
+---
+
 ### Revenue Streams (4 Pilar)
 
 ![Revenue Model Canvas](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/revenue_model_canvas_1770089852970.png)
