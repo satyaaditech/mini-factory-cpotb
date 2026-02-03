@@ -427,27 +427,29 @@ Bahan Baku → Pencucian → Extraction → Concentration → Bottling → Packa
 
 ### Timeline Pembangunan (12 Bulan)
 
-```mermaid
-gantt
-    title Mini Factory Construction & Launch Timeline
-    dateFormat YYYY-MM-DD
-    section Phase 1: Planning
-    Land survey & confirmation       :2026-02-01, 30d
-    Detailed design & CPOTB compliance :2026-02-15, 45d
-    Tender & contractor selection    :2026-03-01, 30d
-    section Phase 2: Construction
-    Building construction            :2026-04-01, 120d
-    HVAC & utilities installation    :2026-06-01, 60d
-    Equipment procurement            :2026-05-01, 90d
-    section Phase 3: Setup
-    Equipment installation           :2026-08-01, 45d
-    Trial run & calibration          :2026-09-15, 30d
-    Staff training (hygiene, SOP)    :2026-10-01, 30d
-    section Phase 4: Launch
-    CPOTB audit & certification      :2026-10-15, 45d
-    Soft launch (PARESO UMKM)        :2026-11-15, 15d
-    Grand launch event               :2026-12-01, 7d
-```
+| Fase | Aktivitas | Bulan 1-2 | Bulan 3-4 | Bulan 5-6 | Bulan 7-8 | Bulan 9-10 | Bulan 11-12 |
+|------|-----------|-----------|-----------|-----------|-----------|------------|-------------|
+| **Phase 1: Planning** | | | | | | | |
+| | Land survey & confirmation | ████████ | | | | | |
+| | Detailed design & CPOTB compliance | ████████ ████████ | | | | | |
+| | Tender & contractor selection | | ████████ | | | | |
+| **Phase 2: Construction** | | | | | | | |
+| | Building construction | | ████████ | ████████ ████████ | ████████ | | |
+| | HVAC & utilities installation | | | ████████ | ████████ | | |
+| | Equipment procurement | | ████████ | ████████ ████████ | | | |
+| **Phase 3: Setup** | | | | | | | |
+| | Equipment installation | | | | ████████ | ████████ | |
+| | Trial run & calibration | | | | | ████████ | |
+| | Staff training (hygiene, SOP) | | | | | ████████ | |
+| **Phase 4: Launch** | | | | | | | |
+| | CPOTB audit & certification | | | | | ████████ | ████████ |
+| | Soft launch (PARESO UMKM) | | | | | | ████████ |
+| | Grand launch event | | | | | | ████████ |
+
+**Keterangan:**
+- 🟦 ████████ = Aktivitas berlangsung
+- Durasi total: 12 bulan (Februari 2026 - Januari 2027)
+- Critical path: Building construction → Equipment installation → CPOTB audit → Launch
 
 ---
 
