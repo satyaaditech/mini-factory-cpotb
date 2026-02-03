@@ -163,7 +163,6 @@ Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi semp
 - ✅ **Kemenperin:** Program Peningkatan Daya Saing IKM OT (Rp 100-140 juta support available) [Kemenperin, 2025]
 - ✅ **Kemenparekraf:** Solo Wellness City Initiative (pilot project status) [Kemenparekraf, 2024]
 - ✅ **BPOM:** SIPEMANDU program untuk UMKM OT (mentoring gratis) [BPOM, 2025]
-- ✅ **Kemenkop:** LPDB Dana Bergulir untuk koperasi UMKM (Rp 50-500 juta) [Kemenkop, 2024]
 
 **Alignment dengan Pemkot Surakarta:**
 - ✅ **Solo Technopark:** Mentor grants Rp 9 juta+ sudah disbursed [Solo Technopark, 2024]
@@ -544,19 +543,15 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 - **Nilai Potensial:** **Rp 10-20 juta** (consulting cost savings)
 - **Status:** ✅ Program aktif, verified [Feb 2026]
 
-#### 5️⃣ **Kemenkop - LPDB Dana Bergulir**
-- **Dukungan:** Pinjaman lunak untuk koperasi/UMKM [Kemenkop, 2024]
-- **Nilai Potensial:** **Rp 50-500 juta** (loan, bukan grant)
-- **Status:** ✅ Program aktif [Feb 2026]
-
-**Total Dukungan Pemerintah:** Rp 200-400 juta (grants + mentoring value)  
-**Beban Investasi Pemkot:** **Berkurang 40-80%** dari Rp 500 juta
+**Total Dukungan Pemerintah (GRANTS):** Rp 240-330 juta (grants + mentoring value)  
+**Beban Investasi Pemkot:** **Berkurang 48-66%** dari Rp 500 juta  
+**Sisa Funding:** CSR Perusahaan (Sido Muncul, Deltomed, Air Mancur)
 
 **Kenapa Pemkot Solo Tidak Perlu Bayar Penuh Rp 500 Juta?**
 
-Bayangkan Anda mau beli mobil seharga Rp 500 juta, tapi **pemerintah pusat kasih subsidi Rp 200-400 juta**—jadi Anda cuma bayar Rp 100-300 juta! Itulah yang terjadi dengan Mini Factory. Investasi total memang Rp 500 juta, tapi **ada 5 program pemerintah pusat yang sudah terverifikasi** dan siap mendukung: (1) **Kemenperin** reimburse 50-70% biaya equipment (Rp 100-140 juta), (2) **Solo Technopark** kasih mentor grants + training gratis (Rp 10-50 juta), (3) **BPUM Solo** bantuan produktif untuk 100 UMKM (Rp 120 juta), (4) **BPOM SIPEMANDU** mentoring gratis (nilai Rp 10-20 juta), dan (5) **Kemenkop LPDB** pinjaman lunak (Rp 50-500 juta). **Total: Rp 200-400 juta support yang bisa di-leverage!**
+Bayangkan Anda mau beli mobil seharga Rp 500 juta, tapi **pemerintah pusat kasih subsidi/grant Rp 240-310 juta**—jadi Anda cuma bayar Rp 190-260 juta! Itulah yang terjadi dengan Mini Factory. Investasi total memang Rp 500 juta, tapi **ada 4 program pemerintah pusat yang sudah terverifikasi** dan siap mendukung (semua GRANTS, bukan pinjaman): (1) **Kemenperin** reimburse 50-70% biaya equipment (Rp 100-140 juta), (2) **Solo Technopark** kasih mentor grants + training gratis (Rp 10-50 juta), (3) **BPUM Solo** bantuan produktif untuk 100 UMKM (Rp 120 juta), dan (4) **BPOM SIPEMANDU** mentoring gratis (nilai Rp 10-20 juta). **Total: Rp 240-330 juta support yang bisa di-leverage!**
 
-**Artinya, beban investasi Pemkot Solo berkurang 40-80%**—dari Rp 500 juta menjadi hanya **Rp 100-300 juta** (tergantung berapa banyak program yang berhasil diakses). Ini bukan "mimpi" atau "mungkin"—**semua program ini sudah aktif dan terverifikasi dengan URL resmi** (lihat lampiran referensi). Bahkan lebih baik lagi: karena Mini Factory align dengan prioritas pemerintah pusat (wellness tourism, UMKM empowerment, SDGs), **kemungkinan approval sangat tinggi**. Pemkot Solo tinggal apply, dan pemerintah pusat yang bantu bayar sebagian besar. **Ini seperti "gotong royong" antar level pemerintah**—pusat bantu daerah, daerah deliver hasil, UMKM naik kelas. Semua menang!
+**Artinya, beban investasi Pemkot Solo berkurang 48-66%**—dari Rp 500 juta menjadi hanya **Rp 170-260 juta** (tergantung berapa banyak program yang berhasil diakses). Sisanya akan ditutup dari **CSR perusahaan** (PT Sido Muncul, Deltomed, Air Mancur) yang sudah punya track record mendukung UMKM herbal. Ini bukan "mimpi" atau "mungkin"—**semua program grants ini sudah aktif dan terverifikasi dengan URL resmi** (lihat lampiran referensi). Bahkan lebih baik lagi: karena Mini Factory align dengan prioritas pemerintah pusat (wellness tourism, UMKM empowerment, SDGs), **kemungkinan approval sangat tinggi**. Pemkot Solo tinggal apply, pemerintah pusat bantu dengan grants, dan CSR perusahaan melengkapi sisanya. **Ini seperti "gotong royong" tiga pihak**—pusat (grants), swasta (CSR), daerah (koordinasi), UMKM naik kelas. Semua menang, tanpa utang!
 
 ---
 
@@ -668,18 +663,21 @@ Bayangkan Anda mau beli mobil seharga Rp 500 juta, tapi **pemerintah pusat kasih
 | - QC lab equipment | Microscopes, balances, testing kits | 20,000,000 |
 | **TOTAL INVESTASI** | | **500,000,000** |
 
-### Sumber Pendanaan
+### Sumber Pendanaan (Pemkot + Government Grants + CSR)
 
-| Sumber | Nilai (Rp) | % |
-|--------|-----------|---|
-| **Pemkot Surakarta** | 300,000,000 | 60% |
-| **Kemenperin IKM** | 100,000,000 | 20% |
-| **Solo Technopark Grants** | 50,000,000 | 10% |
-| **BPUM Solo (100 UMKM)** | 50,000,000 | 10% |
-| **TOTAL** | **500,000,000** | **100%** |
+| Sumber | Nilai (Rp) | % | Keterangan |
+|--------|-----------|---|------------|
+| **Pemkot Surakarta** | 170,000,000 | 34% | Investasi utama |
+| **Kemenperin IKM (Grant)** | 100,000,000 | 20% | Reimburse 50% equipment |
+| **Solo Technopark (Grant)** | 30,000,000 | 6% | Mentor grants + training |
+| **BPUM Solo (Grant)** | 120,000,000 | 24% | 100 UMKM × Rp 1.2M |
+| **BPOM SIPEMANDU (In-kind)** | 10,000,000 | 2% | Mentoring value |
+| **CSR Perusahaan** | 70,000,000 | 14% | Sido Muncul, Deltomed, Air Mancur |
+| **TOTAL** | **500,000,000** | **100%** | **ZERO pinjaman/utang** |
 
-**Net Investment Pemkot:** **Rp 300 juta** (bukan Rp 500 juta)  
-**Leverage:** **1.67x** (setiap Rp 1 dari Pemkot, dapat Rp 0.67 dari pemerintah pusat)
+**Net Investment Pemkot:** **Rp 170 juta** (bukan Rp 500 juta)  
+**Leverage:** **2.94x** (setiap Rp 1 dari Pemkot, dapat Rp 1.94 dari grants + CSR)  
+**Struktur:** **100% GRANTS + CSR, 0% pinjaman** (no debt burden!)
 
 ---
 
