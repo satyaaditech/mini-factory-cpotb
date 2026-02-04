@@ -257,7 +257,7 @@ Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi semp
 
 **Alignment dengan Pemkot Surakarta:**
 
-- ✅ **Solo Technopark:** Fasilitasi Inkubasi Bisnis & Mentoring (Program SISTEM) [[LinkUMKM, 2024](https://linkumkm.id/news/detail/13303/program-sistem-solo-technopark-dorong-pertumbuhan-startup-dan-umkm)]
+- ✅ **Solo Technopark:** Fasilitasi Inkubasi Bisnis (Solo Techno Incubator Grade A) [[RMOL Jateng, 2023](https://www.rmoljawatengah.id/solo-techno-incubator-raih-grade-a-dalam-inkubasi-award-2023)]
 - ✅ **Dinas Pariwisata:** Wonderful Indonesia Wellness 2025 (Rp 8.5-9 miliar UMKM transactions) [[Kemenparekraf, 2025](https://bob.kemenparekraf.go.id/372700-wonderful-indonesia-wellness-dorong-solo/)]
 - ✅ **BPUM Solo:** Rp 1.2 juta per UMKM (100 UMKM × Rp 1.2M = Rp 120 juta potential) [[Dinkop UKM Surakarta via Solopos, 2024](https://bisnis.espos.id/pengajuan-bantuan-umkm-kota-solo-dibuka-ini-caranya-1118356)]
 
@@ -279,6 +279,8 @@ Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi semp
 Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang menggabungkan 4 fungsi dalam satu fasilitas:
 
 ### 🏭 1. CPOTB Production Facility (Core Function)
+
+![CPOTB Production Workflow](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/cpotb_production_flow_infographic_1770194424740.png)
 
 **Fasilitas produksi bersama** yang memungkinkan UMKM memproduksi dengan standar CPOTB tanpa harus invest ratusan juta sendiri.
 
