@@ -327,7 +327,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 #### Aerial View - Garden Layout
 
-![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_aerial_3d_view_1770186752302.png)
+![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_aerial_photorealistic_1770186981143.png)
 
 **Konsep Landscaping:**
 
