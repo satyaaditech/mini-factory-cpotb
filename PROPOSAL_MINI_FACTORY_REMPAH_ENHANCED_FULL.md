@@ -326,6 +326,8 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### 🌿 3. Wellness Tourism Destination
 
+![Wellness Tourism Destination](images/wellness_tourism_infographic_1770237454865.png)
+
 **Destinasi wisata edukatif** yang memperkuat positioning Solo sebagai wellness hub.
 
 **Attractions:**
@@ -344,6 +346,8 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 ---
 
 ### 🔬 4. R&D & Product Development Hub
+
+![R&D and Product Development Hub](images/rnd_hub_infographic_1770237485819.png)
 
 **Pusat inovasi** yang membantu UMKM develop produk baru dengan dukungan UNS.
 
