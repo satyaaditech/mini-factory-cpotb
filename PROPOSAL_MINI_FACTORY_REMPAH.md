@@ -308,7 +308,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 #### Integrated Garden Layout Plan
 
-![Garden Layout Integrated](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_layout_original_plan_1770187318263.png)
+![Garden Layout Integrated](images/06_garden_aerial.png)
 
 **Area Terbuka (200m²):**
 
@@ -326,7 +326,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 #### Aerial View - Garden Layout
 
-![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/aerial_view_original_plan_1770187383123.png)
+![Sensory Garden Aerial](images/06_garden_aerial.png)
 
 **Konsep Landscaping:**
 
