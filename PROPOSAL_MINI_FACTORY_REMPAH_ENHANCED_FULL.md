@@ -157,9 +157,9 @@ Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI
 
 **Pertumbuhan Eksponensial:**
 
-- **4.4 juta total pengunjung** tahun 2024 [Dinas Pariwisata Surakarta, 2024]
-- **1.305 juta pengunjung** Q1 2025 (on track untuk growth) [Dinas Pariwisata Surakarta, 2025]
-- **Wonderful Indonesia Wellness 2025:** 3,700+ visitors, **Rp 8.5-9 miliar** transaksi UMKM [Kemenparekraf, 2025]
+- **4.4 juta total pengunjung** tahun 2024 [[Dinas Pariwisata Surakarta, 2024](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)]
+- **1.305 juta pengunjung** Q1 2025 (on track untuk growth) [[Dinas Pariwisata Surakarta, 2025](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)]
+- **Wonderful Indonesia Wellness 2025:** 3,700+ visitors, **Rp 8.5-9 miliar** transaksi UMKM [[Kemenparekraf, 2025](https://kemenpar.go.id/berita/ajang-wonderful-indonesia-wellness-2025-geliatkan-ekonomi-masyarakat)]
 
 **Ekosistem yang Berkembang:**
 
