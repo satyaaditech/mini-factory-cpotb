@@ -145,7 +145,7 @@ Dengan investasi **Rp 500 juta** (Pemkot Rp 300M + CSR Perusahaan Rp 200M), Solo
 
 ### 1. Solo Wellness City: Dari Pilot Project Menjadi National Leader
 
-![Solo Wellness Tourism](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/solo_wellness_tourism_1770089829887.png)
+![Solo Wellness Tourism](images/solo_wellness_tourism_1770089829887.png)
 
 Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI wellness destination**. Data menunjukkan momentum yang luar biasa:
 
@@ -181,7 +181,7 @@ Bayangkan Solo seperti **tambang emas yang sudah ditemukan**: 4.4 juta wisatawan
 
 ### 2. Pasar Herbal Indonesia: Rp 220 Triliun dan Terus Tumbuh
 
-![Market Size Infographic](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/market_size_infographic_1770089804893.png)
+![Market Size Infographic](images/market_size_infographic_1770089804893.png)
 
 Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemain utama global**:
 
@@ -217,7 +217,7 @@ Bayangkan ada **kue raksasa senilai Rp 220 triliun** di atas meja, dan **6 dari 
 
 ### 3. Posisi Strategis: Mengisi "Missing Link" Ekosistem Herbal
 
-![Competitive Advantage](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/accessibility_gap_chart_1770184662606.png)
+![Competitive Advantage](images/accessibility_gap_chart_1770184662606.png)
 
 Riset komprehensif memetakan lanskap fasilitas herbal di Solo Raya. Meski Solo memiliki industri jamu yang kuat, terdapat **kekosongan fasilitas (gap)** yang signifikan bagi UMKM pemula:
 
@@ -280,7 +280,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### 🏭 1. CPOTB Production Facility (Core Function)
 
-![CPOTB Production Workflow](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/cpotb_production_flow_infographic_1770194424740.png)
+![CPOTB Production Workflow](images/cpotb_production_flow_infographic_1770194424740.png)
 
 **Fasilitas produksi bersama** yang memungkinkan UMKM memproduksi dengan standar CPOTB tanpa harus invest ratusan juta sendiri.
 
@@ -293,11 +293,11 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 **Equipment CPOTB-compliant:**
 
 - Grinding/milling machines (50-60 kg/hour) [[Gama Mesin](https://www.gama-mesin.com/mesin-ekstrak-herbal); [PT Margamas](https://www.margamascitratama.com), 2026]
-- Herbal extraction equipment (200L batch)
-- Powder mixing machines (50 kg capacity)
-- Capsule filling machines (10,000-12,000 caps/hour)
-- Sachet filling & sealing machines
-- QC lab equipment (microscopes, balances, testing kits)
+- Herbal extraction equipment (200L batch) [[Gama Mesin Mandiri](https://gama-mesin.com/product-category/mesin-pertanian/mesin-pengolahan-herbal-dan-obat/)]
+- Powder mixing machines (50 kg capacity) [[Jaya Abadi Teknik](https://www.indotrading.com/jayaabaditeknik)]
+- Capsule filling machines (10,000-12,000 caps/hour) [[PT Gemilang Bersama Mesindo](https://www.gemindo.co.id/product-category/filling-machine/)]
+- Sachet filling & sealing machines [[Gama Mesin](https://gama-mesin.com)]
+- QC lab equipment (microscopes, balances, testing kits) [[LabMart Indonesia](https://labmart.id)]
 
 **Catatan:** QC = Quality Control (Kontrol Kualitas), SS304 = Stainless Steel food-grade (baja tahan karat untuk makanan/obat)
 
@@ -305,7 +305,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### 🎓 2. BNSP Training & Certification Center
 
-![BNSP Training Center Infographic](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/bnsp_training_infographic_1770194659370.png)
+![BNSP Training Center Infographic](images/bnsp_training_infographic_1770194659370.png)
 
 **Pusat pelatihan SDM** yang menghasilkan tenaga kerja tersertifikasi untuk industri herbal.
 
@@ -366,7 +366,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### Tampak Luar - Front View
 
-![Facility Exterior Front](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_exterior_front_1770092215160.png)
+![Facility Exterior Front](images/facility_exterior_front_1770092215160.png)
 
 **Konsep Arsitektur:**
 
@@ -380,7 +380,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### Tampak Samping - 3/4 Angle View
 
-![Facility Exterior Angle](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_angle_consistent_1770092844914.png)
+![Facility Exterior Angle](images/facility_angle_consistent_1770092844914.png)
 
 **Perspektif 3/4:**
 
@@ -424,7 +424,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 #### Ground-Level Perspective
 
-![Facility with Garden](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_with_garden_1770092257893.png)
+![Facility with Garden](images/facility_with_garden_1770092257893.png)
 
 **Elemen Garden:**
 
@@ -444,7 +444,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### Ruang Produksi Interior
 
-![Facility Interior Production](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_interior_production_1770089936073.png)
+![Facility Interior Production](images/facility_interior_production_1770089936073.png)
 
 **Zona Produksi CPOTB-Compliant:**
 
@@ -467,7 +467,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### Layout 2D Floor Plan
 
-![Facility Layout 2D](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/floor_plan_complete_facilities_1770186132944.png)
+![Facility Layout 2D](images/floor_plan_complete_facilities_1770186132944.png)
 
 **Zoning Efisien (300m² total):**
 
@@ -510,7 +510,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### 2. Job Creation & Skills Development
 
-![Impact Multiplier](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/impact_multiplier_1770090063251.png)
+![Impact Multiplier](images/impact_multiplier_1770090063251.png)
 
 **Direct Jobs (15 positions):**
 
@@ -710,13 +710,13 @@ Untuk memberikan gambaran holistik bagaimana Mini Factory menciptakan, mengirimk
 | **Cost Structure** (Struktur Biaya) | **Revenue Streams** (Arus Pendapatan) |
 | :---------------------------------------- | :------------------------------------------ |
 
-![Business Model Canvas](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/business_model_canvas_1770184717629.png)
+![Business Model Canvas](images/business_model_canvas_1770184717629.png)
 
 ---
 
 ### Revenue Streams (4 Pilar)
 
-![Revenue Model Canvas](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/revenue_model_canvas_1770089852970.png)
+![Revenue Model Canvas](images/revenue_model_canvas_1770089852970.png)
 
 #### 1️⃣ **Toll Manufacturing** (Factory-as-a-Service)
 
@@ -895,9 +895,9 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 ### Dukungan Pemerintah Terverifikasi (Rp 200-400 Juta)
 
-![Government Support Chart](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/government_support_optional_1770184609702.png)
+![Government Support Chart](images/government_support_optional_1770184609702.png)
 
-![Funding Structure](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/funding_structure_chart_1770184564316.png)
+![Funding Structure](images/funding_structure_chart_1770184564316.png)
 
 #### 1️⃣ **Kemenperin - Program IKM Obat Tradisional**
 
@@ -1224,7 +1224,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 ## ⚙️ PROSES PRODUKSI: 3 Jalur Terintegrasi
 
-![Production Flow Diagram](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/production_flow_diagram_1770089959855.png)
+![Production Flow Diagram](images/production_flow_diagram_1770089959855.png)
 
 ### 1️⃣ **Powder Pathway** (Serbuk Jamu)
 
