@@ -163,8 +163,8 @@ Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI
 
 **Ekosistem yang Berkembang:**
 
-- **>100 UMKM aktif** di sektor wellness (spa, jamu, yoga) [UNS Vokasi, 2024]
-- Kontribusi PAD pariwisata: **Rp 60.837 miliar** (2022-2023) [Dinas Pariwisata Surakarta, 2023]
+- **>100 UMKM aktif** di sektor wellness (spa, jamu, yoga) [[Ref: UNS Vokasi, 2024](https://vokasi.uns.ac.id/2025/06/20/program-studi-d3-upw-gelar-event-solo-wellness-tourism-expo-2025-swte-2025-di-tahun-pertama/)]
+- Kontribusi PAD pariwisata: **Rp 60.837 miliar** (2022-2023) [[Jurnal Balitbang Surakarta, 2023](https://jurnal.surakarta.go.id/index.php/jbs/article/download/84/101/419)]
 
 **Apa Artinya Angka-Angka Ini untuk Solo dan UMKM?**
 
