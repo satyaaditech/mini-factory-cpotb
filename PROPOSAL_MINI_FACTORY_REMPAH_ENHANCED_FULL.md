@@ -199,8 +199,8 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 **Struktur Industri:**
 
-- **1,000+ UMKM** entrepreneur jamu formal terdaftar [[BPOM, 2024](https://www.pom.go.id/berita/bpom-dorong-industri-jamu-jaga-kualitas-produknya-untuk-pasar-global)]
-- **87% industri OT (Obat Tradisional—jamu, herbal, dan produk kesehatan alami) adalah UMKM** [[Kemenperin, 2024](https://ikm.kemenperin.go.id/kemenperin-dorong-ikm-kosmetik-dan-obat-tradisional-naik-kelas)]
+- **1,000+ UMKM** entrepreneur jamu formal terdaftar [[BPOM via Jamu Digital, 2024](https://www.jamudigital.com/berita?id=Pekan_Jamu_Badan_POM_2024%3A_Jamu_sebagai_Industri_Unggulan_Nasional_Masa_Depan)]
+- **87% industri OT (Obat Tradisional—jamu, herbal, dan produk kesehatan alami) adalah UMKM** [[Kemenko Perekonomian, 2023](https://ekon.go.id/publikasi/detail/493/konsumsi-jamu-meningkat-pemerintah-berdayakan-umkm-dengan-pendekatan-klaster-obat-tradisional)]
 - **Ini adalah industri UMKM by nature—perfect fit untuk shared facility model**
 
 **Apa Artinya Pasar Rp 220 Triliun Ini untuk UMKM Solo?**
