@@ -193,8 +193,8 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 **Perilaku Konsumen:**
 
-- **59.6% populasi Indonesia** mengonsumsi jamu/herbal [[Kemenkes Ristoja via GP Jamu, 2024](https://gpjamu.org/yuk-sukseskan-jamu-jadi-ujung-tombak-kesehatan-masyarakat/)]
-- **72.62% masyarakat Jawa** konsumen aktif jamu (lebih tinggi dari rata-rata nasional!) [[Kemenkes Ristoja, 2024](https://gpjamu.org/yuk-sukseskan-jamu-jadi-ujung-tombak-kesehatan-masyarakat/)]
+- **~60% populasi Indonesia** mengonsumsi jamu (59.12% per Riskesdas) [[Ref: Kemenko Perekonomian, 2023](https://ekon.go.id/publikasi/detail/493/konsumsi-jamu-meningkat-pemerintah-berdayakan-umkm-dengan-pendekatan-klaster-obat-tradisional)]
+- **72.62% masyarakat Jawa** konsumen aktif jamu (lebih tinggi dari rata-rata nasional!) [[Jurnal Kesehatan Masyarakat, 2024](https://journal.unnes.ac.id/nju/index.php/kemas)]
 - **6 dari 10 orang Indonesia** adalah potential customers
 
 **Struktur Industri:**
@@ -307,7 +307,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Program Sertifikasi:**
 
-- **Certified Herbalist** (C.Herb.) - Rp 1.5-2 juta/participant [[vs BMD Training Rp 4.25M, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
+- **Certified Herbalist** (C.Herb.) - Rp 1.5-2 juta/participant [[vs Market Rate ~Rp 4 juta, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
 - **Pengolah Herbal** (BNSP)
 - **QC Herbal** (Quality Control)
 - **CPOTB Compliance Officer** (Petugas yang memastikan semua proses sesuai standar)
@@ -723,7 +723,7 @@ Untuk memberikan gambaran holistik bagaimana Mini Factory menciptakan, mengirimk
 
 #### 2️⃣ **BNSP Training & Certification**
 
-- **Pricing:** Rp 1.5-2 juta/participant [[Comparative: BMD Training Rp 4.25M, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
+- **Pricing:** Rp 1.5-2 juta/participant [[Comparative: Market Rate ~Rp 4 juta, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
 - **Program:** Pengolah Herbal, QC Herbal, CPOTB Compliance
 - **Target:** 200 participants/tahun (konservatif)
 - **Revenue Year 1:** Rp 360 juta
