@@ -362,7 +362,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### Layout 2D Floor Plan
 
-![Facility Layout 2D](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/facility_layout_2d_1770089986275.png)
+![Facility Layout 2D](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/floor_plan_accurate_1770185318177.png)
 
 **Zoning Efisien (300m² total):**
 
