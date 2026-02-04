@@ -199,8 +199,8 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 **Struktur Industri:**
 
-- **1,000+ UMKM** entrepreneur jamu formal terdaftar [BPOM, 2024]
-- **87% industri OT (Obat Tradisional—jamu, herbal, dan produk kesehatan alami) adalah UMKM** [Kemenperin, 2024]
+- **1,000+ UMKM** entrepreneur jamu formal terdaftar [[BPOM, 2024](https://www.pom.go.id/berita/bpom-dorong-industri-jamu-jaga-kualitas-produknya-untuk-pasar-global)]
+- **87% industri OT (Obat Tradisional—jamu, herbal, dan produk kesehatan alami) adalah UMKM** [[Kemenperin, 2024](https://ikm.kemenperin.go.id/kemenperin-dorong-ikm-kosmetik-dan-obat-tradisional-naik-kelas)]
 - **Ini adalah industri UMKM by nature—perfect fit untuk shared facility model**
 
 **Apa Artinya Pasar Rp 220 Triliun Ini untuk UMKM Solo?**
@@ -251,15 +251,15 @@ Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi semp
 
 **Alignment dengan Pemerintah Pusat:**
 
-- ✅ **Kemenperin:** Program Peningkatan Daya Saing IKM OT (Rp 100-140 juta support available) [Kemenperin, 2025]
-- ✅ **Kemenparekraf:** Solo Wellness City Initiative (pilot project status) [Kemenparekraf, 2024]
-- ✅ **BPOM:** SIPEMANDU program untuk UMKM OT (mentoring gratis) [BPOM, 2025]
+- ✅ **Kemenperin:** Program Peningkatan Daya Saing IKM OT (Rp 100-140 juta support available) [[Kemenperin, 2025](https://ikm.kemenperin.go.id/kemenperin-dorong-ikm-kosmetik-dan-obat-tradisional-naik-kelas)]
+- ✅ **Kemenparekraf:** Solo Wellness City Initiative (pilot project status) [[Kemenparekraf, 2021](https://jatengprov.go.id/beritadaerah/solo-jadi-percontohan-wellness-city-di-indonesia/)]
+- ✅ **BPOM:** SIPEMANDU program untuk UMKM OT (mentoring gratis) [[BPOM, 2025](https://www.pom.go.id/berita/tuntaskan-permasalahan-umkm-obat-tradisional-melalui-fasilitator-terpadu)]
 
 **Alignment dengan Pemkot Surakarta:**
 
-- ✅ **Solo Technopark:** Mentor grants Rp 9 juta+ sudah disbursed [Solo Technopark, 2024]
-- ✅ **Dinas Pariwisata:** Wonderful Indonesia Wellness 2025 (Rp 8.5-9 miliar UMKM transactions) [Kemenparekraf, 2025]
-- ✅ **BPUM Solo:** Rp 1.2 juta per UMKM (100 UMKM × Rp 1.2M = Rp 120 juta potential) [Dinkop UKM Surakarta, 2024-2025]
+- ✅ **Solo Technopark:** Mentor grants Rp 9 juta+ sudah disbursed [[Solo Technopark, 2024](https://solotechnopark.id)]
+- ✅ **Dinas Pariwisata:** Wonderful Indonesia Wellness 2025 (Rp 8.5-9 miliar UMKM transactions) [[Kemenparekraf, 2025](https://bob.kemenparekraf.go.id/372700-wonderful-indonesia-wellness-dorong-solo/)]
+- ✅ **BPUM Solo:** Rp 1.2 juta per UMKM (100 UMKM × Rp 1.2M = Rp 120 juta potential) [[Dinkop UKM Surakarta via Solopos, 2024](https://bisnis.espos.id/pengajuan-bantuan-umkm-kota-solo-dibuka-ini-caranya-1118356)]
 
 **Alignment dengan SDGs (Sustainable Development Goals—Tujuan Pembangunan Berkelanjutan PBB):**
 
@@ -307,7 +307,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Program Sertifikasi:**
 
-- **Certified Herbalist** (C.Herb.) - Rp 1.5-2 juta/participant [vs BMD Training Rp 4.25M, 2025]
+- **Certified Herbalist** (C.Herb.) - Rp 1.5-2 juta/participant [[vs BMD Training Rp 4.25M, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
 - **Pengolah Herbal** (BNSP)
 - **QC Herbal** (Quality Control)
 - **CPOTB Compliance Officer** (Petugas yang memastikan semua proses sesuai standar)
@@ -723,7 +723,7 @@ Untuk memberikan gambaran holistik bagaimana Mini Factory menciptakan, mengirimk
 
 #### 2️⃣ **BNSP Training & Certification**
 
-- **Pricing:** Rp 1.5-2 juta/participant [Competitive vs BMD Training Rp 4.25M, 2025]
+- **Pricing:** Rp 1.5-2 juta/participant [[Comparative: BMD Training Rp 4.25M, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
 - **Program:** Pengolah Herbal, QC Herbal, CPOTB Compliance
 - **Target:** 200 participants/tahun (konservatif)
 - **Revenue Year 1:** Rp 360 juta
@@ -897,7 +897,7 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 #### 1️⃣ **Kemenperin - Program IKM Obat Tradisional**
 
-- **Dukungan:** Reimburse 50-70% biaya equipment [Kemenperin, 2025]
+- **Dukungan:** Reimburse 50-70% biaya equipment [[Kemenperin, 2025](https://ikm.kemenperin.go.id/kemenperin-dorong-ikm-kosmetik-dan-obat-tradisional-naik-kelas)]
 - **Nilai Potensial:** **Rp 100-140 juta** (dari budget equipment Rp 200M)
 - **Aplikasi:** ikm.kemenperin.go.id
 - **Status:** ✅ Program aktif, verified [Feb 2026]
@@ -905,22 +905,22 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 #### 2️⃣ **Solo Technopark - Mentor Grants & Training**
 
 - **Dukungan:**
-  - Beasiswa pelatihan GRATIS (mekanik, otomasi, desain) [Solo Technopark, 2025]
-  - Mentor grants **Rp 9 juta+** sudah disbursed (170+ recipients) [Solo Technopark, 2024]
+  - Beasiswa pelatihan GRATIS (mekanik, otomasi, desain) [[Solo Technopark, 2025](https://solotechnopark.id)]
+  - Mentor grants **Rp 9 juta+** sudah disbursed (170+ recipients) [[Solo Technopark, 2024](https://jateng.antaranews.com/berita/546439/solo-technopark-fasilitasi-perintis-usaha-kembangkan-wawasan)]
   - Program inkubasi & pra-inkubasi
 - **Nilai Potensial:** **Rp 10-50 juta** grants + free training
 - **Status:** ✅ Program aktif, verified [Feb 2026]
 
 #### 3️⃣ **BPUM Solo - Bantuan Produktif Usaha Mikro**
 
-- **Dukungan:** Rp 1.2 juta per UMKM [Dinkop UKM Surakarta, 2024-2025]
+- **Dukungan:** Rp 1.2 juta per UMKM [[Dinkop UKM Surakarta via Solopos, 2024](https://bisnis.espos.id/pengajuan-bantuan-umkm-kota-solo-dibuka-ini-caranya-1118356)]
 - **Nilai Potensial:** **Rp 120 juta** (100 PARESO UMKM × Rp 1.2M)
 - **Status:** ✅ Program rutin, verified
 
 #### 4️⃣ **BPOM - SIPEMANDU (Sistem Pendampingan UMKM)**
 
 - **Dukungan:**
-  - Mentoring GRATIS perizinan & CPOTB [BPOM, 2025]
+  - Mentoring GRATIS perizinan & CPOTB [[BPOM, 2025](https://www.pom.go.id/berita/tuntaskan-permasalahan-umkm-obat-tradisional-melalui-fasilitator-terpadu)]
   - Fasilitator training
   - CPOTB Bertahap guidance [PerBPOM No. 11/2025]
 - **Nilai Potensial:** **Rp 10-20 juta** (consulting cost savings)
@@ -944,13 +944,13 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 #### 1️⃣ **PT Sido Muncul - Program PROAKTIF** ⭐⭐⭐
 
-**Program:** "Orang Tua Angkat UMKM Kolaboratif" (kolaborasi dengan BPOM) [Sido Muncul CSR, 2024]
+**Program:** "Orang Tua Angkat UMKM Kolaboratif" (kolaborasi dengan BPOM) [[Sido Muncul Sustainability Report, 2024](https://investor.sidomuncul.co.id/misc/sr/SR-2024.pdf)]
 
 **Track Record:**
 
 - ✅ **Ratusan UMKM** telah didampingi
 - ✅ **3x CSR Award Jateng** (2022, 2023, 2024)
-- ✅ **BNSP Anugerah PROAKTIF 2025** dari BPOM [BPOM, 2025]
+- ✅ **BNSP Anugerah PROAKTIF 2025** dari BPOM [[BPOM, 2025](https://www.pom.go.id/berita/bpom-dorong-industri-jamu-jaga-kualitas-produknya-untuk-pasar-global)]
 
 **Potential CSR Contribution:**
 
