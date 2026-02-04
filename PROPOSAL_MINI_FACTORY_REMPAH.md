@@ -308,26 +308,25 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 #### Integrated Garden Layout Plan
 
-![Garden Layout Integrated](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_layout_integrated_1770186519123.png)
+![Garden Layout Integrated](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_layout_original_plan_1770187318263.png)
 
-**Zona Garden Terintegrasi:**
+**Area Terbuka (200m²):**
 
-- **Welcome Garden (Depan):** Area penyambutan dengan tanaman hias, signage, information kiosk
-- **Sensory Garden Plots (Kiri):** 6 plot tanaman obat (Jahe, Kunyit, Temulawak, Kencur, Lengkuas, Sereh) dengan educational signage
-- **Meditation & Relaxation Area (Kanan):** Gazebo, water feature, tanaman aromaterapi, yoga space
-- **Demonstration Garden (Belakang):** Area hands-on planting, tool shed, composting, workshop outdoor
-- **Connecting Pathways:** Jalur utama (paved) dan jalur sekunder, wheelchair accessible
+- **Parkir (50m²):** Area parkir dengan kapasitas 3-4 mobil, paved surface, accessible pathway
+- **Kebun Percontohan Herbal + Sensory Garden (120m²):** 6 plot raised beds tanaman obat (Jahe, Kunyit, Temulawak, Kencur, Lengkuas, Sereh) dengan educational signage, walking paths, area observasi wisatawan
+- **Photo Spot (30m²):** Area foto Instagram-worthy dengan backdrop Jawa tradisional, ornamental plants, seating
 
-**Integrasi dengan Fasilitas:**
-- Viewing Gallery memiliki akses visual ke garden
-- Training Room dapat menggunakan outdoor space untuk sesi al fresco
-- Direct access dari building ke semua zona garden
+**Integrasi dengan Bangunan:**
+- **Area Non-Produksi (Kiri):** Aula Pelatihan (60m²) dengan viewing window ke produksi, Mini Café + Retail (20m²), Kantor/Meeting (30m²), Toilet & Locker (15m²)
+- **Area Produksi (Kanan):** R. Pengeringan, Grinding, Mixing, Filling, Packaging, Gudang Suhu Terkendali, Lab & QC (20m²), R. Cuci Alat
+- **Viewing Window:** Glass partition menghubungkan Aula Pelatihan dengan area produksi untuk edukasi visual
+- **Visitor Flow:** Terpisah dari production flow - wisatawan di sisi kiri, produksi di sisi kanan
 
 ---
 
 #### Aerial View - Garden Layout
 
-![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_aerial_photorealistic_1770186981143.png)
+![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/aerial_view_original_plan_1770187383123.png)
 
 **Konsep Landscaping:**
 
