@@ -151,8 +151,8 @@ Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI
 
 **Status Resmi:**
 
-- ✅ **National Wellness Tourism Pilot Project** [Kemenparekraf, 2024]
-- ✅ Designated bersama Bali dan Yogyakarta [Kemenparekraf, 2024]
+- ✅ **National Wellness Tourism Pilot Project** [[Kemenparekraf, 2021](https://bob.kemenparekraf.go.id/126155-siaran-pers-wamenparekraf-dorong-kota-solo-jadi-pilot-project-wellness-tourism-indonesia/)]
+- ✅ Designated bersama Bali dan Yogyakarta [[Jateng Prov, 2021](https://jatengprov.go.id/beritadaerah/solo-jadi-percontohan-wellness-city-di-indonesia/)]
 - ✅ **"Solo Wellness City"** initiative [Pemkot Solo; Kemenparekraf; Indonesia Wellness Institute]
 
 **Pertumbuhan Eksponensial:**
