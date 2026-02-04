@@ -306,6 +306,25 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### Sensory Garden & Landscaping
 
+#### Integrated Garden Layout Plan
+
+![Garden Layout Integrated](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_layout_integrated_1770186519123.png)
+
+**Zona Garden Terintegrasi:**
+
+- **Welcome Garden (Depan):** Area penyambutan dengan tanaman hias, signage, information kiosk
+- **Sensory Garden Plots (Kiri):** 6 plot tanaman obat (Jahe, Kunyit, Temulawak, Kencur, Lengkuas, Sereh) dengan educational signage
+- **Meditation & Relaxation Area (Kanan):** Gazebo, water feature, tanaman aromaterapi, yoga space
+- **Demonstration Garden (Belakang):** Area hands-on planting, tool shed, composting, workshop outdoor
+- **Connecting Pathways:** Jalur utama (paved) dan jalur sekunder, wheelchair accessible
+
+**Integrasi dengan Fasilitas:**
+- Viewing Gallery memiliki akses visual ke garden
+- Training Room dapat menggunakan outdoor space untuk sesi al fresco
+- Direct access dari building ke semua zona garden
+
+---
+
 #### Aerial View - Garden Layout
 
 ![Sensory Garden Aerial](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/garden_aerial_consistent_1770092864701.png)
