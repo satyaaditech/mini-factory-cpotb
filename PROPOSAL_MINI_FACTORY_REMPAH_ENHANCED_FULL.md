@@ -906,7 +906,7 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 - **Dukungan:**
   - Beasiswa pelatihan GRATIS (mekanik, otomasi, desain) [[Solo Technopark, 2025](https://solotechnopark.id)]
-  - Mentor grants **Rp 9 juta+** sudah disbursed (170+ recipients) [[Solo Technopark, 2024](https://jateng.antaranews.com/berita/546439/solo-technopark-fasilitasi-perintis-usaha-kembangkan-wawasan)]
+  - Program Inkubasi Bisnis & Mentoring (Techno Incubator Grade A) [[RMOL Jateng, 2023](https://www.rmoljawatengah.id/solo-techno-incubator-raih-grade-a-dalam-inkubasi-award-2023)]
   - Program inkubasi & pra-inkubasi
 - **Nilai Potensial:** **Rp 10-50 juta** grants + free training
 - **Status:** ✅ Program aktif, verified [Feb 2026]
