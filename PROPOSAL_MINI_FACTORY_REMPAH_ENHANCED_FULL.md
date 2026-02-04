@@ -66,7 +66,7 @@ Februari 2026
 
 **Tapi ketika 4.4 juta wisatawan datang ke Solo tahun 2024** [[Dinas Pariwisata Surakarta, 2024](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)], Ibu Siti hanya bisa melihat mereka lewat. Hotelnya tidak bisa stock produknya. Toko oleh-oleh modern menolak karena tidak ada izin BPOM. E-commerce marketplace seperti Tokopedia dan Shopee mensyaratkan sertifikasi yang tidak dia miliki.
 
-**Kenapa?** Karena untuk mendapatkan izin edar BPOM, produk harus diproduksi di **fasilitas bersertifikat CPOTB (Cara Pembuatan Obat Tradisional yang Baik)**. Untuk membangun fasilitas CPOTB sendiri, Ibu Siti harus invest **Rp 300-500 juta** [[BPOM PerBPOM No. 11/2025](https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf)]—mustahil untuk UMKM dengan revenue Rp 8-10 juta/bulan.
+**Kenapa?** Karena untuk mendapatkan izin edar BPOM, produk harus diproduksi di **fasilitas bersertifikat CPOTB (Cara Pembuatan Obat Tradisional yang Baik)** [[BPOM PerBPOM No. 11/2025](https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf)]. Untuk membangun fasilitas CPOTB sendiri, UMKM harus invest **ratusan juta rupiah** untuk konstruksi bangunan yang memenuhi standar (epoxy floor, stainless walls, HVAC, drainage) plus equipment processing—mustahil untuk UMKM dengan revenue Rp 8-10 juta/bulan.
 
 **Akibatnya:**
 - Revenue stuck di Rp 8-10 juta/bulan (hanya pasar tradisional)
