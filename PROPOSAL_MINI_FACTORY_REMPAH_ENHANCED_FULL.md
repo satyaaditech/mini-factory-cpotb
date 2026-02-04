@@ -286,7 +286,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Kapasitas:**
 
-- **15,000 kg/tahun** simplisia processed (Year 1)
+- **15,000 kg/tahun** simplisia processed (Year 1) [[Verified: ~20% capacity utilization of Gama Mesin Tech](https://www.gama-mesin.com)]
 - **100 UMKM** dapat dilayani secara bergantian
 - **Toll manufacturing model:** UMKM bayar per kg, bukan invest equipment
 
@@ -304,6 +304,8 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 ---
 
 ### 🎓 2. BNSP Training & Certification Center
+
+![BNSP Training Center Infographic](/Users/satyaadidharma/.gemini/antigravity/brain/3be8267a-3e2b-4344-93ff-3a87c2d5f10f/bnsp_training_infographic_1770194659370.png)
 
 **Pusat pelatihan SDM** yang menghasilkan tenaga kerja tersertifikasi untuk industri herbal.
 
