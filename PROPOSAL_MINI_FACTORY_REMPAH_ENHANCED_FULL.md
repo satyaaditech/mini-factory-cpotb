@@ -44,13 +44,13 @@ Februari 2026
 
 <div align="center">
 
-### ⏰ WINDOW OF OPPORTUNITY: 12-18 BULAN
+### ⏰ MOMENTUM STRATEGIS
 
-**Wonderful Indonesia Wellness 2026** di Solo (Q4 2026) - Kita harus ready!  
-**Kompetitor** mulai bergerak: Yogyakarta planning shared facility (Q1 2027)  
-**Government grants** Kemenperin available hingga Desember 2026
+**Wonderful Indonesia Wellness 2025** sukses dengan Rp 8.5-9 miliar transaksi UMKM  
+**First mover advantage** - Belum ada shared CPOTB facility di Jawa Tengah  
+**Government support** - Kemenperin IKM OT program (Rp 100-140M) tersedia
 
-**INVEST NOW OR MISS THE OPPORTUNITY**
+**CAPITALIZE MOMENTUM SEKARANG**
 
 </div>
 
@@ -59,6 +59,8 @@ Februari 2026
 ## 🎯 HERO STORY: Mengapa Mini Factory Urgent dan Penting
 
 ### Kisah Ibu Siti: Representasi 100+ UMKM Herbal Solo
+
+> **📌 CATATAN:** "Ibu Siti" adalah **composite character** yang merepresentasikan kondisi umum 100+ UMKM herbal Solo berdasarkan data UNS Vokasi 2024 dan observasi lapangan. Angka revenue dan challenges adalah rata-rata dari survey UMKM.
 
 **Ibu Siti Rahayu (47 tahun)** telah membuat jamu kunyit asam selama 22 tahun di kawasan Pasar Gede, Solo. Resepnya turun-temurun dari neneknya yang merupakan sinder (penjual jamu gendong) legendaris di era 1970-an. Kualitas jamunya terbukti—pelanggan setianya mencapai 40-50 orang per hari, dan banyak yang sudah mengonsumsi produknya selama puluhan tahun.
 
@@ -847,17 +849,17 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 - ✅ **Alternative funding:** Bank loan Rp 100-150M dengan collateral facility asset (interest rate 8-10%/year)
 - ✅ **Multiple CSR targets:** 3 companies (Sido Muncul, Deltomed, Air Mancur) + backup list 5 companies
 
-**5. RISK: Competition dari Yogyakarta atau Semarang**
+**5. RISK: Future Competition dari Kota Lain**
 
 **Likelihood:** MEDIUM (40% dalam 2-3 tahun)  
-**Impact:** LOW (market cukup besar untuk 2-3 players)
+**Impact:** LOW (market Jawa Tengah cukup besar untuk 2-3 players)
 
 **Mitigation:**
-- ✅ **First mover advantage:** Establish 100 UMKM base SEBELUM kompetitor masuk
+- ✅ **First mover advantage:** Establish 100 UMKM base dan brand recognition SEBELUM kompetitor masuk
 - ✅ **Brand loyalty:** UMKM akan setia ke fasilitas yang PERTAMA bantu mereka naik kelas
 - ✅ **Network effects:** Semakin banyak UMKM, semakin kuat ekosistem (switching cost tinggi)
 - ✅ **Continuous innovation:** R&D partnership dengan UNS untuk product development edge
-- ✅ **Geographic focus:** Solo + Karanganyar + Sukoharjo + Boyolali (radius 50km) = 200+ UMKM potential
+- ✅ **Geographic focus:** Solo Raya (Solo + Karanganyar + Sukoharjo + Boyolali, radius 50km) = 200+ UMKM potential
 
 #### Contingency Budget (10% Reserve)
 
