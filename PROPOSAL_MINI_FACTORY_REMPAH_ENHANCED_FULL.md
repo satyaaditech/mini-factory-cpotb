@@ -368,74 +368,36 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ## 🏗️ DESAIN FASILITAS: Modern Technology, Javanese Soul
 
-### Tampak Luar - Front View
+### Tampak Eksterior Utama & Lanskap
 
-![Facility Exterior Front](images/facility_exterior_front_1770092215160.png)
+![Main Facility Exterior](images/facility_exterior_main.jpg)
 
-**Konsep Arsitektur:**
+**Konsep Arsitektur & Lanskap:**
 
-- Bangunan **SINGLE-STORY (1 lantai)** dengan footprint **rectangular 30m × 10m** (300m² total)
-- Perpaduan material kontemporer (kaca, baja, panel putih) dengan **elemen batik Jawa prominent** (motif parang kusuma)
-- **Atap datar dengan joglo-style overhang** tradisional Jawa
-- **Viewing window besar** untuk wellness tourism gallery
-- **Filosofi:** "Modern technology inside, traditional Javanese soul outside"
-
----
-
-### Tampak Samping - 3/4 Angle View
-
-![Facility Exterior Angle](images/facility_angle_consistent_1770092844914.png)
-
-**Perspektif 3/4:**
-
-- Terlihat jelas: batik panels (parang kusuma), glass windows, entrance di center-front
-- **Kebun percontohan organik herbal** dengan plant identification signs: **KUNYIT, JAHE, TEMULAWAK, LENGKUAS, SEREH**
-- **Pendopo Jawa tradisional** di sisi kanan (wellness tourism area)
-- Lush green plants, terracotta pots, bamboo plant markers, natural stone pathways
+- **Bangunan:** Single-story (300m²) dengan atap datar & joglo-style overhang, memadukan panel putih modern dengan motif batik parang kusuma.
+- **Perspektif Juxtaposition:** "Modern technology inside, traditional Javanese soul outside."
+- **Viewing Window:** Kaca besar di area depan untuk transparansi edukasi wellness tourism.
+- **Integrated Garden:** Kebun percontohan herbal (Kunyit, Jahe, Temulawak, Lengkuas, Sereh) yang mengelilingi bangunan.
+- **Fasilitas Pendukung:** Pendopo Jawa tradisional di sisi kanan sebagai area istirahat wisatawan dan photo spot.
+- **Suasana:** Natural stone pathways dan tanaman rimbun menciptakan ambience yang asri dan mengundang.
 
 ---
 
 ### Sensory Garden & Landscaping
 
-#### Integrated Garden Layout Plan
-
-![Garden Layout Integrated](images/06_garden_aerial.png)
-
-**Area Terbuka (200m²):**
-
-- **Parkir (50m²):** Area parkir dengan kapasitas 3-4 mobil, paved surface, accessible pathway
-- **Kebun Percontohan Herbal + Sensory Garden (120m²):** 6 plot raised beds tanaman obat (Jahe, Kunyit, Temulawak, Kencur, Lengkuas, Sereh) dengan educational signage, walking paths, area observasi wisatawan
-- **Photo Spot (30m²):** Area foto Instagram-worthy dengan backdrop Jawa tradisional, ornamental plants, seating
-
-**Integrasi dengan Bangunan:**
-- **Area Non-Produksi (Kiri):** Aula Pelatihan (60m²) dengan viewing window ke produksi, Mini Café + Retail (20m²), Kantor/Meeting (30m²), Toilet & Locker (15m²)
-- **Area Produksi (Kanan):** R. Pengeringan, Grinding, Mixing, Filling, Packaging, Gudang Suhu Terkendali, Lab & QC (20m²), R. Cuci Alat
-- **Viewing Window:** Glass partition menghubungkan Aula Pelatihan dengan area produksi untuk edukasi visual
-- **Visitor Flow:** Terpisah dari production flow - wisatawan di sisi kiri, produksi di sisi kanan
-
----
-
-#### Aerial View - Garden Layout
-
-![Sensory Garden Aerial](images/06_garden_aerial.png)
-
-**Konsep Landscaping:**
-
-- Kebun percontohan herbal mengelilingi bangunan rectangular 30m × 10m
-- **Zona tematik:** "Rimpang Zone" (kunyit, jahe, lengkuas, temulawak), "Daun Zone" (sereh, pandan), "Bunga Zone" (rosella, kembang sepatu)
-- **Area depan (selatan):** Main sensory garden dengan walking paths, seating areas
-- **Sisi kanan (timur):** Wellness tourism garden dengan photo spots, pendopo Jawa kecil
-
 #### Ground-Level Perspective
 
 ![Facility with Garden](images/facility_with_garden_1770092257893.png)
 
-**Elemen Garden:**
+**Konsep Landscaping & Elemen Garden:**
 
-- **Tanaman obat teridentifikasi:** Kunyit (Turmeric), Jahe (Ginger), Temulawak, Lengkuas (Galangal), Sereh (Lemongrass)
-- **Educational signage:** Informasi khasiat obat, cara pengolahan, resep tradisional
-- **Instagram-worthy spots:** Photo corners dengan backdrop batik panels + tanaman obat
-- **Visitor experience:** Wisatawan dapat menyentuh, mencium aroma, dan belajar langsung
+- **Zona Tematik:** "Rimpang Zone" (kunyit, jahe), "Daun Zone" (sereh), "Bunga Zone" (rosella).
+- **Tanaman obat teridentifikasi:** Kunyit (Turmeric), Jahe (Ginger), Temulawak, Lengkuas (Galangal), Sereh (Lemongrass).
+- **Educational signage:** Informasi khasiat obat, cara pengolahan, resep tradisional.
+- **Instagram-worthy spots:** Photo corners dengan backdrop batik panels + tanaman obat.
+- **Visitor experience:** Wisatawan dapat menyentuh, mencium aroma, dan belajar langsung.
+
+
 
 **Fungsi Ganda:**
 
@@ -546,28 +508,29 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### 3. PAD & Economic Contribution
 
-**Direct PAD (Pendapatan Asli Daerah—pendapatan pemerintah kota) Contribution:**
+### 3. PAD & Economic Contribution (Indirect)
 
-- **Retribusi fasilitas:** Rp 50-100 juta/tahun (dari toll manufacturing)
-- **Kontribusi Retribusi UMKM:** 100 UMKM yang naik kelas = additional local revenue
-- **Wellness tourism:** 3,000 visitors × Rp 50k = Rp 150 juta (portion to PAD)
+**Indirect PAD (Pendapatan Asli Daerah) Contribution:**
 
-**Indirect PAD Contribution:**
+*(Pendapatan langsung dikelola penyelenggara, Pemkot mendapat manfaat dari pajak tidak langsung dan multiplier effect)*
 
-- **Hotel & restaurant:** 3,000 wellness tourists × Rp 500k spending = Rp 1.5 miliar
-- **Transportation:** Taxi, ojol, rental
-- **Retail:** Souvenir, local products
+- **Peningkatan Kontribusi Sektor Hospitality:** Didorong oleh kunjungan *wellness tourists* yang cenderung memiliki *spending power* lebih tinggi dan durasi tinggal (*length of stay*) lebih lama.
+- **Multiplier Effect Ekonomi Lokal:** Stimulasi bagi sektor transportasi, jasa logistik, retail oleh-oleh, dan kuliner lokal di ekosistem Solo Technopark.
+- **Peningkatan Kelas UMKM = Potensi Pendapatan Jangka Panjang:** UMKM yang naik kelas (memiliki izin edar BPOM) akan memiliki pencatatan keuangan yang lebih baik, meningkatkan potensi kontribusi pendapatan daerah yang valid di masa depan.
+- **Branding Kota:** Memperkuat citra Solo sebagai "Wellness Tourism Hub", menarik investasi baru di sektor kesehatan dan pariwisata.
 
 **Total Economic Impact (Year 1):**
 
-- Direct revenue: **Rp 870 juta**
-- UMKM additional revenue: **Rp 12 miliar**
-- Tourism spending: **Rp 1.5 miliar**
-- **Total: Rp 14.37 miliar** economic activity generated
+- **Penciptaan Ekosistem Baru:** Integrasi hulu-hilir (Petani → Produksi → Wisata) yang berkelanjutan.
+- **200+ Lapangan Kerja Valuasi Tinggi:** Menciptakan peluang kerja baru di sektor manufaktur herbal, quality control, dan hospitality.
+- **Efisiensi Produksi UMKM 30-40%:** Menurunkan biaya produksi UMKM melalui fasilitas *shared-factory* yang efisien, meningkatkan margin keuntungan mitra secara riil.
+- **Peningkatan Daya Saing:** Produk UMKM lokal berstandar *export-quality* (CPOTB Certified).
 
 ---
 
 ### 4. Branding Solo sebagai Indonesia's Wellness Hub
+
+![Solo Wellness Positioning](images/solo_positioning_infographic.png)
 
 **Positioning Strategis:**
 
