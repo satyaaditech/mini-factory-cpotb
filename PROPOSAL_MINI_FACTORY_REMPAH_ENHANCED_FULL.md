@@ -187,14 +187,14 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 **Ukuran Pasar:**
 
-- **USD 13.732 miliar** (2024) ≈ **Rp 220 triliun** total market value [Custom Market Insights, 2024]
-- **CAGR (Compound Annual Growth Rate—tingkat pertumbuhan rata-rata per tahun) 7.1%** proyeksi hingga 2033 → USD 25.459 miliar [Custom Market Insights, 2024]
+- **USD 13.732 miliar** (2024) ≈ **Rp 220 triliun** total market value [[Custom Market Insights via Enciety, 2024](https://enciety.co/jamu-dan-herbal-indonesia-bisnis-era-modern/)]
+- **CAGR (Compound Annual Growth Rate—tingkat pertumbuhan rata-rata per tahun) 7.1%** proyeksi hingga 2033 → USD 25.459 miliar [[Custom Market Insights, 2024](https://enciety.co/jamu-dan-herbal-indonesia-bisnis-era-modern/)]
 - **Pertumbuhan 2x lipat** dalam 9 tahun ke depan
 
 **Perilaku Konsumen:**
 
-- **59.6% populasi Indonesia** mengonsumsi jamu/herbal [Kemenkes Ristoja, 2024]
-- **72.62% masyarakat Jawa** konsumen aktif jamu (lebih tinggi dari rata-rata nasional!) [Kemenkes Ristoja, 2024]
+- **59.6% populasi Indonesia** mengonsumsi jamu/herbal [[Kemenkes Ristoja via GP Jamu, 2024](https://gpjamu.org/yuk-sukseskan-jamu-jadi-ujung-tombak-kesehatan-masyarakat/)]
+- **72.62% masyarakat Jawa** konsumen aktif jamu (lebih tinggi dari rata-rata nasional!) [[Kemenkes Ristoja, 2024](https://gpjamu.org/yuk-sukseskan-jamu-jadi-ujung-tombak-kesehatan-masyarakat/)]
 - **6 dari 10 orang Indonesia** adalah potential customers
 
 **Struktur Industri:**
@@ -290,7 +290,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Equipment CPOTB-compliant:**
 
-- Grinding/milling machines (50-60 kg/hour) [Gama Mesin; PT Margamas, 2026]
+- Grinding/milling machines (50-60 kg/hour) [[Gama Mesin](https://www.gama-mesin.com/mesin-ekstrak-herbal); [PT Margamas](https://www.margamascitratama.com), 2026]
 - Herbal extraction equipment (200L batch)
 - Powder mixing machines (50 kg capacity)
 - Capsule filling machines (10,000-12,000 caps/hour)
