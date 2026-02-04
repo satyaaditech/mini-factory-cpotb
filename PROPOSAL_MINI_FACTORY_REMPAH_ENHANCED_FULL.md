@@ -31,7 +31,7 @@ Februari 2026
 | **100+ UMKM herbal Solo** stuck di pasar informal | **Mini Factory:** First shared CPOTB facility di Jawa Tengah |
 | ❌ Tidak bisa akses CPOTB → Tidak bisa dapat izin BPOM | ✅ **4-in-1 Ecosystem:** Production + Training + Tourism + R&D |
 | ❌ Missing **Rp 220 triliun** market opportunity | ✅ **Investment:** Rp 500M (Pemkot Rp 300M + CSR Rp 200M) |
-| ❌ Revenue stuck Rp 5-10 juta/bulan | ✅ **Capacity:** 100 UMKM dapat dilayani bergantian |
+| ❌ Revenue terbatas di pasar informal | ✅ **Capacity:** 100 UMKM dapat dilayani bergantian |
 | ❌ 4.4 juta wisatawan lewat tanpa bisa capitalize | ✅ **Wellness Tourism:** Integrated destination |
 
 | **THE IMPACT** | **THE RETURNS** |
@@ -66,11 +66,11 @@ Februari 2026
 
 **Tapi ketika 4.4 juta wisatawan datang ke Solo tahun 2024** [[Dinas Pariwisata Surakarta, 2024](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)], Ibu Siti hanya bisa melihat mereka lewat. Hotelnya tidak bisa stock produknya. Toko oleh-oleh modern menolak karena tidak ada izin BPOM. E-commerce marketplace seperti Tokopedia dan Shopee mensyaratkan sertifikasi yang tidak dia miliki.
 
-**Kenapa?** Karena untuk mendapatkan izin edar BPOM, produk harus diproduksi di **fasilitas bersertifikat CPOTB (Cara Pembuatan Obat Tradisional yang Baik)** [[BPOM PerBPOM No. 11/2025](https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf)]. Untuk membangun fasilitas CPOTB sendiri, UMKM harus invest **ratusan juta rupiah** untuk konstruksi bangunan yang memenuhi standar (epoxy floor, stainless walls, HVAC, drainage) plus equipment processing—mustahil untuk UMKM dengan revenue Rp 8-10 juta/bulan.
+**Kenapa?** Karena untuk mendapatkan izin edar BPOM, produk harus diproduksi di **fasilitas bersertifikat CPOTB (Cara Pembuatan Obat Tradisional yang Baik)** [[BPOM PerBPOM No. 11/2025](https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf)]. Untuk membangun fasilitas CPOTB sendiri, UMKM harus invest **ratusan juta rupiah** untuk konstruksi bangunan yang memenuhi standar (epoxy floor, stainless walls, HVAC, drainage) plus equipment processing—mustahil untuk UMKM mikro dengan revenue terbatas.
 
 **Akibatnya:**
-- Revenue stuck di Rp 8-10 juta/bulan (hanya pasar tradisional)
-- Tidak bisa ekspansi ke hotel, minimarket, atau e-commerce
+- Revenue terbatas karena hanya bisa jual di pasar informal (warung, pasar tradisional)
+- Tidak bisa ekspansi ke hotel, minimarket, apotek, atau e-commerce
 - Tidak bisa hire karyawan (masih produksi sendiri di dapur rumah)
 - Tidak bisa capitalize dari 4.4 juta potential customers yang datang ke Solo
 
@@ -80,17 +80,17 @@ Februari 2026
 
 **Setelah Mini Factory beroperasi, Ibu Siti akan bisa:**
 
-✅ **Produksi di fasilitas CPOTB-certified** (toll manufacturing Rp 30k-50k/kg)  
+✅ **Produksi di fasilitas CPOTB-certified** (toll manufacturing model)  
 ✅ **Mendapatkan izin edar BPOM** dalam 6-9 bulan  
 ✅ **Jual di hotel, minimarket, apotek** (akses pasar modern)  
 ✅ **Ekspansi ke e-commerce** (Tokopedia, Shopee, TikTok Shop)  
-✅ **Revenue meningkat 3-4x** menjadi Rp 25-40 juta/bulan  
-✅ **Hire 2-3 karyawan** (create jobs)  
+✅ **Revenue meningkat signifikan** dengan akses ke pasar formal  
+✅ **Hire karyawan** (create jobs)  
 ✅ **Naik kelas** dari mikro ke kecil/menengah
 
 **Impact Multiplier:**
-- **100 UMKM** seperti Ibu Siti × **Rp 15 juta additional revenue/month** = **Rp 1.5 miliar/bulan** economic impact
-- **Rp 18 miliar/tahun** additional economic activity di Solo
+- **100 UMKM** seperti Ibu Siti yang naik kelas dari pasar informal ke formal
+- **Substantial additional economic activity** di Solo dari UMKM empowerment
 - **300+ indirect jobs** (packaging, delivery, marketing, retail)
 
 > **💡 INSIGHT KRITIS:**  
@@ -485,7 +485,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - UMKM memproduksi di dapur rumah (tidak CPOTB)
 - Tidak bisa dapat izin edar BPOM
 - Stuck di pasar informal (warung, pasar tradisional)
-- Revenue terbatas (Rp 5-10 juta/bulan)
+- Revenue terbatas karena tidak bisa akses pasar modern
 - Tidak bisa ekspansi atau akses e-commerce
 
 **Setelah Mini Factory:**
@@ -493,13 +493,13 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - UMKM produksi di fasilitas CPOTB-certified
 - **Dapat izin edar BPOM** (akses pasar modern)
 - Jual di minimarket, apotek, e-commerce
-- Revenue meningkat 3-4x (Rp 15-40 juta/bulan)
+- Revenue dapat meningkat signifikan dengan akses pasar formal
 - **Naik kelas** dari mikro ke kecil/menengah
 
 **Impact Multiplier:**
 
-- **100 UMKM** × **Rp 10 juta additional revenue/month** = **Rp 1 miliar/bulan** economic impact
-- **Rp 12 miliar/tahun** additional economic activity di Solo
+- **100 UMKM** empowered dengan akses ke pasar Rp 220 triliun
+- **Substantial additional economic activity** di Solo dari UMKM yang naik kelas
 - **300+ indirect jobs** (packaging, delivery, marketing)
 
 ---
@@ -741,9 +741,18 @@ Untuk memberikan gambaran holistik bagaimana Mini Factory menciptakan, mengirimk
 - **Partnership:** UNS (lab, dosen), UMKM (co-creation)
 - **Revenue Year 1:** Rp 60 juta (retainer + project-based)
 
-**Total Year 1 Revenue:** **Rp 870 juta** (konservatif)
-**Total Year 1 Net Profit:** **Rp 210 juta** (after operational costs)
-**ROI Year 1:** **42%**
+**Total Year 1 Revenue (PROJECTED):** **Rp 870 juta** (conservative estimate)  
+**Total Year 1 Net Profit (PROJECTED):** **Rp 210 juta** (after operational costs)  
+**ROI Year 1 (PROJECTED):** **42%**
+
+> **📌 DISCLAIMER - FINANCIAL PROJECTIONS:**  
+> Semua angka revenue, profit, dan ROI di atas adalah **PROYEKSI** berdasarkan assumptions konservatif, BUKAN data historical atau guaranteed returns. Actual results akan tergantung pada:  
+> - UMKM adoption rate (target: 100 UMKM)  
+> - Training participant volume (target: 200/year)  
+> - Tourism visitor count (target: 3,000/year)  
+> - Market conditions dan competitive landscape  
+>  
+> **Lihat Sensitivity Analysis di bagian Risk Mitigation** untuk best/base/worst case scenarios.
 
 **Kenapa Model Bisnis Ini Sustainable (Berkelanjutan)?**
 
@@ -775,7 +784,7 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 | **ROI (Annual)**      | 42%                | 120%                 | 190%                 |
 | **Payback Period**    | 2.4 tahun          | -                    | -                    |
 
-**Catatan:** Proyeksi konservatif berdasarkan data terverifikasi. Skenario optimistis (dengan marketing agresif & partnership kuat) dapat mencapai Rp 1.2-1.5 miliar Year 1.
+**Catatan:** Semua proyeksi di atas adalah **CONSERVATIVE ESTIMATES** berdasarkan assumptions yang realistis. Skenario optimistis (dengan marketing agresif & partnership kuat) dapat mencapai Rp 1.2-1.5 miliar Year 1. **Lihat Sensitivity Analysis** di bagian Risk Mitigation untuk detail best/base/worst case scenarios.
 
 ---
 
