@@ -1,15 +1,30 @@
-# UNLOCK Rp 220 TRILIUN
+<style>
+@media print {
+  hr {
+    break-after: page;
+    page-break-after: always;
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+  }
+  /* Optional: Ensure headers don't get stranded at bottom of page */
+  h1, h2, h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+}
+</style>
 
 ## Solo Wellness Manufacturing Hub: Transforming 100 UMKM from Informal to International
 
-**Mini Factory Pengolahan Rempah Solo Technopark**  
+**Mini Factory Pengolahan Rempah Solo Technopark**
 **Fasilitas Bersama CPOTB untuk Pemberdayakan UMKM Herbal**
 
 ---
 
 <div align="center">
 
-**Pemerintah Kota Surakarta**  
+**Pemerintah Kota Surakarta**
 **Solo Technopark**
 
 Februari 2026
@@ -26,28 +41,28 @@ Februari 2026
 
 </div>
 
-| **THE PROBLEM** | **THE SOLUTION** |
-|-----------------|------------------|
-| **100+ UMKM herbal Solo** stuck di pasar informal | **Mini Factory:** First shared CPOTB facility di Jawa Tengah |
-| ❌ Tidak bisa akses CPOTB → Tidak bisa dapat izin BPOM | ✅ **4-in-1 Ecosystem:** Production + Training + Tourism + R&D |
-| ❌ Missing **Rp 220 triliun** market opportunity | ✅ **Investment:** Rp 500M (Pemkot Rp 300M + CSR Rp 200M) |
-| ❌ Revenue terbatas di pasar informal | ✅ **Capacity:** 100 UMKM dapat dilayani bergantian |
-| ❌ 4.4 juta wisatawan lewat tanpa bisa capitalize | ✅ **Wellness Tourism:** Integrated destination |
+| **THE PROBLEM**                                       | **THE SOLUTION**                                              |
+| ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| **100+ UMKM herbal Solo** terhambat di pasar informal | **Mini Factory:** First shared CPOTB facility di Jawa Tengah  |
+| ❌ Tidak bisa akses CPOTB → Tidak bisa dapat izin BPOM     | ✅**4-in-1 Ecosystem:** Production + Training + Tourism + R&D |
+| ❌ Missing**Rp 220 triliun** market opportunity       | ✅**Investment:** Rp 500M (Pemkot Rp 300M + CSR Rp 200M)      |
+| ❌ Pendapatan terbatas di pasar informal                    | ✅**Capacity:** 100 UMKM dapat dilayani bergantian            |
+| ❌ 4.4 juta wisatawan lewat tanpa bisa mengoptimalkan       | ✅**Wellness Tourism:** Integrated destination                |
 
-| **THE IMPACT** | **THE RETURNS** |
-|----------------|-----------------|  
-| ✅ **100 UMKM** empowered → Rp 12B additional revenue/year | 💰 **ROI:** 42% Year 1 |
-| ✅ **200+ SDM** certified BNSP annually | 💰 **Payback:** 2.4 years |
-| ✅ **Solo = Indonesia's Wellness Manufacturing Hub** | 💰 **Economic Impact:** Rp 14.37B Year 1 |
-| ✅ **300+ indirect jobs** created | 💰 **Break-even:** Month 24 |
-| ✅ **First mover advantage** di Jawa Tengah | 💰 **Self-sustaining** by Year 2 |
+| **THE IMPACT**                                      | **THE RETURNS**                                       |
+| --------------------------------------------------------- | ----------------------------------------------------------- |
+| ✅**100 UMKM** empowered → 30-40% Efisiensi Biaya  | 💰**ROI:** Break-even Operasional Tahun 1             |
+| ✅**200+ SDM** certified BNSP annually              | 💰**Payback:** ~3 years                               |
+| ✅**Solo = Indonesia's Wellness Manufacturing Hub** | 💰**Economic Impact:** 200+ Jobs & Ecosystem Creation |
+| ✅**300+ indirect jobs** created                    | 💰**Break-even:** Month 24                            |
+| ✅**First mover advantage** di Jawa Tengah          | 💰**Self-sustaining** by Tahun 2                      |
 
 <div align="center">
 
 ### ⏰ MOMENTUM STRATEGIS
 
-**Wonderful Indonesia Wellness 2025** sukses dengan Rp 8.5-9 miliar transaksi UMKM  
-**First mover advantage** - Belum ada shared CPOTB facility di Jawa Tengah  
+**Wonderful Indonesia Wellness 2025** sukses dengan Rp 8.5-9 miliar transaksi UMKM
+**First mover advantage** - Belum ada shared CPOTB facility di Jawa Tengah
 **Government support** - Kemenperin IKM OT program (Rp 100-140M) tersedia
 
 **CAPITALIZE MOMENTUM SEKARANG**
@@ -66,78 +81,63 @@ Februari 2026
 
 **Tapi ketika 4.4 juta wisatawan datang ke Solo tahun 2024** [[Dinas Pariwisata Surakarta, 2024](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)], Ibu Siti hanya bisa melihat mereka lewat. Hotelnya tidak bisa stock produknya. Toko oleh-oleh modern menolak karena tidak ada izin BPOM. E-commerce marketplace seperti Tokopedia dan Shopee mensyaratkan sertifikasi yang tidak dia miliki.
 
-**Kenapa?** Karena untuk mendapatkan izin edar BPOM, produk harus diproduksi di **fasilitas bersertifikat CPOTB (Cara Pembuatan Obat Tradisional yang Baik)** [[BPOM PerBPOM No. 11/2025](https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf)]. Untuk membangun fasilitas CPOTB sendiri, UMKM harus invest **ratusan juta rupiah** untuk konstruksi bangunan yang memenuhi standar (epoxy floor, stainless walls, HVAC, drainage) plus equipment processing—mustahil untuk UMKM mikro dengan revenue terbatas.
+**Kenapa?** Karena untuk mendapatkan izin edar BPOM, produk harus diproduksi di **fasilitas bersertifikat CPOTB (Cara Pembuatan Obat Tradisional yang Baik)** [[BPOM PerBPOM No. 11/2025](https://peraturan.bpk.go.id/Download/381648/peraturan-bpom-no-11-tahun-2025.pdf)]. Untuk membangun fasilitas CPOTB sendiri, UMKM harus investasikan **ratusan juta rupiah** untuk konstruksi bangunan yang memenuhi standar (epoxy floor, stainless walls, HVAC, drainage) plus equipment processing—mustahil untuk UMKM mikro dengan revenue terbatas.
 
 **Akibatnya:**
-- Revenue terbatas karena hanya bisa jual di pasar informal (warung, pasar tradisional)
+
+- Pendapatan terbatas karena hanya bisa jual di pasar informal (warung, pasar tradisional)
 - Tidak bisa ekspansi ke hotel, minimarket, apotek, atau e-commerce
 - Tidak bisa hire karyawan (masih produksi sendiri di dapur rumah)
-- Tidak bisa capitalize dari 4.4 juta potential customers yang datang ke Solo
+- Tidak bisa mengoptimalkan dari 4.4 juta potential customers yang datang ke Solo
 
-**Seperti Ibu Siti, ada 100+ UMKM herbal Solo** yang punya produk bagus, resep tradisional terbukti, dan customer base loyal—tapi **stuck di pasar informal** karena tidak bisa akses fasilitas CPOTB [[UNS Vokasi, 2024](https://vokasi.uns.ac.id/2025/06/20/program-studi-d3-upw-gelar-event-solo-wellness-tourism-expo-2025-swte-2025-di-tahun-pertama/)].
+**Seperti Ibu Siti, ada 100+ UMKM herbal Solo** yang punya produk bagus, resep tradisional terbukti, dan customer base loyal—tapi **terhambat di pasar informal** karena tidak bisa akses fasilitas CPOTB [[UNS Vokasi, 2024](https://vokasi.uns.ac.id/2025/06/20/program-studi-d3-upw-gelar-event-solo-wellness-tourism-expo-2025-swte-2025-di-tahun-pertama/)].
 
 ### Transformasi yang Akan Terjadi dengan Mini Factory
 
 **Setelah Mini Factory beroperasi, Ibu Siti akan bisa:**
 
-✅ **Produksi di fasilitas CPOTB-certified** (toll manufacturing model)  
-✅ **Mendapatkan izin edar BPOM** dalam 6-9 bulan  
-✅ **Jual di hotel, minimarket, apotek** (akses pasar modern)  
-✅ **Ekspansi ke e-commerce** (Tokopedia, Shopee, TikTok Shop)  
-✅ **Revenue meningkat signifikan** dengan akses ke pasar formal  
-✅ **Hire karyawan** (create jobs)  
+✅ **Produksi di fasilitas CPOTB-certified** (toll manufacturing model)
+✅ **Mendapatkan izin edar BPOM** dalam 6-9 bulan
+✅ **Jual di hotel, minimarket, apotek** (akses pasar modern)
+✅ **Ekspansi ke e-commerce** (Tokopedia, Shopee, TikTok Shop)
+✅ **Pendapatan meningkat signifikan** dengan akses ke pasar formal
+✅ **Hire karyawan** (create jobs)
 ✅ **Naik kelas** dari mikro ke kecil/menengah
 
 **Impact Multiplier:**
+
 - **100 UMKM** seperti Ibu Siti yang naik kelas dari pasar informal ke formal
 - **Substantial additional economic activity** di Solo dari UMKM empowerment
 - **300+ indirect jobs** (packaging, delivery, marketing, retail)
 
-> **💡 INSIGHT KRITIS:**  
-> Ini bukan tentang "menciptakan pasar baru"—**pasar sudah ada** (Rp 220 triliun), **demand sudah ada** (59.6% populasi Indonesia konsumsi jamu), **customers sudah ada** (4.4 juta wisatawan Solo).  
-> Yang hilang hanya satu: **fasilitas produksi yang memungkinkan UMKM naik kelas**.  
-> **Mini Factory adalah missing piece yang akan unlock seluruh ekosistem ini.**
+> **💡 INSIGHT KRITIS:**
+> Ini bukan tentang "menciptakan pasar baru"—**pasar sudah ada** (Rp 220 triliun), **demand sudah ada** (59.6% populasi Indonesia konsumsi jamu), **customers sudah ada** (4.4 juta wisatawan Solo).
+> Yang hilang hanya satu: **fasilitas produksi yang memungkinkan UMKM naik kelas**.
+> **Mini Factory adalah missing piece yang akan membuka potensi seluruh ekosistem ini.**
 
 ---
 
-## 📖 GLOSARIUM ISTILAH PENTING
+## 🔍 THE GAP: Mengapa UMKM Solo "Stuck" Padahal Pasar Rp 220 Triliun Menanti?
 
-Untuk memudahkan pemahaman, berikut penjelasan istilah-istilah teknis yang digunakan dalam proposal ini:
+![Daya Saing](images/accessibility_kesenjangan_chart_1770184662606.png)
 
-| Istilah         | Kepanjangan                               | Penjelasan Sederhana                                                                                                        |
-| --------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **CPOTB** | Cara Pembuatan Obat Tradisional yang Baik | Standar kebersihan dan kualitas produksi yang diwajibkan pemerintah untuk produk jamu/herbal agar bisa dapat izin edar BPOM |
-| **UMKM**  | Usaha Mikro Kecil Menengah                | Pengusaha kecil seperti produsen jamu rumahan, warung herbal, dll                                                           |
-| **BPOM**  | Badan Pengawas Obat dan Makanan           | Lembaga pemerintah yang mengawasi keamanan obat, makanan, dan produk kesehatan                                              |
-| **BNSP**  | Badan Nasional Sertifikasi Profesi        | Lembaga yang mengeluarkan sertifikat kompetensi untuk tenaga kerja terlatih                                                 |
-| **OT**    | Obat Tradisional                          | Jamu, herbal, dan produk kesehatan alami Indonesia                                                                          |
-| **QC**    | Quality Control                           | Kontrol kualitas—pengujian untuk memastikan produk aman dan berkualitas                                                    |
-| **R&D**   | Research & Development                    | Riset dan pengembangan produk baru                                                                                          |
-| **ROI**   | Return on Investment                      | Pengembalian investasi—berapa persen keuntungan dari modal yang ditanam                                                    |
-| **CAGR**  | Compound Annual Growth Rate               | Tingkat pertumbuhan rata-rata per tahun                                                                                     |
-| **PAD**   | Pendapatan Asli Daerah                    | Pendapatan pemerintah kota dari retribusi, usaha daerah, dll                                                                |
-| **SDG**   | Sustainable Development Goals             | Tujuan Pembangunan Berkelanjutan PBB                                                                                        |
-| **SDM**   | Sumber Daya Manusia                       | Tenaga kerja terlatih                                                                                                       |
+Masalah yang dihadapi Ibu Siti bukan kasus unik. Riset kami memetakan lanskap fasilitas herbal di Solo Raya dan menemukan **kekosongan fasilitas (mata rantai yang hilang)** yang masif:
 
----
+| Fasilitas Existing                | Layanan                                | Gap/Keterbatasan bagi UMKM                                             |
+| --------------------------------- | -------------------------------------- | ---------------------------------------------------------------------- |
+| **Pabrik Besar (IOT/UKOT)** | Produksi massal (Deltomed, Air Mancur) | ❌**High MOQ (Minimal Order Tinggi)**, tidak terima maklon kecil |
+| **Poltekkes Surakarta**     | Pendidikan D3 Jamu                     | ❌ Fokus pendidikan, bukan produksi komersial                          |
+| **BPVP/BLK Surakarta**      | Pelatihan barista jamu                 | ❌ Hanya training, tanpa fasilitas processing                          |
+| **Pasar Jamu Nguter**       | Pasar tradisional                      | ❌ Pusat perdagangan, bukan fasilitas CPOTB                            |
+| **Hortus Medicus**          | Klinik saintifikasi                    | ❌ Fokus riset & klinik, bukan maklon produksi                         |
 
-## 📋 RINGKASAN EKSEKUTIF
+### Analogi Sederhana: "Transportasi Publik vs Jet Pribadi"
 
-Solo berdiri di persimpangan sejarah yang luar biasa. Sebagai **satu dari tiga kota pilot project nasional wellness tourism** bersama Bali dan Yogyakarta [[Jateng Prov, 2021](https://jatengprov.go.id/beritadaerah/solo-jadi-percontohan-wellness-city-di-indonesia/)], Solo telah menarik **4.4 juta pengunjung di tahun 2024** [[Ref: UNS Vokasi, 2024](https://vokasi.uns.ac.id/2025/06/20/program-studi-d3-upw-gelar-event-solo-wellness-tourism-expo-2025-swte-2025-di-tahun-pertama/)] . Event **Wonderful Indonesia Wellness 2025** menghasilkan transaksi UMKM senilai **Rp 8.5-9 miliar** [[Kemenparekraf, 2025](https://bob.kemenparekraf.go.id/372700-wonderful-indonesia-wellness-dorong-solo/)], membuktikan bahwa pasar wellness tourism bukan hanya potensi—**ini adalah realitas yang sedang terjadi sekarang**.
+Bayangkan ekosistem produksi saat ini. Pabrik-pabrik besar ibarat **Jet Pribadi**: canggih tapi eksklusif. UMKM saat ini terpaksa **Jalan Kaki** (produksi manual di dapur).
 
-Namun, di balik kesuksesan ini, terdapat **gap kritis** yang menghalangi Solo untuk menjadi true wellness hub: **lebih dari 100 UMKM (Usaha Mikro Kecil Menengah) herbal lokal** tidak memiliki akses ke fasilitas produksi bersertifikat **CPOTB (Cara Pembuatan Obat Tradisional yang Baik—standar kebersihan dan kualitas produksi yang diwajibkan pemerintah)**. Mereka memiliki resep tradisional, pengetahuan turun-temurun, dan semangat kewirausahaan—tetapi **tidak bisa mendapatkan izin edar BPOM (Badan Pengawas Obat dan Makanan)** karena ketiadaan fasilitas produksi yang memenuhi standar.
+**Mini Factory hadir sebagai "Bus Trans Solo"**: fasilitas publik yang canggih, aman, dan bisa "dinaiki" siapa saja dengan tiket terjangkau.
 
-**Mini Factory Pengolahan Rempah** adalah solusi transformatif yang akan:
-
-- ✅ Memberdayakan **100 UMKM** dengan akses produksi bersertifikat CPOTB
-- ✅ Menciptakan **landmark wellness tourism** yang unik di Indonesia
-- ✅ Menghasilkan **200+ SDM tersertifikasi BNSP (Badan Nasional Sertifikasi Profesi)** per tahun
-- ✅ Memberikan **ROI (Return on Investment—pengembalian investasi) 42% di tahun pertama** dengan model bisnis berkelanjutan
-- ✅ Memposisikan Solo sebagai **Indonesia's Wellness Manufacturing Hub**
-
-Dengan investasi **Rp 500 juta** (Pemkot Rp 300M + CSR Perusahaan Rp 200M), Solo akan memiliki **fasilitas PERTAMA dan SATU-SATUNYA** di Jawa Tengah yang menggabungkan produksi CPOTB, pelatihan BNSP, wellness tourism, dan **R&D (Research & Development—riset dan pengembangan produk)** dalam satu ekosistem terintegrasi.
-
-**Ini bukan hanya investasi infrastruktur—ini adalah investasi dalam masa depan ekonomi kreatif Solo.**
+**Ini adalah FIRST PUBLIC SHARED FACILITY di Jawa Tengah.** Solusi ini memecahkan bottleneck terbesar: **AKSESIBILITAS.**
 
 ---
 
@@ -158,7 +158,7 @@ Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI
 **Pertumbuhan Eksponensial:**
 
 - **4.4 juta total pengunjung** tahun 2024 [[Ref: UNS Vokasi/Dinas Pariwisata, 2024](https://vokasi.uns.ac.id/2025/06/20/program-studi-d3-upw-gelar-event-solo-wellness-tourism-expo-2025-swte-2025-di-tahun-pertama/)]
-- **1.305 juta pengunjung** Q1 2025 (on track untuk growth) [[Dinas Pariwisata Surakarta, 2025](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)]
+- **1.305 juta pengunjung** Q1 2025 (on track untuk pertumbuhan) [[Dinas Pariwisata Surakarta, 2025](https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2025/04/Kunjungan-Wisatawan-Daya-Tarik-Wisata-Kota-Surakarta-per-Maret-2025.pdf)]
 - **Wonderful Indonesia Wellness 2025:** 3,700+ visitors, **Rp 8.5-9 miliar** transaksi UMKM [[Kemenparekraf, 2025](https://bob.kemenparekraf.go.id/372700-wonderful-indonesia-wellness-dorong-solo/)]
 
 **Ekosistem yang Berkembang:**
@@ -168,14 +168,14 @@ Solo tidak lagi "berpotensi" menjadi wellness destination—**Solo SUDAH MENJADI
 
 **Apa Artinya Angka-Angka Ini untuk Solo dan UMKM?**
 
-Bayangkan Solo seperti **tambang emas yang sudah ditemukan**: 4.4 juta wisatawan datang setiap tahun, pemerintah pusat sudah memberikan status pilot project nasional, dan event Wonderful Indonesia Wellness 2025 membuktikan bahwa UMKM bisa dapat transaksi Rp 8.5-9 miliar hanya dalam beberapa hari. Ini bukan lagi "potensi"—**ini adalah realitas yang sedang terjadi sekarang**. Namun, ada satu masalah besar: lebih dari 100 UMKM herbal Solo seperti **penambang tanpa alat**. Mereka melihat peluang emas (4.4 juta potential customers), punya resep tradisional yang bagus, dan semangat kewirausahaan—tetapi **tidak bisa capitalize** karena tidak memiliki fasilitas CPOTB untuk mendapatkan izin BPOM. Akibatnya, mereka hanya bisa jual di warung dan pasar tradisional, dengan revenue stuck di Rp 5-10 juta/bulan, sementara jutaan wisatawan lewat begitu saja.
+Bayangkan Solo seperti **tambang emas yang sudah ditemukan**: 4.4 juta wisatawan datang setiap tahun, pemerintah pusat sudah memberikan status pilot project nasional, dan event Wonderful Indonesia Wellness 2025 membuktikan bahwa UMKM bisa dapat transaksi Rp 8.5-9 miliar hanya dalam beberapa hari. Ini bukan lagi "potensi"—**ini adalah realitas yang sedang terjadi sekarang**. Namun, ada satu masalah besar: lebih dari 100 UMKM herbal Solo seperti **penambang tanpa alat**. Mereka melihat peluang emas (4.4 juta potential customers), punya resep tradisional yang bagus, dan semangat kewirausahaan—tetapi **tidak bisa mengoptimalkan** karena tidak memiliki fasilitas CPOTB untuk mendapatkan izin BPOM. Akibatnya, mereka hanya bisa jual di warung dan pasar tradisional, dengan revenue terhambat di Rp 5-10 juta/bulan, sementara jutaan wisatawan lewat begitu saja.
 
-**Mini Factory adalah "alat bersama" yang akan unlock seluruh potensi ini.** Dengan akses ke fasilitas CPOTB, UMKM bisa mendapatkan izin BPOM dan naik kelas: dari pedagang informal menjadi entrepreneur bersertifikat, dari revenue Rp 5-10 juta/bulan menjadi Rp 15-40 juta/bulan, dari pasar lokal menjadi pasar nasional (4.4 juta tourists + e-commerce). Untuk Pemkot Solo, ini bukan sekadar investasi infrastruktur—**ini adalah investasi untuk memastikan Solo deliver hasil sebagai pilot project nasional**, meningkatkan pendapatan daerah dari UMKM yang naik kelas, dan memperkuat branding Solo sebagai "Indonesia's Wellness Manufacturing Hub". Dengan investasi Pemkot Rp 300 juta (60% dari total Rp 500M, sisanya CSR Rp 200M), Solo akan mendapatkan economic impact Rp 14.37 miliar di tahun pertama—**ROI 42% dan payback period hanya 2.4 tahun**. Ini adalah win-win-win solution: Pemkot dapat PAD, UMKM naik kelas, dan wisatawan mendapatkan produk herbal berkualitas tinggi.
+**Mini Factory adalah "alat bersama" yang akan membuka potensi seluruh potensi ini.** Dengan akses ke fasilitas CPOTB, UMKM bisa mendapatkan izin BPOM dan naik kelas: dari pedagang informal menjadi entrepreneur bersertifikat, mendapatkan efisiensi biaya produksi 30-40%, dan akses ke pasar nasional. Untuk Pemkot Solo, ini bukan sekadar investasi infrastruktur—**ini adalah investasi untuk memastikan Solo deliver hasil sebagai pilot project nasional**, meningkatkan pendapatan daerah dari sektor hospitality, dan memperkuat branding Solo sebagai "Indonesia's Wellness Manufacturing Hub". Dengan investasi Pemkot Rp 300 juta (60% dari total Rp 500M, sisanya CSR Rp 200M), Solo akan mendapatkan manfaat ekonomi nyata berupa penciptaan lapangan kerja dan ekosistem industri baru—**Serta mencapai operational break-even di tahun pertama**. Ini adalah win-win-win solution: Pemkot dapat benefit ekonomi makro, UMKM naik kelas, dan wisatawan mendapatkan produk herbal berkualitas tinggi.
 
 > **💡 INSIGHT KRITIS:**
 > Solo memiliki **demand** (4.4 juta visitors), **supply** (100+ UMKM), dan **government backing** (pilot project status).
 > Yang hilang hanya satu: **fasilitas produksi yang memungkinkan UMKM naik kelas**.
-> **Mini Factory adalah missing piece yang akan unlock seluruh ekosistem ini.**
+> **Mini Factory adalah missing piece yang akan membuka potensi seluruh ekosistem ini.**
 
 ---
 
@@ -207,45 +207,15 @@ Indonesia bukan hanya "berpotensi" di industri herbal—**Indonesia ADALAH pemai
 
 Bayangkan ada **kue raksasa senilai Rp 220 triliun** di atas meja, dan **6 dari 10 orang Indonesia** (59.6%) sudah suka makan kue ini (konsumsi jamu/herbal). Di Jawa, angkanya lebih tinggi lagi: **7 dari 10 orang** (72%) adalah konsumen aktif. Ini bukan pasar kecil atau niche—**ini adalah pasar mainstream yang tumbuh 7.1% per tahun** dan akan jadi 2x lipat lebih besar dalam 9 tahun ke depan. Yang menarik, **87% dari industri ini dikuasai oleh UMKM**, bukan perusahaan besar seperti Sido Muncul atau Deltomed. Artinya, ini adalah **industri yang memang cocok untuk UMKM**—bukan arena untuk korporasi raksasa.
 
-**Tapi ada masalah besar:** Mayoritas UMKM hanya bisa "gigit pinggiran kue" karena mereka stuck di pasar informal (warung, pasar tradisional). Mereka tidak bisa akses **bagian tengah kue yang paling besar**—minimarket, apotek, e-commerce, hotel, dan 4.4 juta wisatawan Solo—karena tidak punya izin BPOM. **Mini Factory adalah "pisau" yang akan kasih UMKM Solo akses ke bagian tengah kue Rp 220 triliun ini.** Dengan fasilitas CPOTB, mereka bisa dapat izin BPOM, masuk ke pasar formal, dan meng-capture share signifikan dari pasar raksasa ini. Ini bukan tentang "menciptakan pasar baru"—**pasar sudah ada, demand sudah ada, konsumen sudah ada**. Yang dibutuhkan hanya akses ke fasilitas produksi yang proper.
+**Tapi ada masalah besar:** Mayoritas UMKM hanya bisa "gigit pinggiran kue" karena mereka terhambat di pasar informal (warung, pasar tradisional). Mereka tidak bisa akses **bagian tengah kue yang paling besar**—minimarket, apotek, e-commerce, hotel, dan 4.4 juta wisatawan Solo—karena tidak punya izin BPOM. **Mini Factory adalah "pisau" yang akan kasih UMKM Solo akses ke bagian tengah kue Rp 220 triliun ini.** Dengan fasilitas CPOTB, mereka bisa dapat izin BPOM, masuk ke pasar formal, dan meng-capture share signifikan dari pasar raksasa ini. Ini bukan tentang "menciptakan pasar baru"—**pasar sudah ada, demand sudah ada, konsumen sudah ada**. Yang dibutuhkan hanya akses ke fasilitas produksi yang proper.
 
 > **💡 INSIGHT KRITIS:**
-> Pasar Rp 220 triliun didominasi oleh UMKM (87%), tetapi mayoritas UMKM stuck di tahap informal karena tidak bisa akses CPOTB.
+> Pasar Rp 220 triliun didominasi oleh UMKM (87%), tetapi mayoritas UMKM terhambat di tahap informal karena tidak bisa akses CPOTB.
 > **Dengan Mini Factory, Solo dapat meng-capture share signifikan dari pasar ini.**
 
 ---
 
-### 3. Posisi Strategis: Mengisi "Missing Link" Ekosistem Herbal
-
-![Competitive Advantage](images/accessibility_gap_chart_1770184662606.png)
-
-Riset komprehensif memetakan lanskap fasilitas herbal di Solo Raya. Meski Solo memiliki industri jamu yang kuat, terdapat **kekosongan fasilitas (gap)** yang signifikan bagi UMKM pemula:
-
-| Fasilitas Existing                | Layanan                                | Gap/Keterbatasan bagi UMKM                               |
-| --------------------------------- | -------------------------------------- | -------------------------------------------------------- |
-| **Pabrik Besar (IOT/UKOT)** | Produksi massal (Deltomed, Air Mancur) | ❌**High MOQ (Tonase)**, tidak terima maklon kecil |
-| **Poltekkes Surakarta**     | Pendidikan D3 Jamu                     | ❌ Fokus pendidikan, bukan produksi komersial            |
-| **BPVP/BLK Surakarta**      | Pelatihan barista jamu                 | ❌ Hanya training, tanpa fasilitas processing            |
-| **Pasar Jamu Nguter**       | Pasar tradisional                      | ❌ Pusat perdagangan, bukan fasilitas CPOTB              |
-| **Hortus Medicus**          | Klinik saintifikasi                    | ❌ Fokus riset & klinik, bukan maklon produksi           |
-
-**Kesimpulan:** Mini Factory di Solo Technopark akan menjadi **FIRST PUBLIC SHARED FACILITY** (Fasilitas Produksi Bersama berbasis Komunitas) di Jawa Tengah yang didedikasikan untuk **inkubasi bisnis** dengan Low MOQ (Minimum Order Quantity).
-
-**Kenapa Posisi Ini Sangat Penting?**
-
-Bayangkan ekosistem produksi saat ini seperti **"Transportasi Publik vs Kendaraan Pribadi"**. Pabrik-pabrik besar (IOT/UKOT) ibarat **Jet Pribadi atau Bus Carteran**: canggih dan kapasitas besar, tapi mensyaratkan "penumpang" (order) dalam jumlah sangat banyak (moq tonase) yang mustahil dijangkau UMKM rintisan. UMKM saat ini terpaksa jalan kaki (produksi manual di dapur). **Mini Factory hadir sebagai "Bus Trans Solo"**: fasilitas publik yang terstandar, aman, dan bisa dinaiki siapa saja dengan tiket terjangkau (low MOQ). Ini memecahkan *bottleneck* terbesar industri: **aksesibilitas**. Dengan konsep **"Factory Sharing"**, mesin canggih yang biasanya eksklusif milik pabrik besar, kini terdemokratisasi untuk UMKM.
-
-**First mover advantage ini bukan cuma soal "duluan"—ini soal positioning strategis jangka panjang.** Setelah Mini Factory establish dan membantu 100 UMKM mendapatkan izin BPOM, akan sangat sulit bagi kompetitor untuk masuk karena: (1) **Brand loyalty**—UMKM akan setia ke fasilitas yang sudah bantu mereka naik kelas, (2) **Network effects**—semakin banyak UMKM yang join, semakin kuat ekosistemnya (seperti Facebook atau WhatsApp), dan (3) **High barrier to entry**—kompetitor harus invest ratusan juta untuk equipment + sertifikasi CPOTB, sementara kita sudah punya customer base. **Ini seperti "moat" (parit) di sekitar kastil**—melindungi posisi kita dari kompetitor. Untuk Pemkot Solo, ini berarti investasi Rp 300 juta (bersama CSR Rp 200M) sekarang akan mengamankan posisi dominan Solo di industri wellness manufacturing untuk 10-20 tahun ke depan.
-
-> **💡 INSIGHT KRITIS:**First mover advantage dalam industri yang sedang booming = **positioning strategis jangka panjang**.Setelah kita establish, akan sangat sulit bagi kompetitor untuk masuk karena:
->
-> 1. **Brand loyalty** dari 100 UMKM yang kita bantu
-> 2. **Network effects** dari ekosistem yang terbangun
-> 3. **High barrier to entry** (CPOTB certification, equipment investment)
-
----
-
-### 4. Alignment Sempurna dengan Visi Pemerintah
+### 3. Alignment Sempurna dengan Visi Pemerintah
 
 Mini Factory ini **BUKAN ide yang berdiri sendiri**—ini adalah **eksekusi sempurna** dari berbagai program pemerintah yang sudah berjalan:
 
@@ -282,13 +252,13 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ![CPOTB Production Workflow](images/cpotb_production_flow_infographic_1770194424740.png)
 
-**Fasilitas produksi bersama** yang memungkinkan UMKM memproduksi dengan standar CPOTB tanpa harus invest ratusan juta sendiri.
+**Fasilitas produksi bersama** yang memungkinkan UMKM memproduksi dengan standar CPOTB tanpa harus investasikan ratusan juta sendiri.
 
 **Kapasitas:**
 
-- **15,000 kg/tahun** simplisia processed (Year 1) [[Verified: ~20% capacity utilization of Gama Mesin Tech](https://www.gama-mesin.com)]
+- **7,500 kg/tahun** simplisia processed (Ramp-up Tahun 1)
 - **100 UMKM** dapat dilayani secara bergantian
-- **Toll manufacturing model:** UMKM bayar per kg, bukan invest equipment
+- **Toll manufacturing model:** UMKM bayar per kg, bukan investasikan equipment
 
 **Equipment CPOTB-compliant:**
 
@@ -319,7 +289,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 **Target:**
 
 - **200 participants/tahun** (konservatif)
-- **Revenue Rp 360 juta/tahun** dari training
+- **Pendapatan Rp 150 juta/tahun** dari training (Ramp-up Phase)
 - **Multiplier effect:** Trained workers dapat bekerja di 100+ UMKM
 
 ---
@@ -339,9 +309,9 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Target:**
 
-- **3,000 visitors/tahun** (dari 4.4 juta total Solo visitors)
+- **1,500 visitors/tahun** (Ramp-up Target Tahun 1)
 - **Rp 50,000/visitor** (tour + workshop + tasting)
-- **Revenue Rp 150 juta/tahun** dari wellness tourism
+- **Pendapatan Rp 150 juta/tahun** dari wellness tourism
 
 ---
 
@@ -362,7 +332,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 - **UNS (Universitas Sebelas Maret):** Lab facilities, dosen expertise
 - **UMKM:** Traditional knowledge, market insights
-- **Revenue:** Rp 60 juta/tahun (retainer + project-based)
+- **Pendapatan:** Rp 60 juta/tahun (retainer + project-based)
 
 ---
 
@@ -397,12 +367,10 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - **Instagram-worthy spots:** Photo corners dengan backdrop batik panels + tanaman obat.
 - **Visitor experience:** Wisatawan dapat menyentuh, mencium aroma, dan belajar langsung.
 
-
-
 **Fungsi Ganda:**
 
 1. **Edukasi:** Living laboratory untuk workshop & training
-2. **Wellness Tourism:** Attraction untuk 3,000+ visitors/year
+2. **Wellness Tourism:** Attraction untuk 1,500+ visitors/year
 3. **Raw Material:** Sebagian tanaman dapat dipanen untuk demo produksi
 4. **Branding:** Memperkuat positioning sebagai "Solo Wellness Hub"
 
@@ -446,6 +414,38 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ---
 
+### ⚙️ PROSES PRODUKSI: 3 Jalur Terintegrasi
+
+![Production Flow Diagram](images/production_flow_diagram_1770089959855.png)
+
+#### 1️⃣ **Powder Pathway** (Serbuk Jamu)
+
+Bahan Baku → Pencucian → Pengeringan → Grinding → Mixing → Packaging (sachet)
+
+- **Kapasitas:** 50 kg/hari (1,250 kg/bulan)
+- **Produk:** Jamu serbuk tradisional, instant herbal drink
+- **QC checkpoints:** Setiap tahap proses
+
+#### 2️⃣ **Capsule Pathway** (Kapsul Herbal)
+
+Bahan Baku → Pencucian → Pengeringan → Grinding → Extraction → Capsule Filling → Packaging (botol)
+
+- **Kapasitas:** 10,000-12,000 kapsul/jam
+- **Produk:** Suplemen herbal modern, ekstrak terstandar
+- **QC checkpoints:** Identitas bahan, kemurnian ekstrak, uniformity kapsul
+
+#### 3️⃣ **Extract Pathway** (Ekstrak Cair)
+
+Bahan Baku → Pencucian → Extraction → Concentration → Bottling → Packaging
+
+- **Kapasitas:** 200 liter/batch
+- **Produk:** Tincture, liquid extract, concentrated herbal formula
+- **QC checkpoints:** Konsentrasi aktif, mikrobiologi, stabilitas
+
+**Semua jalur bermuara pada:** Produk Bersertifikat BPOM ✅
+
+---
+
 ## 📈 DAMPAK TRANSFORMATIF: Beyond Numbers
 
 ### 1. Pemberdayaan UMKM: Dari Informal ke Formal
@@ -455,7 +455,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - UMKM memproduksi di dapur rumah (tidak CPOTB)
 - Tidak bisa dapat izin edar BPOM
 - Stuck di pasar informal (warung, pasar tradisional)
-- Revenue terbatas karena tidak bisa akses pasar modern
+- Pendapatan terbatas karena tidak bisa akses pasar modern
 - Tidak bisa ekspansi atau akses e-commerce
 
 **Setelah Mini Factory:**
@@ -463,7 +463,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - UMKM produksi di fasilitas CPOTB-certified
 - **Dapat izin edar BPOM** (akses pasar modern)
 - Jual di minimarket, apotek, e-commerce
-- Revenue dapat meningkat signifikan dengan akses pasar formal
+- Pendapatan dapat meningkat signifikan dengan akses pasar formal
 - **Naik kelas** dari mikro ke kecil/menengah
 
 **Impact Multiplier:**
@@ -519,7 +519,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - **Peningkatan Kelas UMKM = Potensi Pendapatan Jangka Panjang:** UMKM yang naik kelas (memiliki izin edar BPOM) akan memiliki pencatatan keuangan yang lebih baik, meningkatkan potensi kontribusi pendapatan daerah yang valid di masa depan.
 - **Branding Kota:** Memperkuat citra Solo sebagai "Wellness Tourism Hub", menarik investasi baru di sektor kesehatan dan pariwisata.
 
-**Total Economic Impact (Year 1):**
+**Total Economic Impact (Tahun 1):**
 
 - **Penciptaan Ekosistem Baru:** Integrasi hulu-hilir (Petani → Produksi → Wisata) yang berkelanjutan.
 - **200+ Lapangan Kerja Valuasi Tinggi:** Menciptakan peluang kerja baru di sektor manufaktur herbal, quality control, dan hospitality.
@@ -530,7 +530,7 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 ### 4. Branding Solo sebagai Indonesia's Wellness Hub
 
-![Solo Wellness Positioning](images/solo_positioning_infographic.png)
+![Solo Wellness Positioning Central Hub](images/solo_hub_central_branding_1770243464969.png)
 
 **Positioning Strategis:**
 
@@ -557,84 +557,54 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 **Kami berkomitmen pada transparency dan accountability.** Berikut adalah framework komprehensif untuk mengukur dan memonitor kesuksesan Mini Factory:
 
-#### Year 1 Milestones (Measurable & Time-bound)
+#### Tahun 1 Milestones (Measurable & Time-bound)
 
-| Quarter | Milestone | Target | Measurement Method |
-|---------|-----------|--------|-------------------|
-| **Q1 2026** | Construction Complete | 100% | Physical inspection + CPOTB denah approval |
-| **Q2 2026** | CPOTB Certification | Approved | BPOM certificate issued |
-| **Q2 2026** | UMKM Onboarding | 30 UMKM | Signed toll manufacturing contracts |
-| **Q3 2026** | Production Start | 3,000 kg processed | Production logs + QC records |
-| **Q4 2026** | BPOM Licenses Issued | 15 UMKM | BPOM database verification |
-| **Q4 2026** | Training Graduates | 100 SDM | BNSP certificates issued |
-| **Q4 2026** | Tourism Visitors | 1,500 visitors | Ticketing system + visitor log |
+| Quarter           | Milestone             | Target             | Measurement Method                            |
+| ----------------- | --------------------- | ------------------ | --------------------------------------------- |
+| **Q1 2026** | Construction Complete | 100%               | Physical inspection + CPOTB denah persetujuan |
+| **Q2 2026** | CPOTB Certification   | Approved           | BPOM certificate issued                       |
+| **Q2 2026** | UMKM Onboarding       | 30 UMKM            | Signed toll manufacturing contracts           |
+| **Q3 2026** | Production Start      | 3,000 kg processed | Production logs + QC records                  |
+| **Q4 2026** | BPOM Licenses Issued  | 15 UMKM            | BPOM database verification                    |
+| **Q4 2026** | Training Graduates    | 100 SDM            | BNSP certificates issued                      |
+| **Q4 2026** | Tourism Visitors      | 1,500 visitors     | Ticketing system + visitor log                |
 
-#### KPIs (Key Performance Indicators) - Monthly Tracking
+#### KPI (Key Performance Indicators) - Realistic Targets
 
 **1. UMKM Empowerment Metrics:**
 
-| KPI | Target Year 1 | Target Year 2 | Measurement |
-|-----|---------------|---------------|-------------|
-| Number of UMKM using facility | 100 | 150 | Active contracts |
-| BPOM licenses obtained | 50 | 100 | BPOM database |
-| Average UMKM revenue increase | 3x baseline | 4x baseline | Quarterly survey |
-| UMKM retention rate | > 80% | > 85% | Contract renewals |
-| New UMKM jobs created | 200 | 350 | Employment survey |
+| KPI                           | Target Tahun 1                     | Target Tahun 2                  | Measurement              |
+| ----------------------------- | ---------------------------------- | ------------------------------- | ------------------------ |
+| Number of UMKM using facility | **50 Mitra Aktif**           | **100 Mitra Aktif**       | Kontrak Aktif            |
+| BPOM licenses obtained        | **25 New Licenses**          | **50 New Licenses**       | BPOM database            |
+| UMKM Efficiency & Margin      | **30-40% Pengurangan Biaya** | **50% Pengurangan Biaya** | Production cost analysis |
+| New UMKM jobs created         | 100 Jobs                           | 200 Jobs                        | Employment survey        |
 
 **2. Financial Sustainability Metrics:**
 
-| KPI | Target Year 1 | Target Year 2 | Measurement |
-|-----|---------------|---------------|-------------|
-| Monthly revenue | Rp 72.5M/month | Rp 133M/month | Financial statements |
-| Operating margin | 24% | 37% | Profit/Revenue ratio |
-| Customer acquisition cost | < Rp 2M/UMKM | < Rp 1.5M/UMKM | Marketing spend/New UMKM |
-| Revenue per UMKM | Rp 4.5M/year | Rp 7.2M/year | Revenue/Active UMKM |
-| Break-even status | Month 24 | Profitable | Cumulative cash flow |
+| KPI                      | Target Tahun 1 (End)             | Target Tahun 2 (End) | Measurement           |
+| ------------------------ | -------------------------------- | -------------------- | --------------------- |
+| Monthly revenue run-rate | Rp 50M/month                     | Rp 85M/month         | Financial statements  |
+| Operating margin         | **Break-even Operasional** | > 15-20%             | Rasio Laba/Pendapatan |
+| Pendapatan per UMKM      | **Rp 5M/year**             | **Rp 8M/year** | Pendapatan/UMKM Aktif |
+| Break-even status        | Month 30-36                      | Profitable           | Cumulative cash flow  |
 
 **3. Training & Certification Metrics:**
 
-| KPI | Target Year 1 | Target Year 2 | Measurement |
-|-----|---------------|---------------|-------------|
-| BNSP certificates issued | 200 | 300 | Certificate database |
-| Training satisfaction score | > 4.5/5 | > 4.7/5 | Post-training survey |
-| Employment rate of graduates | > 80% | > 85% | 3-month follow-up survey |
-| Repeat training customers | > 30% | > 40% | Registration records |
+| KPI                          | Target Tahun 1 | Target Tahun 2 | Measurement              |
+| ---------------------------- | -------------- | -------------- | ------------------------ |
+| BNSP certificates issued     | 100            | 200            | Certificate database     |
+| Employment rate of graduates | > 75%          | > 80%          | 3-month follow-up survey |
+| Repeat training customers    | > 30%          | > 40%          | Registration records     |
 
 **4. Tourism Impact Metrics:**
 
-| KPI | Target Year 1 | Target Year 2 | Measurement |
-|-----|---------------|---------------|-------------|
-| Visitor count | 3,000 | 5,000 | Ticketing system |
-| Average spending per visitor | Rp 500k | Rp 600k | Sales data + survey |
-| Visitor satisfaction score | > 4.3/5 | > 4.5/5 | Exit survey |
-| Repeat visitor rate | > 25% | > 30% | Visitor database |
-| Social media engagement | 10k followers | 25k followers | Instagram/Facebook analytics |
-
-#### Quarterly Review Process
-
-**Governance Structure:**
-
-1. **Steering Committee** (meets quarterly)
-   - **Members:** Pemkot Solo (Dinas Koperasi & UKM), Solo Technopark, CSR partners, UNS representative, UMKM representative
-   - **Role:** Strategic direction, budget approval, policy decisions
-
-2. **Management Team** (meets monthly)
-   - **Members:** Facility Manager, Production Supervisor, Training Coordinator, Finance Manager
-   - **Role:** Operational execution, KPI tracking, issue resolution
-
-3. **UMKM Advisory Board** (meets bi-annually)
-   - **Members:** 10 elected UMKM representatives
-   - **Role:** Feedback on services, pricing, new program ideas
-
-**Reporting Mechanism:**
-
-- **Monthly Dashboard:** KPI tracking (revenue, production volume, training participants, tourism visitors)
-- **Quarterly Report:** Comprehensive report to Steering Committee (financial performance, UMKM success stories, challenges, action plans)
-- **Annual Report:** Public report (accountability to Pemkot, CSR partners, and community)
-  - Financial statements (audited)
-  - Impact metrics (UMKM empowered, jobs created, BPOM licenses)
-  - Success stories (case studies dari 5-10 UMKM)
-  - Future plans (Phase 2 expansion, new programs)
+| KPI                                 | Target Tahun 1           | Target Tahun 2           | Measurement                  |
+| ----------------------------------- | ------------------------ | ------------------------ | ---------------------------- |
+| Visitor count                       | **1,500 Visitors** | **3,000 Visitors** | Ticketing system             |
+| Pendapatan per visitor (Ticket+F&B) | **Rp 75.000**      | **Rp 100.000**     | Sales data (In-house)        |
+| Visitor satisfaction score          | > 4.5/5                  | > 4.7/5                  | Exit survey                  |
+| Social media engagement             | 5k followers             | 15k followers            | Instagram/Facebook analytics |
 
 **Data Collection Methods:**
 
@@ -645,21 +615,6 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 - ✅ **UMKM surveys:** Quarterly survey (revenue, employment, satisfaction, challenges)
 - ✅ **BPOM tracking:** Monitor UMKM progress in obtaining licenses (6-12 month timeline)
 
-#### Adjustment Triggers
-
-**If KPIs are below target for 2 consecutive quarters:**
-
-- 🔄 **Revenue < 80% target:** Increase marketing, offer promotional pricing, expand UMKM outreach
-- 🔄 **UMKM adoption < 70 UMKM:** Conduct focus groups, adjust pricing, improve service quality
-- 🔄 **Training satisfaction < 4.0/5:** Revise curriculum, change trainers, upgrade facilities
-- 🔄 **Tourism visitors < 2,000:** Partner with more hotels/travel agents, improve marketing, add attractions
-
-> **💡 COMMITMENT TO ACCOUNTABILITY:**  
-> Mini Factory akan **fully transparent** dengan Pemkot Solo dan CSR partners.  
-> **Dashboard real-time** akan accessible untuk stakeholders, dan **quarterly reports** akan published.  
-> Jika performance tidak sesuai target, kami akan **proactively adjust strategy** dan communicate openly.  
-> **Ini bukan "black box"—ini adalah partnership yang accountable.**
-
 ---
 
 ## 💰 MODEL BISNIS & SUSTAINABILITY
@@ -668,94 +623,84 @@ Mini Factory bukan sekadar "pabrik"—ini adalah **ekosistem terintegrasi** yang
 
 Untuk memberikan gambaran holistik bagaimana Mini Factory menciptakan, mengirimkan, dan menangkap nilai, berikut adalah **9 Blok Model Bisnis** kami:
 
-| **Key Partners** (Partner Kunci)                                                                                                                                                                                   | **Key Activities** (Aktivitas Kunci)                                                                                                                                                               | **Value Propositions** (Nilai Lebih)                                                                                                                                                                           | **Customer Relationships** (Hubungan Pelanggan)                                                                                                                                                                                     | **Customer Segments** (Target Pasar)                                                                                                                                                             |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| •**UNS:** Riset, Lab, Tenaga Ahli `<br>`• **Pemkot Surakarta:** Lahan, Regulasi `<br>`• **CSR (Sido Muncul/Deltomed):** Pendanaan, Mentoring `<br>`• **BPOM:** Legalitas & Sertifikasi | •**Produksi Maklon:** Grinding, Filling, Packaging (CPOTB)`<br>`• **Pelatihan:** Sertifikasi BNSP `<br>`• **Wisata:** Edukasi & Tour `<br>`• **R&D:** Formulasi Produk | •**Aksesibilitas:** Fasilitas CPOTB dengan **Low MOQ** (Bisa Eceran)`<br>`• **Legalitas:** Jembatan menuju izin edar BPOM `<br>`• **One-Stop:** Produksi + Izin + R&D dalam satu atap | •**Community Based:** Kemitraan erat dengan PARESO `<br>`• **Consultative:** Pendampingan teknis & bisnis `<br>`• **Long-term Contract:** Untuk UMKM scale-up                                                    | •**Primer:** UMKM Herbal Solo Raya (Butuh legalitas)`<br>`• **Sekunder:** Wisatawan Wellness (Cari experience)`<br>`• **Tersier:** Pencari Kerja/Mahasiswa (Cari sertifikasi) |
-|                                                                                                                                                                                                                          | **Key Resources** (Sumber Daya)                                                                                                                                                                    |                                                                                                                                                                                                                      | **Channels** (Saluran)                                                                                                                                                                                                              |                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                          | •**Fasilitas:** Gedung & Mesin CPOTB `<br>`• **SDM:** Apoteker & Trainer BNSP `<br>`• **Network:** Ekosistem Solo Technopark                                                    |                                                                                                                                                                                                                      | •**Komunitas PARESO** (Direct) `<br>`• **Dinas Koperasi & UKM** (Referral)`<br>`• **Travel Agent & Hotel** (Tourism)`<br>`• **Digital:** Website & Sosmed<br />`<br> dinas pariwisata Kota Surakarta` |                                                                                                                                                                                                        |
-
-| **Cost Structure** (Struktur Biaya) | **Revenue Streams** (Arus Pendapatan) |
-| :---------------------------------------- | :------------------------------------------ |
-
-![Business Model Canvas](images/business_model_canvas_1770184717629.png)
+<img src="images/business_model_canvas_realistic.png" alt="Business Model Canvas" width="100%" />
 
 ---
 
-### Revenue Streams (4 Pilar)
+### Pendapatan Streams (4 Pilar)
 
-![Revenue Model Canvas](images/revenue_model_canvas_1770089852970.png)
+### Pendapatan Streams (4 Pilar)
+
+<img src="images/revenue_model_realistic.png" alt="Pendapatan Model Realistic" width="100%" />
 
 #### 1️⃣ **Toll Manufacturing** (Factory-as-a-Service)
 
-- **Pricing:** Rp 30,000/kg [Verified vs market Rp 40-80k - Gama Mesin; PT Margamas, 2026]
-- **Target:** 100 UMKM PARESO + UMKM lain di Solo/Jateng [PARESO, 2024]
-- **Volume:** 1,250 kg/bulan × 12 bulan = 15,000 kg/tahun [Conservative estimate]
-- **Revenue Year 1:** Rp 450 juta
+- **Pricing:** Rp 30,000/kg (Competitive pricing for UMKM)
+- **Target:** 50 Mitra Aktif (Ramp-up Phase)
+- **Volume:** 7,500 kg (Asumsi operasi efektif 6 bulan di Tahun 1)
+- **Pendapatan Tahun 1:** **Rp 225 juta**
 
 #### 2️⃣ **BNSP Training & Certification**
 
-- **Pricing:** Rp 1.5-2 juta/participant [[Comparative: Market Rate ~Rp 4 juta, 2025](https://bmdstreet.com/training-cpotb-gmp-obat-tradisional-bpom)]
-- **Program:** Pengolah Herbal, QC Herbal, CPOTB Compliance
-- **Target:** 200 participants/tahun (konservatif)
-- **Revenue Year 1:** Rp 360 juta
+- **Pricing:** Rp 1.5-2 juta/participant
+- **Target:** 100 participants (4 batch × 25 orang)
+- **Pendapatan Tahun 1:** **Rp 150 juta**
 
 #### 3️⃣ **Wellness Tourism**
 
-- **Pricing:** Rp 50,000/visitor (tour + workshop + tasting)
-- **Target:** 3,000 visitors/tahun (dari 4.4M total Solo visitors)
-- **Partnership:** Hotel, travel agent, Keraton Solo, WIW events
-- **Revenue Year 1:** Rp 150 juta
+- **Pendapatan per Visitor:** Rp 50,000 (Ticket + Workshop basic)
+- **Target:** 1,500 visitors (Asumsi opening di Q3 2026)
+- **Pendapatan Tahun 1:** **Rp 75 juta**
 
 #### 4️⃣ **Product Development & R&D**
 
-- **Services:** Formulasi produk, stability study, BPOM registration support
-- **Partnership:** UNS (lab, dosen), UMKM (co-creation)
-- **Revenue Year 1:** Rp 60 juta (retainer + project-based)
+- **Services:** Formulasi produk dasar & konsultasi
+- **Target:** 5-10 project awal
+- **Pendapatan Tahun 1:** **Rp 30 juta**
 
-**Total Year 1 Revenue (PROJECTED):** **Rp 870 juta** (conservative estimate)  
-**Total Year 1 Net Profit (PROJECTED):** **Rp 210 juta** (after operational costs)  
-**ROI Year 1 (PROJECTED):** **42%**
+**Total Tahun 1 Pendapatan (REALISTIC):** **Rp 480 juta** (Ramp-up Phase)
+**Total Tahun 1 Laba Bersih:** **(Break-even / Laba Kecil)**
+**Focus:** Operational Stability & Market Penetration (Pertumbuhan Laba in Tahun 2)
 
-> **📌 DISCLAIMER - FINANCIAL PROJECTIONS:**  
-> Semua angka revenue, profit, dan ROI di atas adalah **PROYEKSI** berdasarkan assumptions konservatif, BUKAN data historical atau guaranteed returns. Actual results akan tergantung pada:  
-> - UMKM adoption rate (target: 100 UMKM)  
-> - Training participant volume (target: 200/year)  
-> - Tourism visitor count (target: 3,000/year)  
-> - Market conditions dan competitive landscape  
->  
+> **📌 DISCLAIMER - FINANCIAL PROJECTIONS:**Semua angka revenue, profit, dan ROI di atas adalah **PROYEKSI** berdasarkan assumptions konservatif, BUKAN data historical atau guaranteed returns. Actual results akan tergantung pada:
+>
+> - UMKM adoption rate (target: 100 UMKM)
+> - Training participant volume (target: 200/year)
+> - Tourism visitor count (target: 1,500/year)
+> - Market conditions dan competitive landscape
+>
 > **Lihat Sensitivity Analysis di bagian Risk Mitigation** untuk best/base/worst case scenarios.
 
 **Kenapa Model Bisnis Ini Sustainable (Berkelanjutan)?**
 
-Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—bukan kantor, tapi fasilitas produksi yang bisa disewa per kilogram. UMKM tidak perlu invest ratusan juta untuk bangun pabrik sendiri; mereka cukup bayar **Rp 30,000/kg** untuk produksi di fasilitas CPOTB kita (jauh lebih murah dari market rate Rp 40-80k/kg). Ini adalah **"Toll Manufacturing"** (pabrik sewaan), yang menghasilkan Rp 450 juta di tahun pertama. Tapi Mini Factory tidak cuma mengandalkan satu sumber income—ada **4 pilar revenue** yang saling menguatkan: (1) Toll Manufacturing (Rp 450M), (2) Training BNSP (Rp 360M—200 orang × Rp 1.8M), (3) Wellness Tourism (Rp 150M—3,000 wisatawan × Rp 50k), dan (4) R&D services (Rp 60M). **Total: Rp 870 juta revenue, Rp 210 juta net profit di tahun pertama.**
+Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—bukan kantor, tapi fasilitas produksi yang bisa disewa per kilogram. UMKM tidak perlu investasikan ratusan juta untuk bangun pabrik sendiri; mereka cukup bayar **Rp 30,000/kg** untuk produksi di fasilitas CPOTB kita (jauh lebih murah dari market rate Rp 40-80k/kg). Ini adalah **"Toll Manufacturing"** (pabrik sewaan), yang menjadi backbone revenue di fase awal. Tapi Mini Factory tidak cuma mengandalkan satu sumber income—ada **4 pilar revenue** yang saling menguatkan: (1) Toll Manufacturing (Rp 225M), (2) Training BNSP (Rp 150M—100 orang), (3) Wellness Tourism (Rp 75M—1,500 wisatawan), dan (4) R&D services (Rp 30M). **Total: Rp 480 juta revenue dengan status Break-even Operasional di tahun pertama (Ramp-up Phase).**
 
-**Yang paling penting: model ini self-sustaining (tidak perlu subsidi terus-menerus).** Setelah tahun pertama, Mini Factory sudah bisa operasi sendiri tanpa bantuan pemerintah lagi—bahkan menghasilkan profit yang bisa di-reinvest untuk upgrade equipment (misalnya, beli mesin kapsul filling atau ekstraksi herbal di tahun ke-2). **ROI 42% di tahun pertama** berarti setiap Rp 100 yang diinvest, akan kembali Rp 42 dalam setahun—**payback period hanya 2.4 tahun**. Setelah itu, semua profit bisa masuk ke kas daerah atau di-reinvest untuk ekspansi. Ini bukan "proyek charity" yang butuh subsidi selamanya—**ini adalah bisnis yang profitable dan sustainable**, sambil tetap memberdayakan UMKM. Win-win untuk semua!
+**Yang paling penting: model ini self-sustaining (tidak perlu subsidi terus-menerus).** Setelah tahun pertama (fase ramp-up), Mini Factory akan mencapai stabilitas operasional. Di tahun ke-2, kami menargetkan profitabilitas yang sehat untuk reinvestasi upgrade equipment (misalnya, beli mesin kapsul filling atau ekstraksi herbal). **Target Break-even Operasional di tahun pertama** menunjukkan manajemen kas yang disiplin. Setelah itu, semua profit bisa masuk ke kas daerah atau di-reinvestasikan untuk ekspansi. Ini bukan "proyek charity" yang butuh subsidi selamanya—**ini adalah bisnis yang profitable dan sustainable**, sambil tetap memberdayakan UMKM. Win-win untuk semua!
 
 ---
 
 ### Proyeksi Keuangan 3 Tahun
 
-| Item                        | Tahun 1            | Tahun 2              | Tahun 3              |
-| --------------------------- | ------------------ | -------------------- | -------------------- |
-| **REVENUE**           |                    |                      |                      |
-| Toll Manufacturing          | 450 juta           | 720 juta             | 1,080 juta           |
-| BNSP Training               | 360 juta           | 480 juta             | 600 juta             |
-| Wellness Tourism            | 150 juta           | 300 juta             | 450 juta             |
-| Product Development         | 60 juta            | 100 juta             | 150 juta             |
-| **Total Revenue**     | **870 juta** | **1,600 juta** | **2,280 juta** |
-|                             |                    |                      |                      |
-| **EXPENSES**          |                    |                      |                      |
-| Operational Costs           | 450 juta           | 700 juta             | 950 juta             |
-| Staff Salaries              | 180 juta           | 240 juta             | 300 juta             |
-| Utilities & Maintenance     | 30 juta            | 60 juta              | 80 juta              |
-| **Total Expenses**    | **660 juta** | **1,000 juta** | **1,330 juta** |
-|                             |                    |                      |                      |
-| **NET PROFIT**        | **210 juta** | **600 juta**   | **950 juta**   |
-| **Cumulative Profit** | 210 juta           | 810 juta             | 1,760 juta           |
-| **ROI (Annual)**      | 42%                | 120%                 | 190%                 |
-| **Payback Period**    | 2.4 tahun          | -                    | -                    |
+| Item                       | Tahun 1 (Ramp-up)        | Tahun 2 (Growth)     | Tahun 3 (Scale-up)   |
+| -------------------------- | ------------------------ | -------------------- | -------------------- |
+| **REVENUE**          |                          |                      |                      |
+| Toll Manufacturing         | 225 juta                 | 720 juta             | 1,080 juta           |
+| BNSP Training              | 150 juta                 | 480 juta             | 600 juta             |
+| Wellness Tourism           | 75 juta                  | 300 juta             | 450 juta             |
+| Product Development        | 30 juta                  | 100 juta             | 150 juta             |
+| **Total Pendapatan** | **480 juta**       | **1,600 juta** | **2,280 juta** |
+|                            |                          |                      |                      |
+| **EXPENSES**         |                          |                      |                      |
+| Operational Costs          | 250 juta                 | 700 juta             | 950 juta             |
+| Staff Salaries             | 180 juta                 | 240 juta             | 300 juta             |
+| Utilities & Maintenance    | 50 juta                  | 60 juta              | 80 juta              |
+| **Total Expenses**   | **480 juta**       | **1,000 juta** | **1,330 juta** |
+|                            |                          |                      |                      |
+| **NET PROFIT**       | **0 (Break-even)** | **600 juta**   | **950 juta**   |
+| **ROI (Annual)**     | 0%                       | 120%                 | 190%                 |
+| **Payback Period**   | -                        | 1.8 tahun            | -                    |
 
-**Catatan:** Semua proyeksi di atas adalah **CONSERVATIVE ESTIMATES** berdasarkan assumptions yang realistis. Skenario optimistis (dengan marketing agresif & partnership kuat) dapat mencapai Rp 1.2-1.5 miliar Year 1. **Lihat Sensitivity Analysis** di bagian Risk Mitigation untuk detail best/base/worst case scenarios.
+**Catatan:** Semua proyeksi di atas adalah **CONSERVATIVE ESTIMATES** berdasarkan assumptions yang realistis. Skenario optimistis (dengan marketing agresif & partnership kuat) dapat mencapai Rp 1.2-1.5 miliar Tahun 1. **Lihat Sensitivity Analysis** di bagian Risk Mitigation untuk detail best/base/worst case scenarios.
 
 ---
 
@@ -765,30 +710,31 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 #### Sensitivity Analysis: Best Case vs Base Case vs Worst Case
 
-| Metric | Best Case | Base Case (Konservatif) | Worst Case |
-|--------|-----------|------------------------|------------|
-| **UMKM Adoption** | 120 UMKM | 100 UMKM | 60 UMKM |
-| **Toll Mfg Revenue** | Rp 540M | Rp 450M | Rp 270M |
-| **Training Participants** | 250/year | 200/year | 120/year |
-| **Training Revenue** | Rp 450M | Rp 360M | Rp 216M |
-| **Tourism Visitors** | 4,000 | 3,000 | 1,500 |
-| **Tourism Revenue** | Rp 200M | Rp 150M | Rp 75M |
-| **R&D Revenue** | Rp 100M | Rp 60M | Rp 30M |
-| **TOTAL REVENUE Y1** | **Rp 1.29B** | **Rp 870M** | **Rp 591M** |
-| **NET PROFIT Y1** | **Rp 450M** | **Rp 210M** | **Rp 50M** |
-| **Break-even** | **18 months** | **24 months** | **36 months** |
-| **ROI Year 1** | **90%** | **42%** | **10%** |
+| Metric                          | Best Case (Optimis)   | Base Case (Realistis)   | Worst Case (Pesimis)         |
+| ------------------------------- | --------------------- | ----------------------- | ---------------------------- |
+| **UMKM Adoption**         | 75 UMKM               | 50 Aktif UMKM           | 30 UMKM                      |
+| **Toll Mfg Pendapatan**   | Rp 350M               | Rp 225M                 | Rp 135M                      |
+| **Training Participants** | 150/year              | 100/year                | 50/year                      |
+| **Training Pendapatan**   | Rp 225M               | Rp 150M                 | Rp 75M                       |
+| **Tourism Visitors**      | 2,500                 | 1,500                   | 800                          |
+| **Tourism Pendapatan**    | Rp 125M               | Rp 75M                  | Rp 40M                       |
+| **R&D Pendapatan**        | Rp 50M                | Rp 30M                  | Rp 15M                       |
+| **TOTAL REVENUE Y1**      | **Rp 750 Juta** | **Rp 480 Juta**   | **Rp 265 Juta**        |
+| **NET PROFIT Y1**         | **Rp 150 Juta** | **Break-even**    | **(Loss Rp 100 Juta)** |
+| **Break-even**            | **18 months**   | **Tahun 1 (Ops)** | **Tahun 2 (Ops)**      |
+| **ROI Tahun 1**           | **Positive**    | **0% (Services)** | **Negative**           |
 
-**Kesimpulan:** Bahkan dalam **worst case scenario** (hanya 60 UMKM adopt, tourism 50% dari target), Mini Factory tetap **profitable** dengan Rp 50M net profit dan break-even dalam 3 tahun. **Risk downside terbatas, upside sangat besar.**
+**Kesimpulan:** Dengan skenario **Base Case**, Mini Factory mencapai **Break-even Operasional** di tahun pertama. Fokus tahun pertama adalah **Market Penetration** dan **Operational Stability**, bukan profit maksimal. Labaabilitas signifikan ditargetkan mulai Tahun 2.
 
 #### Key Risks & Mitigation Strategies
 
 **1. RISK: Low UMKM Adoption (< 60 UMKM)**
 
-**Likelihood:** LOW (15%)  
+**Likelihood:** LOW (15%)
 **Impact:** MEDIUM (revenue turun 30-40%)
 
 **Mitigation:**
+
 - ✅ **Pre-commitment strategy:** Secure MoU dari 50 UMKM SEBELUM grand opening (target: Q2 2026)
 - ✅ **Partnership dengan BPUM Solo:** Referral program untuk UMKM yang dapat bantuan Rp 1.2 juta
 - ✅ **Subsidi awal:** First 3 months toll manufacturing Rp 25k/kg (vs normal Rp 30k) untuk early adopters
@@ -796,10 +742,11 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 **2. RISK: Regulatory Delays (CPOTB Certification > 12 bulan)**
 
-**Likelihood:** MEDIUM (30%)  
+**Likelihood:** MEDIUM (30%)
 **Impact:** HIGH (delay revenue 6-12 bulan)
 
 **Mitigation:**
+
 - ✅ **Hire ex-BPOM consultant:** Fast-track application process (budget Rp 20M sudah allocated)
 - ✅ **Parallel construction:** Start building SAMBIL aplikasi CPOTB (save 3-6 months)
 - ✅ **BPOM SIPEMANDU program:** Free mentoring untuk compliance [[BPOM, 2025](https://www.pom.go.id/umkm)]
@@ -807,10 +754,11 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 **3. RISK: Equipment Breakdown atau Maintenance Issues**
 
-**Likelihood:** MEDIUM (25%)  
+**Likelihood:** MEDIUM (25%)
 **Impact:** MEDIUM (production downtime 1-2 minggu)
 
 **Mitigation:**
+
 - ✅ **Maintenance contract:** Included dengan supplier (Gama Mesin, PT Margamas) - budget Rp 10M/year
 - ✅ **Insurance coverage:** Equipment insurance untuk critical machinery (Rp 5M/year premium)
 - ✅ **Backup plan:** Partnership dengan pabrik besar (Deltomed/Air Mancur) untuk emergency production
@@ -818,12 +766,13 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 **4. RISK: CSR Funding Tidak Terealisasi (< Rp 200M)**
 
-**Likelihood:** MEDIUM (35%)  
+**Likelihood:** MEDIUM (35%)
 **Impact:** MEDIUM (harus scale down Phase 1)
 
 **Mitigation:**
+
 - ✅ **Pemkot commit first:** Rp 300M (60%) dari Pemkot HARUS secure dulu sebelum CSR
-- ✅ **Phased approach:** 
+- ✅ **Phased approach:**
   - **Phase 1A (Rp 300M Pemkot only):** Core production facility (grinding, mixing, filling) + training room
   - **Phase 1B (+ Rp 200M CSR):** Advanced equipment (extraction, capsule filling) + wellness tourism garden
 - ✅ **Alternative funding:** Bank loan Rp 100-150M dengan collateral facility asset (interest rate 8-10%/year)
@@ -831,38 +780,35 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 **5. RISK: Future Competition dari Kota Lain**
 
-**Likelihood:** MEDIUM (40% dalam 2-3 tahun)  
+**Likelihood:** MEDIUM (40% dalam 2-3 tahun)
 **Impact:** LOW (market Jawa Tengah cukup besar untuk 2-3 players)
 
 **Mitigation:**
+
 - ✅ **First mover advantage:** Establish 100 UMKM base dan brand recognition SEBELUM kompetitor masuk
 - ✅ **Brand loyalty:** UMKM akan setia ke fasilitas yang PERTAMA bantu mereka naik kelas
 - ✅ **Network effects:** Semakin banyak UMKM, semakin kuat ekosistem (switching cost tinggi)
 - ✅ **Continuous innovation:** R&D partnership dengan UNS untuk product development edge
 - ✅ **Geographic focus:** Solo Raya (Solo + Karanganyar + Sukoharjo + Boyolali, radius 50km) = 200+ UMKM potential
 
-#### Contingency Budget (10% Reserve)
+#### Contingency Anggaran (10% Reserve)
 
-| Contingency Item | Budget Allocated |
-|------------------|------------------|
-| Regulatory delays (consultant, legal) | Rp 20 juta |
-| Equipment emergency repair | Rp 15 juta |
-| Marketing boost (if adoption slow) | Rp 10 juta |
-| Operational buffer | Rp 5 juta |
-| **TOTAL CONTINGENCY** | **Rp 50 juta** (10% of Rp 500M) |
+| Contingency Item                      | Anggaran Allocated                    |
+| ------------------------------------- | ------------------------------------- |
+| Regulatory delays (consultant, legal) | Rp 20 juta                            |
+| Equipment emergency repair            | Rp 15 juta                            |
+| Marketing boost (if adoption slow)    | Rp 10 juta                            |
+| Operational buffer                    | Rp 5 juta                             |
+| **TOTAL CONTINGENCY**           | **Rp 50 juta** (10% of Rp 500M) |
 
-> **💡 INSIGHT KRITIS:**  
-> Kami sudah **think through semua risks** dan punya **concrete mitigation plan** untuk setiap scenario.  
-> Bahkan dalam **worst case** (60 UMKM, delay 6 bulan, CSR hanya Rp 100M), Mini Factory tetap **viable dan profitable**.  
+> **💡 INSIGHT KRITIS:**
+> Kami sudah **think through semua risks** dan punya **concrete mitigation plan** untuk setiap scenario.
+> Bahkan dalam **worst case** (60 UMKM, delay 6 bulan, CSR hanya Rp 100M), Mini Factory tetap **viable dan profitable**.
 > **Ini bukan "blind optimism"—ini adalah calculated risk dengan downside protection.**
 
 ---
 
 ## 🏛️ DUKUNGAN PEMERINTAH & PARTNERSHIPS
-
-### Dukungan Pemerintah Terverifikasi (Rp 200-400 Juta)
-
-![Government Support Chart](images/government_support_optional_1770184609702.png)
 
 ![Funding Structure](images/funding_structure_chart_1770184564316.png)
 
@@ -903,19 +849,19 @@ Bayangkan Mini Factory seperti **"co-working space" untuk produksi jamu**—buka
 
 **Struktur Pendanaan Realistis: 2 Sumber Cash**
 
-Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan difokuskan pada **2 sumber cash yang pasti**: (1) **Pemkot Surakarta Rp 300 juta** (60% dari APBD), dan (2) **CSR Perusahaan Rp 200 juta** (40% dari PT Sido Muncul, Deltomed, Air Mancur, dan perusahaan herbal lainnya yang sudah punya track record mendukung UMKM). **Total: Rp 500 juta, 100% cash, 0% pinjaman.** Struktur ini membuat proposal tidak bergantung pada approval government grants yang uncertain timeline-nya.
+Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan difokuskan pada **2 sumber cash yang pasti**: (1) **Pemkot Surakarta Rp 300 juta** (60% dari APBD), dan (2) **CSR Perusahaan Rp 200 juta** (40% dari PT Sido Muncul, Deltomed, Air Mancur, dan perusahaan herbal lainnya yang sudah punya track record mendukung UMKM). **Total: Rp 500 juta, 100% cash, 0% pinjaman.** Struktur ini membuat proposal tidak bergantung pada persetujuan government grants yang uncertain timeline-nya.
 
-**Government grants dari Kemenperin, Solo Technopark, BPUM, dan BPOM (total Rp 240-330 juta) tetap bisa diakses**, tetapi diperlakukan sebagai **"bonus/support tambahan"** yang bisa digunakan untuk: (1) Mengurangi operational costs tahun pertama, (2) Mempercepat Phase 2 expansion (beli mesin kapsul filling & ekstraksi herbal), atau (3) Subsidi training untuk UMKM. **Dengan cara ini, Mini Factory bisa langsung jalan dengan Rp 500M cash**, dan government grants menjadi "icing on the cake" yang mempercepat growth—bukan dependency yang bikin project stuck kalau grants tidak approve. **Ini adalah struktur funding yang paling realistis dan executable untuk Pemkot Solo.**
+**Government grants dari Kemenperin, Solo Technopark, BPUM, dan BPOM (total Rp 240-330 juta) tetap bisa diakses**, tetapi diperlakukan sebagai **"bonus/support tambahan"** yang bisa digunakan untuk: (1) Mengurangi operational costs tahun pertama, (2) Mempercepat Phase 2 expansion (beli mesin kapsul filling & ekstraksi herbal), atau (3) Subsidi training untuk UMKM. **Dengan cara ini, Mini Factory bisa langsung jalan dengan Rp 500M cash**, dan government grants menjadi "icing on the cake" yang mempercepat pertumbuhan—bukan dependency yang bikin project terhambat kalau grants tidak approve. **Ini adalah struktur funding yang paling realistis dan executable untuk Pemkot Solo.**
 
 ---
 
 ### CSR Partnerships (Target: Rp 200 Juta = 40% Total Funding)
 
-**Status:** Active discussions dengan 3 perusahaan herbal terkemuka
+**Status:** Aktif discussions dengan 3 perusahaan herbal terkemuka
 
 #### 1️⃣ **PT Sido Muncul - Program PROAKTIF** ⭐⭐⭐
 
-**Program:** "Orang Tua Angkat UMKM Kolaboratif" (kolaborasi dengan BPOM) [[Sido Muncul Sustainability Report, 2024](https://investor.sidomuncul.co.id/misc/sr/SR-2024.pdf)]
+**Program:** "Orang Tua Angkat UMKM Kolaboratif" (kolaborasi dengan BPOM) [[Sido Muncul Sustainability Report, 2024](https://investasikanor.sidomuncul.co.id/misc/sr/SR-2024.pdf)]
 
 **Track Record:**
 
@@ -1010,7 +956,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 ### Gantt Chart - 12 Bulan
 
 > **🚀 TIMELINE ASSURANCE:**
-> Dengan struktur pendanaan **100% Cash (Pemkot + CSR)**, proyek ini **Executable Immediately** setelah approval APBD. Tidak ada *waiting period* untuk persetujuan hibah pusat yang seringkali memakan waktu 3-6 bulan. Timeline di bawah adalah jadwal agresif namun realistis yang bisa segera dieksekusi.
+> Dengan struktur pendanaan **100% Cash (Pemkot + CSR)**, proyek ini **Executable Immediately** setelah persetujuan APBD. Tidak ada *waiting period* untuk persetujuan hibah pusat yang seringkali memakan waktu 3-6 bulan. Timeline di bawah adalah jadwal agresif namun realistis yang bisa segera dieksekusi.
 
 | Fase                              | Bulan 1-3        | Bulan 4-6                | Bulan 7-9        | Bulan 10-12 |
 | --------------------------------- | ---------------- | ------------------------ | ---------------- | ----------- |
@@ -1056,7 +1002,6 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 | - Grinding/milling machines              | 50-60 kg/hour capacity                  | 30,000,000            |
 | - Herbal extraction equipment            | 200L batch capacity                     | 60,000,000            |
 | - Powder mixing machines                 | 50 kg capacity                          | 20,000,000            |
-| - Capsule filling machines               | Semi-auto, 10k-12k caps/hour            | 40,000,000            |
 | - Sachet filling & sealing               | Powder/liquid capability                | 30,000,000            |
 | - QC lab equipment                       | Microscopes, balances, testing kits     | 20,000,000            |
 | **TOTAL INVESTASI**                |                                         | **500,000,000** |
@@ -1077,7 +1022,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 **Struktur:** **100% Cash, 0% Pinjaman** (no debt burden)
 
 > **💡 CATATAN PENTING:**
-> Government grants dari Kemenperin, Solo Technopark, BPUM, dan BPOM **tetap bisa diakses** sebagai **bonus/support tambahan** untuk operational costs atau Phase 2 expansion, tetapi **TIDAK dihitung** sebagai sumber pendanaan utama investasi awal. Ini membuat proposal lebih realistis dan tidak bergantung pada approval grants yang uncertain.
+> Government grants dari Kemenperin, Solo Technopark, BPUM, dan BPOM **tetap bisa diakses** sebagai **bonus/support tambahan** untuk operational costs atau Phase 2 expansion, tetapi **TIDAK dihitung** sebagai sumber pendanaan utama investasi awal. Ini membuat proposal lebih realistis dan tidak bergantung pada persetujuan grants yang uncertain.
 
 ---
 
@@ -1085,14 +1030,14 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 ### Risk Matrix
 
-| Risk                                         | Probability | Impact | Mitigation Strategy                                                                                                                                                             |
-| -------------------------------------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CPOTB certification delay**          | Medium      | High   | - Apply denah 3 months early`<br>`- Hire CPOTB consultant`<br>`- Phased certification (CPOTB Bertahap)                                                                      |
-| **Funding shortfall**                  | Low         | High   | -**100% Cash Secured** (Pemkot + CSR commitments)`<br>`- **Zero dependency** on uncertain grants`<br>`- Scalable phases (bisa jalan dengan operational minimum) |
-| **UMKM adoption slower than expected** | Low         | Medium | - Pre-launch socialization with PARESO`<br>`- Subsidized pricing Year 1`<br>`- Free trial production for first 10 UMKM                                                      |
-| **Equipment procurement delay**        | Medium      | Medium | - Order equipment during construction`<br>`- Local suppliers (Gama Mesin, PT Margamas)`<br>`- Backup suppliers identified                                                   |
-| **Competition from other cities**      | Low         | Low    | - First mover advantage`<br>`- Strong UMKM relationships`<br>`- Unique 4-in-1 model                                                                                         |
-| **Regulatory changes**                 | Low         | Medium | - Close coordination with BPOM`<br>`- Flexible facility design`<br>`- Regular compliance audits                                                                             |
+| Risk                                         | Probability | Impact | Mitigation Strategy                                                                                                                                                              |
+| -------------------------------------------- | ----------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CPOTB certification delay**          | Medium      | High   | - Apply denah 3 months early `<br>`- Hire CPOTB consultant `<br>`- Phased certification (CPOTB Bertahap)                                                                     |
+| **Funding shortfall**                  | Low         | High   | -**100% Cash Secured** (Pemkot + CSR commitments)`<br>`- **Zero dependency** on uncertain grants `<br>`- Scalable phases (bisa jalan dengan operational minimum) |
+| **UMKM adoption slower than expected** | Low         | Medium | - Pre-launch socialization with PARESO `<br>`- Subsidized pricing Tahun 1 `<br>`- Free trial production for first 10 UMKM                                                    |
+| **Equipment procurement delay**        | Medium      | Medium | - Order equipment during construction `<br>`- Local suppliers (Gama Mesin, PT Margamas)`<br>`- Backup suppliers identified                                                   |
+| **Competition from other cities**      | Low         | Low    | - First mover advantage `<br>`- Strong UMKM relationships `<br>`- Unique 4-in-1 model                                                                                        |
+| **Regulatory changes**                 | Low         | Medium | - Close coordination with BPOM `<br>`- Flexible facility design `<br>`- Regular compliance audits                                                                            |
 
 **Overall Risk Level:** **LOW-MEDIUM** (well-mitigated)
 
@@ -1110,8 +1055,8 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 **2. Low Risk, High Return:**
 
-- **ROI 42% Year 1** (konservatif)
-- **Payback 2.4 tahun**
+- **Break-even Operasional Tahun 1** (konservatif)
+- **Payback ~3 tahun**
 - **Self-sustaining** model (tidak perlu subsidi berkelanjutan)
 
 **3. Multi-Stakeholder Win:**
@@ -1136,7 +1081,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 **6. Proven Model:**
 
-- Klaster Nguter: 300-400% sales growth dengan dukungan fasilitas
+- Klaster Nguter: 300-400% sales pertumbuhan dengan dukungan fasilitas
 - BB POM Semarang: 73% CPOTB certification success rate
 - Toll manufacturing model validated globally
 
@@ -1164,7 +1109,7 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 
 🚀 **Positioning sebagai Indonesia's Wellness Manufacturing Hub**
 
-💰 **Rp 14.37 miliar economic impact** Year 1
+💰 **200+ Lapangan Kerja & Ekosistem Baru**
 
 👥 **315+ jobs created** (15 direct + 300 indirect)
 
@@ -1186,38 +1131,6 @@ Untuk memastikan proposal ini **realistis dan executable**, struktur pendanaan d
 **Confidence Level: 95%** | **Februari 2026**
 
 </div>
-
----
-
-## ⚙️ PROSES PRODUKSI: 3 Jalur Terintegrasi
-
-![Production Flow Diagram](images/production_flow_diagram_1770089959855.png)
-
-### 1️⃣ **Powder Pathway** (Serbuk Jamu)
-
-Bahan Baku → Pencucian → Pengeringan → Grinding → Mixing → Packaging (sachet)
-
-- **Kapasitas:** 50 kg/hari (1,250 kg/bulan)
-- **Produk:** Jamu serbuk tradisional, instant herbal drink
-- **QC checkpoints:** Setiap tahap proses
-
-### 2️⃣ **Capsule Pathway** (Kapsul Herbal)
-
-Bahan Baku → Pencucian → Pengeringan → Grinding → Extraction → Capsule Filling → Packaging (botol)
-
-- **Kapasitas:** 10,000-12,000 kapsul/jam
-- **Produk:** Suplemen herbal modern, ekstrak terstandar
-- **QC checkpoints:** Identitas bahan, kemurnian ekstrak, uniformity kapsul
-
-### 3️⃣ **Extract Pathway** (Ekstrak Cair)
-
-Bahan Baku → Pencucian → Extraction → Concentration → Bottling → Packaging
-
-- **Kapasitas:** 200 liter/batch
-- **Produk:** Tincture, liquid extract, concentrated herbal formula
-- **QC checkpoints:** Konsentrasi aktif, mikrobiologi, stabilitas
-
-**Semua jalur bermuara pada:** Produk Bersertifikat BPOM ✅
 
 ---
 
@@ -1488,3 +1401,22 @@ Bahan Baku → Pencucian → Extraction → Concentration → Bottling → Packa
 
 **Tanggal Verifikasi:** Februari 2026
 **Metode Research:** Perplexity Pro + Cross-verification with official sources
+
+---
+
+## 📚 LAMPIRAN B: GLOSARIUM ISTILAH PENTING
+
+| Istilah         | Kepanjangan                               | Penjelasan Sederhana                                                                                                        |
+| --------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **CPOTB** | Cara Pembuatan Obat Tradisional yang Baik | Standar kebersihan dan kualitas produksi yang diwajibkan pemerintah untuk produk jamu/herbal agar bisa dapat izin edar BPOM |
+| **UMKM**  | Usaha Mikro Kecil Menengah                | Pengusaha kecil seperti produsen jamu rumahan, warung herbal, dll                                                           |
+| **BPOM**  | Badan Pengawas Obat dan Makanan           | Lembaga pemerintah yang mengawasi keamanan obat, makanan, dan produk kesehatan                                              |
+| **BNSP**  | Badan Nasional Sertifikasi Profesi        | Lembaga yang mengeluarkan sertifikat kompetensi untuk tenaga kerja terlatih                                                 |
+| **OT**    | Obat Tradisional                          | Jamu, herbal, dan produk kesehatan alami Indonesia                                                                          |
+| **QC**    | Quality Control                           | Kontrol kualitas—pengujian untuk memastikan produk aman dan berkualitas                                                    |
+| **R&D**   | Research & Development                    | Riset dan pengembangan produk baru                                                                                          |
+| **ROI**   | Return on Investment                      | Pengembalian investasi—berapa persen keuntungan dari modal yang ditanam                                                    |
+| **CAGR**  | Compound Annual Growth Rate               | Tingkat pertumbuhan rata-rata per tahun                                                                                     |
+| **PAD**   | Pendapatan Asli Daerah                    | Pendapatan pemerintah kota dari retribusi, usaha daerah, dll                                                                |
+| **SDG**   | Sustainable Development Goals             | Tujuan Pembangunan Berkelanjutan PBB                                                                                        |
+| **SDM**   | Sumber Daya Manusia                       | Tenaga kerja terlatih                                                                                                       |
