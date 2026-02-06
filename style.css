@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
 
 :root {
-    --primary-color: #2E7D32; /* Wellness Green */
-    --secondary-color: #1565C0; /* Professional Blue */
-    --accent-color: #EF6C00; /* Energetic Orange */
+    --primary-color: #2E7D32;
+    /* Wellness Green */
+    --secondary-color: #1565C0;
+    /* Professional Blue */
+    --accent-color: #EF6C00;
+    /* Energetic Orange */
     --bg-color: #F5F7FA;
     --text-color: #333;
     --heading-color: #1A1A1A;
@@ -14,21 +17,35 @@ body {
     font-family: 'Inter', sans-serif;
     line-height: 1.6;
     color: var(--text-color);
-    background-color: var(--bg-color);
-    margin: 0;
-    padding: 0;
-}
-
-.container, article {
-    max-width: 900px;
+    background-color: var(--card-bg);
+    /* Body is now the white card */
     margin: 40px auto;
-    background: var(--card-bg);
+    /* Center the card */
     padding: 60px;
+    /* Internal padding */
+    max-width: 900px;
+    /* Constrain width */
     border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
 }
 
-h1, h2, h3, h4, h5, h6 {
+html {
+    background-color: var(--bg-color);
+    /* Background stays gray */
+    padding: 20px;
+    /* Prevention against edge touching on small screens */
+}
+
+/* Remove the unused container class */
+/* .container, article { ... } deleted */
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: var(--heading-color);
     margin-top: 1.5em;
     margin-bottom: 0.5em;
@@ -65,7 +82,7 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     margin: 20px 0;
     display: block;
     margin-left: auto;
@@ -79,7 +96,7 @@ table {
     font-size: 0.95em;
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 thead {
@@ -87,7 +104,8 @@ thead {
     color: #fff;
 }
 
-th, td {
+th,
+td {
     padding: 12px 15px;
     text-align: left;
     border-bottom: 1px solid #ddd;
@@ -119,11 +137,13 @@ hr {
 
 /* Responsive */
 @media (max-width: 768px) {
-    .container, article {
+
+    .container,
+    article {
         padding: 20px;
         margin: 20px;
     }
-    
+
     table {
         display: block;
         overflow-x: auto;
