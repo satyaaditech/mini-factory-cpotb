@@ -180,7 +180,7 @@ table {
 }
 
 thead {
-    background: var(--primary-dark);
+    background: var(--primary-color);
     color: #FFFFFF;
 }
 
