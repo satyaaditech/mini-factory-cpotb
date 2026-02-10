@@ -180,8 +180,8 @@ table {
 }
 
 thead {
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
-    color: white;
+    background: var(--primary-dark);
+    color: #FFFFFF;
 }
 
 th {
@@ -191,6 +191,7 @@ th {
     font-size: 0.95rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    color: #FFFFFF;
 }
 
 td {
