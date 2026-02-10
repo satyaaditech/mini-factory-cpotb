@@ -20,6 +20,8 @@
 **Mini Factory Pengolahan Rempah Solo Technopark**
 **Fasilitas Bersama CPOTB untuk Pemberdayakan UMKM Herbal**
 
+![Solo Wellness Hub Hero](images/solo_wellness_hub_hero.png)
+
 ---
 
 <div align="center">
