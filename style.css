@@ -26,10 +26,10 @@
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: 'Inter', sans-serif;
     line-height: 1.8;
-    color: var(--text-color);
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    color: #000000;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e8f0f8 100%);
     background-attachment: fixed;
     padding: 3rem 1.5rem;
     font-size: 16px;
@@ -114,24 +114,24 @@ p {
     margin-bottom: 1.25rem;
     text-align: justify;
     line-height: 1.9;
-    color: var(--text-color);
+    color: #000000;
 }
 
 p strong {
     font-weight: 600;
-    color: var(--heading-color);
+    color: var(--primary-dark);
 }
 
 /* Links */
 a {
-    color: var(--primary-light);
+    color: var(--primary-color);
     text-decoration: none;
     border-bottom: 2px solid transparent;
     transition: all 0.3s ease;
 }
 
 a:hover {
-    color: var(--primary-color);
+    color: var(--primary-dark);
     border-bottom-color: var(--primary-color);
 }
 
@@ -200,7 +200,7 @@ th {
 td {
     padding: 1rem 1.25rem;
     border-bottom: 1px solid var(--border-color);
-    color: var(--text-color);
+    color: #000000;
 }
 
 tbody tr {
@@ -208,7 +208,7 @@ tbody tr {
 }
 
 tbody tr:hover {
-    background: linear-gradient(90deg, rgba(13, 71, 161, 0.05) 0%, rgba(13, 71, 161, 0.02) 100%);
+    background: linear-gradient(90deg, rgba(74, 144, 226, 0.05) 0%, rgba(74, 144, 226, 0.02) 100%);
     transform: translateX(4px);
 }
 
@@ -261,7 +261,7 @@ blockquote {
     padding: 1.5rem 2rem;
     margin: 2rem 0;
     font-style: italic;
-    background: linear-gradient(135deg, rgba(13, 71, 161, 0.05) 0%, rgba(13, 71, 161, 0.02) 100%);
+    background: linear-gradient(135deg, rgba(74, 144, 226, 0.08) 0%, rgba(74, 144, 226, 0.03) 100%);
     border-radius: 8px;
     box-shadow: var(--shadow-sm);
     position: relative;
@@ -334,7 +334,7 @@ hr::after {
     text-align: center;
     margin-bottom: 3rem;
     padding: 3rem 0;
-    background: linear-gradient(135deg, rgba(13, 71, 161, 0.05) 0%, rgba(25, 118, 210, 0.03) 100%);
+    background: linear-gradient(135deg, rgba(74, 144, 226, 0.08) 0%, rgba(123, 179, 232, 0.05) 100%);
     border-radius: 16px;
     box-shadow: var(--shadow-sm);
 }
@@ -342,13 +342,9 @@ hr::after {
 .title {
     font-family: 'Playfair Display', serif;
     font-size: 3rem;
-    color: var(--primary-color);
+    color: var(--primary-dark);
     margin-bottom: 0;
     font-weight: 700;
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
 }
 
 /* Badge-style icons for checkmarks */
@@ -470,11 +466,11 @@ html {
 
 /* Selection styling */
 ::selection {
-    background: var(--primary-light);
+    background: var(--primary-color);
     color: white;
 }
 
 ::-moz-selection {
-    background: var(--primary-light);
+    background: var(--primary-color);
     color: white;
 }
