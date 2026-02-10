@@ -268,8 +268,8 @@ blockquote {
 }
 
 blockquote::before {
-    content: "" ";
- position: absolute;
+    content: '\201C';
+    position: absolute;
     top: -10px;
     left: 15px;
     font-size: 4rem;
