@@ -191,7 +191,11 @@ th {
     font-size: 0.95rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    color: #FFFFFF;
+    color: #FFFFFF !important;
+}
+
+th strong {
+    color: #FFFFFF !important;
 }
 
 td {
