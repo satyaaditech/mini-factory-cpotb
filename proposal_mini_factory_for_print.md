@@ -14,6 +14,10 @@ Tim Pengelola Mini Factory Solo Technopark
 **Tanggal:**
 Februari 2026
 
+> **ℹ️ CATATAN:** Dokumen ini adalah **Versi Ringkas (Executive Summary)**.
+> Proposal lengkap, detail teknis, dan visualisasi interaktif dapat diakses di:
+> 🔗 **https://satyaaditech.github.io/mini-factory-cpotb/**
+
 ![Solo Wellness Hub Hero](images/solo_wellness_hub_hero.png)
 
 ---
