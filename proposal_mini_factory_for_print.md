@@ -250,6 +250,7 @@ Demikian proposal ini kami ajukan. Atas dukungan dan perhatian Pemerintah Kota S
 **Email:** yermaning9@gmail.com
 **Afiliasi:** Solo Technopark & ToraJava Art Foundation
 **Alamat Kantor:** Kawasan Solo Technopark, Jl. Ki Hajar Dewantara No. 19, Jebres, Surakarta
+**Website:** https://satyaaditech.github.io/mini-factory-cpotb/
 
 ---
 *(Dokumen ini disiapkan untuk tujuan perencanaan dan penganggaran. Detail teknis DED dan spesifikasi mesin akan dituangkan dalam dokumen lampiran terpisah.)*
