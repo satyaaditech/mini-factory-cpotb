@@ -187,9 +187,8 @@ Total kebutuhan investasi adalah **Rp 800.000.000,-** dengan skema pembiayaan ko
 **B. Dana CSR (Rp 500 Juta)**
 *Fokus: Menyiapkan "Isi" (Mesin) agar pabrik bisa beroperasi menghasilkan uang.*
 
-1.  **Mesin Pengolahan (Rp 300 Juta):** Mesin Penepung (Disk Mill/Hammer Mill), Mesin Ekstraktor Herbal, Mesin Mixing (Ribbon Mixer).
-2.  **Mesin Packaging (Rp 100 Juta):** Mesin Filling Kapsul Semi-Otomatis, Mesin Sachet Vertical Packaging.
-3.  **Peralatan Lab & Penunjang (Rp 100 Juta):** Alat gelas lab, timbangan digital presisi, pH meter, mikroskop sederhana, meja kerja stainless steel, rak penyimpanan gudang.
+1.  **Pengadaan Mesin Produksi & Peralatan Pendukung (Rp 500 Juta):**
+    Mencakup pengadaan seluruh lini mesin produksi utama (Disk Mill, Ekstraktor, Ribbon Mixer), mesin packaging (Filling Kapsul & Sachet), serta peralatan laboratorium QC dan perlengkapan penunjang gudang agar fasilitas siap beroperasi (turnkey).
 
 ---
 
